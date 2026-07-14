@@ -1,5 +1,9 @@
-const seniorSubjects = [
+// ===========================
+// SUBJECT LIST
+// ===========================
 
+
+const seniorSubjects = [
 "Physics",
 "Commerce",
 "Government",
@@ -15,12 +19,10 @@ const seniorSubjects = [
 "Agriculture",
 "Mathematics",
 "English Language"
-
 ];
 
 
 const juniorSubjects = [
-
 "Intermediate Science",
 "Home Economics",
 "SCS",
@@ -34,12 +36,10 @@ const juniorSubjects = [
 "CCA",
 "Mathematics",
 "English Studies"
-
 ];
 
 
 const primary4to6Subjects = [
-
 "Basic Science & Tech",
 "Pre-Vocational Studies",
 "Social & Citizenship Studies",
@@ -50,12 +50,10 @@ const primary4to6Subjects = [
 "Nigerian History",
 "Mathematics",
 "English Studies"
-
 ];
 
 
 const primary1to3Subjects = [
-
 "Basic Science",
 "Hand Writing",
 "SCS",
@@ -66,11 +64,16 @@ const primary1to3Subjects = [
 "Nigerian History",
 "Mathematics",
 "English Studies"
-
 ];
 
-function loadSubjects(){
 
+
+// ===========================
+// LOAD SUBJECTS
+// ===========================
+
+
+function loadSubjects(){
 
 let selectedClass =
 document.getElementById("studentClass").value;
@@ -84,75 +87,50 @@ subjectBox.innerHTML =
 "<option>Select Subject</option>";
 
 
-
-let subjects=[];
-
+let list = [];
 
 
 if(selectedClass.includes("SS")){
 
-
-subjects = seniorSubjects;
-
+list = seniorSubjects;
 
 }
-
-
 else if(selectedClass.includes("JSS")){
 
-
-subjects = juniorSubjects;
-
+list = juniorSubjects;
 
 }
-
-
 else if(
-
 selectedClass=="Primary 1" ||
 selectedClass=="Primary 2" ||
 selectedClass=="Primary 3"
-
 ){
 
-
-subjects = primary1to3Subjects;
-
+list = primary1to3Subjects;
 
 }
-
-
 else if(
-
 selectedClass=="Primary 4" ||
 selectedClass=="Primary 5" ||
 selectedClass=="Primary 6"
-
 ){
 
-
-subjects = primary4to6Subjects;
-
+list = primary4to6Subjects;
 
 }
 
 
 
-
-subjects.forEach(function(item){
-
+list.forEach(function(subject){
 
 let option =
 document.createElement("option");
 
+option.value = subject;
 
-option.value=item;
-
-option.textContent=item;
-
+option.textContent = subject;
 
 subjectBox.appendChild(option);
-
 
 });
 
@@ -160,21 +138,30 @@ subjectBox.appendChild(option);
 }
 
 
+
+
+// ===========================
+// EXAM VARIABLES
+// ===========================
+
+
+let examQuestions = [];
+
 let currentQuestion = 0;
 
-let score = 0;
-
-let examQuestions=[];
-
-let timeLeft = 2400; //40 minutes
+let studentAnswers = [];
 
 let timer;
 
+let timeLeft = 2400;
 
 
-// ==========================
-// HOMEPAGE
-// ==========================
+
+
+
+// ===========================
+// START EXAM
+// ===========================
 
 
 function startExam(){
@@ -193,15 +180,9 @@ document.getElementById("subject").value;
 
 
 
-if(
-name=="" ||
-studentClass=="" ||
-subject=="Select Subject"
-){
+if(name=="" || studentClass=="" || subject=="Select Subject"){
 
-alert(
-"Please complete your details"
-);
+alert("Please complete your details");
 
 return;
 
@@ -209,36 +190,22 @@ return;
 
 
 
-localStorage.setItem(
-"name",
-name
-);
+localStorage.setItem("name",name);
 
+localStorage.setItem("class",studentClass);
 
-localStorage.setItem(
-"class",
-studentClass
-);
-
-
-localStorage.setItem(
-"subject",
-subject
-);
+localStorage.setItem("subject",subject);
 
 
 
 document.getElementById("success").style.display="block";
 
 
-setTimeout(()=>{
+setTimeout(function(){
 
-
-location.href="exam.html";
-
+window.location="exam.html";
 
 },800);
-
 
 
 }
@@ -247,34 +214,25 @@ location.href="exam.html";
 
 
 
-// ==========================
+
+// ===========================
 // LOAD EXAM
-// ==========================
+// ===========================
 
 
 function loadExam(){
 
 
-
-document.getElementById(
-"studentName"
-).innerHTML=
+document.getElementById("studentName").textContent =
 localStorage.getItem("name");
 
 
-
-document.getElementById(
-"studentClass"
-).innerHTML=
+document.getElementById("studentClass").textContent =
 localStorage.getItem("class");
 
 
-
-document.getElementById(
-"studentSubject"
-).innerHTML=
+document.getElementById("studentSubject").textContent =
 localStorage.getItem("subject");
-
 
 
 
@@ -287,36 +245,39 @@ localStorage.getItem("subject");
 
 
 
+let bank = questions.filter(function(q){
 
-examQuestions =
-questions.filter(q=>
+return q.class==studentClass &&
+q.subject==subject;
 
-q.class==studentClass &&
-q.subject==subject
-
-);
+});
 
 
 
-// randomize questions
+bank.sort(function(){
 
+return Math.random()-0.5;
 
-examQuestions.sort(
-()=>Math.random()-0.5
-);
+});
 
-
-
-// take maximum 50
 
 
 examQuestions =
-examQuestions.slice(0,50);
+bank.slice(0,50);
 
 
+
+studentAnswers =
+new Array(examQuestions.length).fill("");
+
+
+
+prepareQuestions();
+
+
+createNumbers();
 
 showQuestion();
-
 
 startTimer();
 
@@ -326,12 +287,113 @@ startTimer();
 
 
 
+// ===========================
+// SHUFFLE OPTIONS ONCE
+// ===========================
 
 
-// ==========================
-// DISPLAY QUESTION
-// ==========================
+function prepareQuestions(){
 
+
+examQuestions.forEach(function(q){
+
+
+q.options=[
+
+{
+letter:"a",
+text:q.a
+},
+
+{
+letter:"b",
+text:q.b
+},
+
+{
+letter:"c",
+text:q.c
+},
+
+{
+letter:"d",
+text:q.d
+}
+
+];
+
+
+q.options.sort(function(){
+
+return Math.random()-0.5;
+
+});
+
+
+});
+
+
+}
+
+
+
+
+
+
+// ===========================
+// QUESTION NUMBERS
+// ===========================
+
+
+function createNumbers(){
+
+
+let box =
+document.getElementById("numbers");
+
+
+box.innerHTML="";
+
+
+examQuestions.forEach(function(q,index){
+
+
+let button =
+document.createElement("button");
+
+
+button.textContent=index+1;
+
+
+button.className="number";
+
+
+button.onclick=function(){
+
+currentQuestion=index;
+
+showQuestion();
+
+};
+
+
+box.appendChild(button);
+
+
+});
+
+
+}
+
+
+
+
+
+
+
+// ===========================
+// SHOW QUESTION
+// ===========================
 
 
 function showQuestion(){
@@ -341,76 +403,66 @@ let q =
 examQuestions[currentQuestion];
 
 
-
 let box =
-document.getElementById(
-"questionBox"
-);
+document.getElementById("questionBox");
 
 
 
-box.innerHTML=`
+let html = "";
 
 
-<h2>
-
-Question ${currentQuestion+1}
-of ${examQuestions.length}
-
-</h2>
-
-
-<h3>
-
-${q.question}
-
-</h3>
+html += "<h2>Question "
++(currentQuestion+1)
++" of "
++examQuestions.length+
+"</h2>";
 
 
 
-<label>
-
-<input type="radio" name="answer" value="a">
-
-${q.a}
-
-</label>
-<br>
+html += "<h3>"+q.question+"</h3>";
 
 
-<label>
 
-<input type="radio" name="answer" value="b">
+q.options.forEach(function(option){
 
-${q.b}
 
-</label>
-<br>
+let checked="";
 
+
+if(studentAnswers[currentQuestion]==option.text){
+
+checked="checked";
+
+}
+
+
+
+html += `
 
 <label>
 
-<input type="radio" name="answer" value="c">
+<input type="radio"
+name="answer"
+value="${option.text}"
+${checked}
+onclick="saveAnswer('${option.text}')">
 
-${q.c}
+${option.letter.toUpperCase()}.
+${option.text}
 
 </label>
 
 <br>
-
-
-<label>
-
-<input type="radio" name="answer" value="d">
-
-${q.d}
-
-</label>
-
-
 
 `;
 
+});
+
+
+box.innerHTML=html;
+
+
+updateNumbers();
 
 
 }
@@ -419,64 +471,102 @@ ${q.d}
 
 
 
-// ==========================
-// NEXT QUESTION
-// ==========================
+
+function saveAnswer(answer){
+
+studentAnswers[currentQuestion]=answer;
+
+updateNumbers();
+
+}
+
+
+
+
+
+// ===========================
+// NAVIGATION
+// ===========================
 
 
 function nextQuestion(){
 
 
-
-let selected =
-document.querySelector(
-'input[name="answer"]:checked'
-);
-
-
-
-if(selected){
-
-
-if(
-selected.value ==
-examQuestions[currentQuestion].answer
-){
-
-score++;
-
-}
-
-
-}
-
-
-
+if(currentQuestion < examQuestions.length-1){
 
 currentQuestion++;
 
-
-
-if(
-currentQuestion >= examQuestions.length
-){
-
-
-finishExam();
-
+showQuestion();
 
 }
 
 else{
 
+finishExam();
+
+}
+
+
+}
+
+
+
+function previousQuestion(){
+
+
+if(currentQuestion>0){
+
+currentQuestion--;
 
 showQuestion();
 
+}
+
 
 }
 
 
 
+
+
+
+// ===========================
+// NUMBER COLOUR
+// ===========================
+
+
+function updateNumbers(){
+
+
+let buttons =
+document.querySelectorAll(".number");
+
+
+buttons.forEach(function(btn,index){
+
+
+if(index==currentQuestion){
+
+btn.style.background="#4b2608";
+
+btn.style.color="white";
+
+}
+else if(studentAnswers[index]!=""){
+
+btn.style.background="#c79a32";
+
+}
+else{
+
+btn.style.background="white";
+
+}
+
+
+});
+
+
 }
 
 
@@ -484,21 +574,18 @@ showQuestion();
 
 
 
-
-// ==========================
+// ===========================
 // TIMER
-// ==========================
+// ===========================
 
 
 function startTimer(){
 
 
-
-timer=setInterval(()=>{
+timer=setInterval(function(){
 
 
 timeLeft--;
-
 
 
 let minutes =
@@ -510,15 +597,9 @@ timeLeft%60;
 
 
 
-document.getElementById(
-"timer"
-).innerHTML=
-
-"Time Left: "
-+
+document.getElementById("timer").textContent =
 minutes+
-":"
-+
+":"+
 (seconds<10?"0":"")
 +
 seconds;
@@ -527,20 +608,14 @@ seconds;
 
 if(timeLeft<=0){
 
-
-clearInterval(timer);
-
 finishExam();
 
-
 }
-
 
 
 },1000);
 
 
-
 }
 
 
@@ -548,30 +623,62 @@ finishExam();
 
 
 
-// ==========================
-// FINISH EXAM
-// ==========================
+
+// ===========================
+// SUBMIT
+// ===========================
 
 
 function finishExam(){
 
 
-
-localStorage.setItem(
-"score",
-score
-);
+clearInterval(timer);
 
 
-localStorage.setItem(
-"total",
-examQuestions.length
-);
+let score=0;
 
 
 
-location.href="result.html";
+examQuestions.forEach(function(q,index){
 
+
+
+let answer =
+studentAnswers[index];
+
+
+let correctAnswer =
+q[q.correct];
+
+
+
+let chosen =
+q.options.find(function(option){
+
+return option.text==answer;
+
+});
+
+
+
+if(chosen && chosen.letter==q.correct && answer==correctAnswer){
+
+score++;
+
+}
+
+
+});
+
+
+
+localStorage.setItem("score",score);
+
+localStorage.setItem("total",examQuestions.length);
+
+
+
+window.location="result.html";
 
 
 }
@@ -580,12 +687,9 @@ location.href="result.html";
 
 
 
-
-
-// ==========================
-// RESULT PAGE
-// ==========================
-
+// ===========================
+// RESULT
+// ===========================
 
 
 function loadResult(){
@@ -599,67 +703,27 @@ let total =
 localStorage.getItem("total");
 
 
-let name =
+
+document.getElementById("resultName").textContent =
 localStorage.getItem("name");
 
 
-
-document.getElementById(
-"resultName"
-).innerHTML=
-name;
-
-
-
-document.getElementById(
-"resultScore"
-).innerHTML=
-
-score+
-" / "
-+
-total;
-
-
-
-let percent =
-(score/total)*100;
-
-
-
-if(percent>=50){
-
-document.getElementById(
-"resultMessage"
-).innerHTML=
-"Congratulations!";
-
-}
-
-else{
-
-
-document.getElementById(
-"resultMessage"
-).innerHTML=
-"Keep Practising!";
-
-
-}
+document.getElementById("resultScore").textContent =
+score+" / "+total;
 
 
 
 }
+
 
 
 
 
 function newExam(){
 
-location.href="index.html";
+window.location="index.html";
 
 }
-
 
 
 
@@ -667,20 +731,14 @@ location.href="index.html";
 
 // AUTO RUN
 
-
-if(
-location.pathname.includes("exam.html")
-){
+if(window.location.pathname.includes("exam.html")){
 
 window.onload=loadExam;
 
 }
 
 
-
-if(
-location.pathname.includes("result.html")
-){
+if(window.location.pathname.includes("result.html")){
 
 window.onload=loadResult;
 

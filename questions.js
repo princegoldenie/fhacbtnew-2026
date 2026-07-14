@@ -1,96 +1,82 @@
 const questions = [
 
-
 {
+class: "Primary 5",
+subject: "Mathematics",
 
-class:"Primary 5",
+question: "What is 5 + 5?",
 
-subject:"Mathematics",
+a: "8",
+b: "10",
+c: "12",
+d: "15",
 
-question:
-"What is 5 + 5?",
-
-a:"8",
-
-b:"10",
-
-c:"12",
-
-d:"15",
-
-answer:"b"
+correct: "b"
 
 },
 
 
-
 {
+class: "Primary 5",
+subject: "Mathematics",
 
-class:"Primary 5",
+question: "What is 8 x 5?",
 
-subject:"English Studies",
+a: "30",
+b: "35",
+c: "40",
+d: "45",
 
-question:
-"The opposite of hot is",
-
-a:"Cold",
-
-b:"Warm",
-
-c:"Heat",
-
-d:"Fire",
-
-answer:"a"
+correct: "c"
 
 },
 
 
-
 {
+class: "Primary 5",
+subject: "English Studies",
 
-class:"JSS 1",
+question: "The opposite of hot is",
 
-subject:"Intermediate Science",
+a: "Cold",
+b: "Warm",
+c: "Heat",
+d: "Fire",
 
-question:
-"Plants manufacture food through",
-
-a:"Respiration",
-
-b:"Photosynthesis",
-
-c:"Digestion",
-
-d:"Evaporation",
-
-answer:"b"
+correct: "a"
 
 },
 
 
+{
+class: "JSS 1",
+subject: "Intermediate Science",
+
+question: "Plants make their food through",
+
+a: "Respiration",
+b: "Photosynthesis",
+c: "Digestion",
+d: "Evaporation",
+
+correct: "b"
+
+},
+
 
 {
+class: "SS 1",
+subject: "Physics",
 
-class:"SS 1",
+question: "The unit of force is",
 
-subject:"Physics",
+a: "Joule",
+b: "Newton",
+c: "Watt",
+d: "Volt",
 
-question:
-"The unit of force is",
-
-a:"Joule",
-
-b:"Newton",
-
-c:"Watt",
-
-d:"Volt",
-
-answer:"b"
+correct: "b"
 
 }
-
-
 
 ];

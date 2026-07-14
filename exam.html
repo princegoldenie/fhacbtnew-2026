@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 
 <head>
@@ -7,9 +8,11 @@
 FHA CBT 2026 Examination
 </title>
 
+
 <link rel="stylesheet" href="style.css">
 
 </head>
+
 
 
 <body>
@@ -17,10 +20,12 @@ FHA CBT 2026 Examination
 
 <div class="floating-box box1"></div>
 <div class="floating-box box2"></div>
+<div class="floating-box box3"></div>
 
 
 
 <div class="main-card">
+
 
 
 <h1>
@@ -28,12 +33,14 @@ FIRST HARVARD ACADEMY
 </h1>
 
 
-<h2 id="examTitle">
-CBT Examination
+<h2>
+THIRD TERM CBT EXAMINATION 2026
 </h2>
 
 
-<div class="info-bar">
+
+<div class="student-info">
+
 
 <p>
 Student:
@@ -57,12 +64,42 @@ Subject:
 
 
 
-<h3 id="timer">
 
-Time Left: 40:00
+<div class="timer-box">
 
-</h3>
+TIME LEFT:
 
+<span id="timer">
+40:00
+</span>
+
+
+</div>
+
+
+
+
+<!-- QUESTION NUMBER NAVIGATION -->
+
+<div class="question-navigation">
+
+<h4>
+Question Navigation
+</h4>
+
+
+<div id="numbers">
+
+</div>
+
+
+</div>
+
+
+
+
+
+<!-- QUESTION DISPLAY -->
 
 
 <div id="questionBox">
@@ -72,15 +109,34 @@ Time Left: 40:00
 
 
 
-<button onclick="nextQuestion()">
 
-NEXT QUESTION
+
+
+<div class="exam-buttons">
+
+
+<button onclick="previousQuestion()">
+
+← PREVIOUS
 
 </button>
 
 
 
+<button onclick="nextQuestion()">
+
+NEXT →
+
+</button>
+
+
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -89,6 +145,8 @@ NEXT QUESTION
 <script src="script.js"></script>
 
 
+
 </body>
+
 
 </html>
