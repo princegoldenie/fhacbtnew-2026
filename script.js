@@ -1,3 +1,165 @@
+const seniorSubjects = [
+
+"Physics",
+"Commerce",
+"Government",
+"Chemistry",
+"Accounting",
+"Literature",
+"Digital Technologies",
+"CHS",
+"CRS",
+"Biology",
+"Economics",
+"Marketing",
+"Agriculture",
+"Mathematics",
+"English Language"
+
+];
+
+
+const juniorSubjects = [
+
+"Intermediate Science",
+"Home Economics",
+"SCS",
+"Digital Technology",
+"CRS",
+"PHE",
+"Business Studies",
+"Coding",
+"Agric Science",
+"Nigerian History",
+"CCA",
+"Mathematics",
+"English Studies"
+
+];
+
+
+const primary4to6Subjects = [
+
+"Basic Science & Tech",
+"Pre-Vocational Studies",
+"Social & Citizenship Studies",
+"Basic Digital Literacy",
+"CRS",
+"PHE",
+"Cultural & Creative Arts",
+"Nigerian History",
+"Mathematics",
+"English Studies"
+
+];
+
+
+const primary1to3Subjects = [
+
+"Basic Science",
+"Hand Writing",
+"SCS",
+"Social Studies",
+"CRS",
+"PHE",
+"Cultural & Creative Arts",
+"Nigerian History",
+"Mathematics",
+"English Studies"
+
+];
+
+function loadSubjects(){
+
+
+let selectedClass =
+document.getElementById("studentClass").value;
+
+
+let subjectBox =
+document.getElementById("subject");
+
+
+subjectBox.innerHTML =
+"<option>Select Subject</option>";
+
+
+
+let subjects=[];
+
+
+
+if(selectedClass.includes("SS")){
+
+
+subjects = seniorSubjects;
+
+
+}
+
+
+else if(selectedClass.includes("JSS")){
+
+
+subjects = juniorSubjects;
+
+
+}
+
+
+else if(
+
+selectedClass=="Primary 1" ||
+selectedClass=="Primary 2" ||
+selectedClass=="Primary 3"
+
+){
+
+
+subjects = primary1to3Subjects;
+
+
+}
+
+
+else if(
+
+selectedClass=="Primary 4" ||
+selectedClass=="Primary 5" ||
+selectedClass=="Primary 6"
+
+){
+
+
+subjects = primary4to6Subjects;
+
+
+}
+
+
+
+
+subjects.forEach(function(item){
+
+
+let option =
+document.createElement("option");
+
+
+option.value=item;
+
+option.textContent=item;
+
+
+subjectBox.appendChild(option);
+
+
+});
+
+
+}
+
+
 let currentQuestion = 0;
 
 let score = 0;
