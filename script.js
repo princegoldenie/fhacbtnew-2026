@@ -89,16 +89,15 @@ subjectBox.innerHTML =
 
 let list = [];
 
-
-if(selectedClass.includes("SS")){
-
-list = seniorSubjects;
-
-}
-else if(selectedClass.includes("JSS")){
+if(selectedClass.includes("JSS")){
 
 list = juniorSubjects;
 
+}
+
+else if(selectedClass.includes("SS")){
+
+list = seniorSubjects;
 }
 else if(
 selectedClass=="Primary 1" ||
