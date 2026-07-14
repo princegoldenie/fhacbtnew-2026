@@ -743,3 +743,47 @@ if(window.location.pathname.includes("result.html")){
 window.onload=loadResult;
 
 }
+// ===========================
+// TYPEWRITER EFFECT
+// ===========================
+
+
+let typingText =
+"FHA CBT 2026 - Excellence Through Technology";
+
+
+let typingIndex = 0;
+
+
+
+function typeWriter(){
+
+
+let display =
+document.getElementById("typing");
+
+
+if(display && typingIndex < typingText.length){
+
+
+display.innerHTML +=
+typingText.charAt(typingIndex);
+
+
+typingIndex++;
+
+
+setTimeout(typeWriter,80);
+
+
+}
+
+
+}
+
+
+
+window.addEventListener(
+"load",
+typeWriter
+);
