@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>FHA CBT 2026 - Admin</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="main-card">
+
+<h1>FIRST HARVARD ACADEMY</h1>
+
+<h2>CBT ADMIN DASHBOARD</h2>
+
+<div id="loginBox">
+
+<input
+type="password"
+id="adminPassword"
+placeholder="Enter Admin Password">
+
+<br><br>
+
+<button onclick="adminLogin()">
+
+LOGIN
+
+</button>
+
+</div>
+
+<div id="dashboard" style="display:none;">
+
+<h3>Teacher Dashboard</h3>
+
+<p>Total Results Stored</p>
+
+<h2 id="totalStudents">0</h2>
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Name</th>
+
+<th>Class</th>
+
+<th>Subject</th>
+
+<th>Score</th>
+
+<th>%</th>
+
+<th>Status</th>
+
+</tr>
+
+</thead>
+
+<tbody id="resultTable">
+
+</tbody>
+
+</table>
+
+<br>
+
+<button onclick="clearResults()">
+
+CLEAR ALL RESULTS
+
+</button>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
