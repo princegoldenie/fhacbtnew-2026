@@ -5892,6 +5892,554 @@ correct:"b"
 
 ],
 
-}
+},
+
+"SS1": {
+"Government": [
+
+{
+question:"The rule of law means that _______.",
+a:"No one is above the law",
+b:"The president is above the law",
+c:"Only citizens are subject to the law",
+d:"The law does not apply to government officials",
+correct:"a"
+},
+
+{
+question:"The rule of law was popularized by _______.",
+a:"A.V. Dicey",
+b:"Thomas Hobbes",
+c:"John Locke",
+d:"Jean-Jacques Rousseau",
+correct:"a"
+},
+
+{
+question:"Which of these is a principle of the rule of law?",
+a:"Equality before the law",
+b:"Supremacy of the law",
+c:"Judicial independence",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Fundamental human rights are rights that _______.",
+a:"Can be taken away by the government",
+b:"Are inherent to all human beings",
+c:"Only belong to citizens",
+d:"Are granted by the president",
+correct:"b"
+},
+
+{
+question:"Which of these is a fundamental human right?",
+a:"Right to life",
+b:"Right to dignity",
+c:"Right to fair hearing",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The Universal Declaration of Human Rights (UDHR) was adopted in _______.",
+a:"1945",
+b:"1948",
+c:"1950",
+d:"1960",
+correct:"b"
+},
+
+{
+question:"Which chapter of the Nigerian Constitution deals with fundamental human rights?",
+a:"Chapter 1",
+b:"Chapter 2",
+c:"Chapter 4",
+d:"Chapter 7",
+correct:"c"
+},
+
+{
+question:"Human rights can be limited during _______.",
+a:"Peaceful times",
+b:"A state of emergency",
+c:"Elections",
+d:"Religious gatherings",
+correct:"b"
+},
+
+{
+question:"Separation of powers means that government powers are divided among _______ branches.",
+a:"Two",
+b:"Three",
+c:"Four",
+d:"Five",
+correct:"b"
+},
+
+{
+question:"The three branches of government are the _______.",
+a:"Executive, legislative, and judiciary",
+b:"Executive, military, and judiciary",
+c:"Legislative, military, and executive",
+d:"Judiciary, executive, and police",
+correct:"a"
+},
+
+{
+question:"The executive branch is responsible for _______.",
+a:"Making laws",
+b:"Implementing laws",
+c:"Interpreting laws",
+d:"Adjudicating disputes",
+correct:"b"
+},
+
+{
+question:"The legislative branch is responsible for _______.",
+a:"Making laws",
+b:"Implementing laws",
+c:"Interpreting laws",
+d:"Enforcing laws",
+correct:"a"
+},
+
+{
+question:"The judiciary is responsible for _______.",
+a:"Making laws",
+b:"Implementing laws",
+c:"Interpreting laws",
+d:"Enforcing laws",
+correct:"c"
+},
+
+{
+question:"Checks and balances allow each branch to _______.",
+a:"Limit the powers of the other branches",
+b:"Operate independently",
+c:"Merge with other branches",
+d:"Ignore other branches",
+correct:"a"
+},
+
+{
+question:"Representative government is a system where _______.",
+a:"Citizens vote for representatives to make decisions on their behalf",
+b:"The military rules",
+c:"One person rules absolutely",
+d:"There are no elections",
+correct:"a"
+},
+
+{
+question:"Political participation refers to _______.",
+a:"Citizens' involvement in political processes",
+b:"Only voting",
+c:"Only running for office",
+d:"None of the above",
+correct:"a"
+},
+
+{
+question:"Forms of political participation include _______.",
+a:"Voting",
+b:"Joining political parties",
+c:"Peaceful protests",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Centralization is a system where power is _______.",
+a:"Concentrated at the center",
+b:"Shared among regions",
+c:"Given to local governments",
+d:"Divided equally",
+correct:"a"
+},
+
+{
+question:"Decentralization is a system where power is _______.",
+a:"Shared or dispersed among different levels",
+b:"Concentrated at the center",
+c:"Held by one person",
+d:"Given only to the military",
+correct:"a"
+},
+
+{
+question:"Delegated legislation is law made by _______.",
+a:"The legislature only",
+b:"The executive only",
+c:"The judiciary only",
+d:"Bodies to which the legislature has delegated power",
+correct:"d"
+},
+
+{
+question:"Delegated legislation is also known as _______.",
+a:"Secondary legislation",
+b:"Primary legislation",
+c:"Supreme law",
+d:"Constitutional law",
+correct:"a"
+},
+
+{
+question:"An advantage of delegated legislation is that it _______.",
+a:"Saves parliamentary time",
+b:"Is always democratic",
+c:"Cannot be challenged",
+d:"Does not require approval",
+correct:"a"
+},
+
+{
+question:"A disadvantage of delegated legislation is _______.",
+a:"It can lead to abuse of power",
+b:"It saves time",
+c:"It is flexible",
+d:"It is efficient",
+correct:"a"
+},
+
+{
+question:"Citizenship is the legal status of being a member of a _______.",
+a:"State",
+b:"Family",
+c:"School",
+d:"Religion",
+correct:"a"
+},
+
+{
+question:"A citizen is entitled to _______.",
+a:"Rights and privileges",
+b:"Only responsibilities",
+c:"No rights",
+d:"Only duties",
+correct:"a"
+},
+
+{
+question:"Citizenship can be acquired by _______.",
+a:"Birth",
+b:"Naturalization",
+c:"Registration",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"One way of acquiring Nigerian citizenship is by _______.",
+a:"Birth",
+b:"Registration",
+c:"Naturalization",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Naturalization is the process by which a foreigner becomes a citizen _______.",
+a:"After meeting certain conditions",
+b:"Automatically at birth",
+c:"By marriage only",
+d:"By appointment",
+correct:"a"
+},
+
+{
+question:"The responsibilities of a citizen include _______.",
+a:"Obeying the law",
+b:"Paying taxes",
+c:"Participating in civic activities",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"A political party is an organization that _______.",
+a:"Seeks to control government through elections",
+b:"Opposes all forms of government",
+c:"Only engages in social activities",
+d:"Focuses on business interests",
+correct:"a"
+},
+
+{
+question:"The main function of a political party is to _______.",
+a:"Organize social events",
+b:"Nominate candidates for elections",
+c:"Run businesses",
+d:"Enforce laws",
+correct:"b"
+},
+
+{
+question:"A one-party system allows _______.",
+a:"Only one political party",
+b:"Two parties",
+c:"Multiple parties",
+d:"No parties",
+correct:"a"
+},
+
+{
+question:"A two-party system is common in _______.",
+a:"Nigeria",
+b:"United States",
+c:"China",
+d:"Cuba",
+correct:"b"
+},
+
+{
+question:"A multi-party system allows _______.",
+a:"Only one party",
+b:"Two parties",
+c:"Many parties to exist and compete",
+d:"No parties",
+correct:"c"
+},
+
+{
+question:"A pressure group is an organization that _______.",
+a:"Seeks to control government",
+b:"Seeks to influence government policy without contesting elections",
+c:"Nominates candidates for elections",
+d:"Enforces laws",
+correct:"b"
+},
+
+{
+question:"Which of these is a pressure group?",
+a:"A political party",
+b:"Nigeria Labour Congress (NLC)",
+c:"INEC",
+d:"The Executive",
+correct:"b"
+},
+
+{
+question:"Trade unions are examples of _______ pressure groups.",
+a:"Economic",
+b:"Religious",
+c:"Cultural",
+d:"Professional",
+correct:"a"
+},
+
+{
+question:"The main difference between a political party and a pressure group is that _______.",
+a:"Pressure groups contest elections",
+b:"Political parties contest elections",
+c:"Pressure groups seek to control government",
+d:"Political parties do not seek power",
+correct:"b"
+},
+
+{
+question:"Public opinion refers to _______.",
+a:"The opinion of the president",
+b:"The collective views of the people on an issue",
+c:"The opinion of the judiciary",
+d:"The view of the military",
+correct:"b"
+},
+
+{
+question:"Public opinion can be measured through _______.",
+a:"Opinion polls",
+b:"Elections",
+c:"Referendums",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The rule of law requires that government officials are _______.",
+a:"Above the law",
+b:"Subject to the law",
+c:"Not accountable",
+d:"Immune from prosecution",
+correct:"b"
+},
+
+{
+question:"Fundamental human rights are guaranteed by the _______.",
+a:"Constitution",
+b:"President",
+c:"Military",
+d:"Police",
+correct:"a"
+},
+
+{
+question:"The concept of separation of powers prevents _______.",
+a:"Abuse of power",
+b:"Good governance",
+c:"Democracy",
+d:"Rule of law",
+correct:"a"
+},
+
+{
+question:"Representative government ensures that the people have a say in _______.",
+a:"How they are governed",
+b:"Only economic matters",
+c:"Only social matters",
+d:"None of the above",
+correct:"a"
+},
+
+{
+question:"Political participation is important because it _______.",
+a:"Gives citizens a voice in government",
+b:"Increases government control",
+c:"Reduces democracy",
+d:"Limits freedom",
+correct:"a"
+},
+
+{
+question:"Decentralization brings government closer to the _______.",
+a:"People",
+b:"Center",
+c:"Military",
+d:"Foreign powers",
+correct:"a"
+},
+
+{
+question:"Delegated legislation allows for _______.",
+a:"Flexibility in law-making",
+b:"Rigidity in law-making",
+c:"Dictatorship",
+d:"Absolute rule",
+correct:"a"
+},
+
+{
+question:"Citizenship by naturalization requires _______.",
+a:"A period of residence",
+b:"Payment of fees",
+c:"Good character",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Political parties help to educate the public on _______.",
+a:"Political issues",
+b:"Only entertainment",
+c:"Business matters",
+d:"Religious matters",
+correct:"a"
+},
+
+{
+question:"A party system is the way political parties are organized and _______.",
+a:"Interact in a political system",
+b:"Funded",
+c:"Registered",
+d:"Dissolved",
+correct:"a"
+},
+
+{
+question:"Pressure groups influence government by _______.",
+a:"Lobbying",
+b:"Campaigning",
+c:"Using the media",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The rule of law ensures _______.",
+a:"Equality before the law",
+b:"Inequality before the law",
+c:"Arbitrary arrest",
+d:"Dictatorship",
+correct:"a"
+},
+
+{
+question:"Human rights are sometimes called _______.",
+a:"Civil liberties",
+b:"Economic rights",
+c:"Cultural rights",
+d:"Political rights",
+correct:"a"
+},
+
+{
+question:"The judiciary must be independent to uphold the rule of _______.",
+a:"Law",
+b:"Force",
+c:"Power",
+d:"Money",
+correct:"a"
+},
+
+{
+question:"A referendum is a form of _______ participation.",
+a:"Direct",
+b:"Indirect",
+c:"Representative",
+d:"Delegated",
+correct:"a"
+},
+
+{
+question:"The term lobbying refers to _______.",
+a:"Influencing legislators to support a cause",
+b:"Voting in elections",
+c:"Running for office",
+d:"Forming a political party",
+correct:"a"
+},
+
+{
+question:"A coalition government is formed when _______.",
+a:"Two or more parties join together",
+b:"One party wins an election",
+c:"The military takes over",
+d:"There is no election",
+correct:"a"
+},
+
+{
+question:"The opposition in a political system is the party _______.",
+a:"Not in power",
+b:"In power",
+c:"With the most seats",
+d:"That supports the government",
+correct:"a"
+},
+
+{
+question:"A manifesto is a political party's _______.",
+a:"Policy document",
+b:"Logo",
+c:"Symbol",
+d:"Slogan",
+correct:"a"
+},
+
+{
+question:"The main purpose of a pressure group is to _______.",
+a:"Influence government policy",
+b:"Contest elections",
+c:"Form a government",
+d:"Make laws",
+correct:"a"
+}, ],
+
+},
+
+
+
 
 }; 
