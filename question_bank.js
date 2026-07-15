@@ -3803,6 +3803,492 @@ correct:"a"
 },
 
 ],
+
+"CRS": [
+{
+question: "According to the Gospel of Matthew, who was the Roman Emperor at the time of Jesus' birth?",
+a: "Tiberius Caesar",
+b: "Augustus Caesar",
+c: "Julius Caesar",
+d: "Herod the Great",
+correct: "b"
+},
+{
+question: "In which city was Jesus Christ born?",
+a: "Nazareth",
+b: "Jerusalem",
+c: "Bethlehem",
+d: "Capernaum",
+correct: "c"
+},
+{
+question: "Who was the earthly father of Jesus?",
+a: "Joseph",
+b: "James",
+c: "John",
+d: "Zachariah",
+correct: "a"
+},
+{
+question: "According to the Gospel of Luke, why did Joseph and Mary travel to Bethlehem?",
+a: "To escape from King Herod",
+b: "To be counted in a census",
+c: "To visit the temple",
+d: "To find a better place to live",
+correct: "b"
+},
+{
+question: "Who were the first people to visit the newborn Jesus according to the Gospel of Luke?",
+a: "Wise men from the East",
+b: "King Herod's servants",
+c: "Shepherds in the field",
+d: "The Pharisees",
+correct: "c"
+},
+{
+question: "What gift was NOT brought by the wise men to the infant Jesus?",
+a: "Gold",
+b: "Myrrh",
+c: "Silver",
+d: "Frankincense",
+correct: "c"
+},
+{
+question: "The angel Gabriel appeared to Mary and told her she would conceive a son. What name was she instructed to give him?",
+a: "Emmanuel",
+b: "Jesus",
+c: "John",
+d: "Messiah",
+correct: "b"
+},
+{
+question: "Who was the prophetess who recognized Jesus as the Messiah when he was presented at the temple in Jerusalem?",
+a: "Ruth",
+b: "Esther",
+c: "Anna",
+d: "Deborah",
+correct: "c"
+},
+{
+question: "Which Old Testament prophecy did the birth of Jesus in Bethlehem fulfill?",
+a: "Isaiah 7:14",
+b: "Micah 5:2",
+c: "Psalm 22",
+d: "Genesis 3:15",
+correct: "b"
+},
+{
+question: "Jesus' family fled to Egypt to escape the wrath of which king?",
+a: "King Herod",
+b: "King Agrippa",
+c: "King David",
+d: "King Solomon",
+correct: "a"
+},
+{
+question: "Who baptized Jesus in the River Jordan?",
+a: "John the disciple",
+b: "John the Baptist",
+c: "James the brother of Jesus",
+d: "The High Priest",
+correct: "b"
+},
+{
+question: "What happened immediately after Jesus was baptized?",
+a: "He began his first miracle.",
+b: "The heavens opened and the Holy Spirit descended on him like a dove.",
+c: "He was arrested by the Roman soldiers.",
+d: "He went to the temple to preach.",
+correct: "b"
+},
+{
+question: "Who declared, 'Behold, the Lamb of God, who takes away the sin of the world!' when he saw Jesus?",
+a: "Peter",
+b: "Andrew",
+c: "John the Baptist",
+d: "Nicodemus",
+correct: "c"
+},
+{
+question: "According to the Gospels, how long did Jesus fast in the wilderness before his temptation?",
+a: "7 days",
+b: "20 days",
+c: "30 days",
+d: "40 days",
+correct: "d"
+},
+{
+question: "What was the first temptation that the devil presented to Jesus?",
+a: "To worship the devil for all the kingdoms of the world.",
+b: "To throw himself down from the pinnacle of the temple.",
+c: "To turn stones into bread.",
+d: "To jump into the sea.",
+correct: "c"
+},
+{
+question: "What was the devil's second temptation of Jesus?",
+a: "To worship him",
+b: "To turn stones into bread",
+c: "To throw himself down from the temple",
+d: "To deny his identity",
+correct: "c"
+},
+{
+question: "How did Jesus respond to each of the devil's temptations?",
+a: "By arguing with the devil",
+b: "By quoting the Scriptures",
+c: "By performing a miracle",
+d: "By ignoring him",
+correct: "b"
+},
+{
+question: "According to Matthew's Gospel, where did the Spirit lead Jesus after his baptism?",
+a: "To Galilee",
+b: "To Capernaum",
+c: "To the wilderness",
+d: "To Egypt",
+correct: "c"
+},
+{
+question: "Which of these is NOT one of the temptations of Jesus recorded in the Gospels of Matthew and Luke?",
+a: "To turn stones into bread",
+b: "To jump from the temple",
+c: "To worship Satan for worldly power",
+d: "To heal a blind man",
+correct: "d"
+},
+{
+question: "After the temptation, who came to minister to Jesus?",
+a: "His disciples",
+b: "Angels",
+c: "John the Baptist",
+d: "The Pharisees",
+correct: "b"
+},
+{
+question: "Who were the first two disciples called by Jesus according to the Gospel of Matthew?",
+a: "James and John",
+b: "Peter and Andrew",
+c: "Matthew and Thomas",
+d: "Philip and Bartholomew",
+correct: "b"
+},
+{
+question: "What was the occupation of Peter and Andrew when Jesus called them?",
+a: "Tax collectors",
+b: "Carpenters",
+c: "Fishermen",
+d: "Tentmakers",
+correct: "c"
+},
+{
+question: "What did Jesus say to Peter and Andrew when he called them?",
+a: "Come and see.",
+b: "Follow me, and I will make you fishers of men.",
+c: "Blessed are the poor in spirit.",
+d: "Go and make disciples of all nations.",
+correct: "b"
+},
+{
+question: "Which of the following disciples was a tax collector before being called by Jesus?",
+a: "Peter",
+b: "John",
+c: "Matthew",
+d: "Thomas",
+correct: "c"
+},
+{
+question: "Jesus gave the name 'Boanerges,' which means 'sons of thunder,' to which two brothers?",
+a: "Peter and Andrew",
+b: "James and John",
+c: "Matthew and Bartholomew",
+d: "Philip and Nathanael",
+correct: "b"
+},
+{
+question: "Where was Jesus when he called his first disciples?",
+a: "The temple in Jerusalem",
+b: "A wedding in Cana",
+c: "By the Sea of Galilee",
+d: "The Mount of Olives",
+correct: "c"
+},
+{
+question: "The disciple who is often identified as the 'disciple whom Jesus loved' is:",
+a: "Peter",
+b: "James",
+c: "John",
+d: "Andrew",
+correct: "c"
+},
+{
+question: "Why did the Pharisees and scribes criticize Jesus for eating with tax collectors and sinners?",
+a: "Because the food was unclean.",
+b: "Because it was against Roman law.",
+c: "Because they thought he was a glutton.",
+d: "Because they believed he was associating with the wrong people.",
+correct: "d"
+},
+{
+question: "What was the profession of James and John before they became disciples?",
+a: "Fishermen",
+b: "Tentmakers",
+c: "Tax collectors",
+d: "Doctors",
+correct: "a"
+},
+{
+question: "The calling of the disciples shows that:",
+a: "Only the educated and rich were qualified.",
+b: "Jesus called ordinary people from their everyday jobs.",
+c: "Disciples had to be related to Jesus.",
+d: "It was a secret society.",
+correct: "b"
+},
+{
+question: "The collection of Jesus' teachings known as the 'Sermon on the Mount' is found primarily in which Gospel?",
+a: "Mark",
+b: "Luke",
+c: "John",
+d: "Matthew",
+correct: "d"
+},
+{
+question: "Which of the following is the first Beatitude in the Sermon on the Mount?",
+a: "Blessed are the meek.",
+b: "Blessed are the poor in spirit.",
+c: "Blessed are the merciful.",
+d: "Blessed are the peacemakers.",
+correct: "b"
+},
+{
+question: "What is the central theme of the Lord's Prayer, taught in the Sermon on the Mount?",
+a: "How to fast properly",
+b: "How to give alms",
+c: "How to pray and address God as 'Our Father'",
+d: "How to heal the sick",
+correct: "c"
+},
+{
+question: "What miracle did Jesus perform at the wedding in Cana?",
+a: "Healed a blind man",
+b: "Raised a dead girl",
+c: "Turned water into wine",
+d: "Fed five thousand people",
+correct: "c"
+},
+{
+question: "Which of these is an example of a healing miracle performed by Jesus?",
+a: "Walking on water",
+b: "Calming the storm",
+c: "Healing the paralytic man",
+d: "Cursing the fig tree",
+correct: "c"
+},
+{
+question: "In the miracle of feeding the 5,000, how many loaves of bread and fish did the boy have?",
+a: "Five loaves and two fish",
+b: "Seven loaves and five fish",
+c: "Three loaves and one fish",
+d: "Ten loaves and ten fish",
+correct: "a"
+},
+{
+question: "Jesus raised Lazarus from the dead after how many days in the tomb?",
+a: "One day",
+b: "Three days",
+c: "Four days",
+d: "Seven days",
+correct: "c"
+},
+{
+question: "The 'Golden Rule,' taught by Jesus, states:",
+a: "An eye for an eye.",
+b: "Do not judge.",
+c: "Do to others what you would have them do to you.",
+d: "Love your neighbor.",
+correct: "c"
+},
+{
+question: "What does the parable of the Good Samaritan teach?",
+a: "That we must be careful when traveling.",
+b: "That true neighborliness transcends cultural and religious boundaries.",
+c: "That Samaritans are good people.",
+d: "That we must help only our friends.",
+correct: "b"
+},
+{
+question: "According to the Gospels, on what day was Jesus crucified?",
+a: "Sabbath",
+b: "The Day of Preparation (Friday)",
+c: "The first day of the week",
+d: "Passover day",
+correct: "b"
+},
+{
+question: "Who was forced to carry the cross of Jesus?",
+a: "Simon Peter",
+b: "Simon of Cyrene",
+c: "The thief on the cross",
+d: "Joseph of Arimathea",
+correct: "b"
+},
+{
+question: "What did the Roman soldiers place on Jesus' head as a mockery of his kingship?",
+a: "A crown of gold",
+b: "A crown of olive leaves",
+c: "A crown of thorns",
+d: "A cloth",
+correct: "c"
+},
+{
+question: "What was the name of the place where Jesus was crucified?",
+a: "Mount Sinai",
+b: "Mount Zion",
+c: "Golgotha (Calvary)",
+d: "Mount Tabor",
+correct: "c"
+},
+{
+question: "On what day did the women find the empty tomb of Jesus?",
+a: "The third day after his death",
+b: "The first day of the week (Sunday)",
+c: "The Sabbath day",
+d: "The same day he was buried",
+correct: "b"
+},
+{
+question: "Which disciple did not believe in the resurrection until he saw Jesus and touched his wounds?",
+a: "Peter",
+b: "John",
+c: "Matthew",
+d: "Thomas",
+correct: "d"
+},
+{
+question: "The day the Holy Spirit descended on the apostles and they began to speak in other tongues is known as:",
+a: "The day of Atonement",
+b: "The day of Passover",
+c: "The day of Pentecost",
+d: "The Sabbath day",
+correct: "c"
+},
+{
+question: "Who is considered the leader of the early church in Jerusalem after the resurrection of Jesus?",
+a: "John",
+b: "James",
+c: "Paul",
+d: "Peter",
+correct: "d"
+},
+{
+question: "What was the first major decision of the early church regarding new believers (Gentiles)?",
+a: "They had to be circumcised first.",
+b: "They had to follow the Jewish dietary laws.",
+c: "They were accepted through faith in Christ, not by following all Jewish laws (Council of Jerusalem).",
+d: "They were not allowed to join the church.",
+correct: "c"
+},
+{
+question: "Who was the first martyr of the early church, stoned for his faith?",
+a: "Peter",
+b: "Paul",
+c: "Stephen",
+d: "James",
+correct: "c"
+},
+{
+question: "In the early church, what was the sin of Ananias and Sapphira?",
+a: "They stole money from the temple.",
+b: "They lied to the Holy Spirit about the proceeds from a sale of land.",
+c: "They refused to preach to the Gentiles.",
+d: "They denounced the apostles.",
+correct: "b"
+},
+
+{
+question: "Who sentenced Jesus to be crucified?",
+a: "King Herod",
+b: "Pontius Pilate",
+c: "Caiaphas",
+d: "Judas Iscariot",
+correct: "b"
+},
+{
+question: "Who betrayed Jesus with a kiss?",
+a: "Peter",
+b: "John",
+c: "Judas Iscariot",
+d: "Thomas",
+correct: "c"
+},
+{
+question: "For how many pieces of silver did Judas betray Jesus?",
+a: "20 pieces of silver",
+b: "25 pieces of silver",
+c: "30 pieces of silver",
+d: "40 pieces of silver",
+correct: "c"
+},
+{
+question: "Where was Jesus praying before His arrest?",
+a: "Mount Sinai",
+b: "Garden of Gethsemane",
+c: "Sea of Galilee",
+d: "Bethlehem",
+correct: "b"
+},
+{
+question: "Which disciple cut off the ear of the high priest's servant during Jesus' arrest?",
+a: "James",
+b: "Peter",
+c: "Andrew",
+d: "Philip",
+correct: "b"
+},
+{
+question: "What was the name of the high priest's servant whose ear was cut off?",
+a: "Malchus",
+b: "Nicodemus",
+c: "Joseph",
+d: "Zacchaeus",
+correct: "a"
+},
+{
+question: "What were Jesus' last words according to Luke's Gospel?",
+a: "It is finished.",
+b: "Father, forgive them.",
+c: "Father, into your hands I commit my spirit.",
+d: "My God, my God, why have you forsaken me?",
+correct: "c"
+},
+{
+question: "Who asked Pilate for the body of Jesus after His crucifixion?",
+a: "Nicodemus",
+b: "Joseph of Arimathea",
+c: "Peter",
+d: "John",
+correct: "b"
+},
+{
+question: "Where was Jesus buried?",
+a: "In the temple",
+b: "In a newly cut tomb",
+c: "In Bethlehem",
+d: "In Nazareth",
+correct: "b"
+},
+{
+question: "A large stone was rolled across the entrance of Jesus' tomb to _______.",
+a: "Protect the disciples",
+b: "Seal the tomb",
+c: "Hide the soldiers",
+d: "Keep people from praying",
+correct: "b"
+},
+
+],
+
 },
 
 "JSS 2":{
@@ -5890,6 +6376,673 @@ d:"All materials conduct electricity.",
 correct:"b"
 },
 
+],
+
+"Physical and Health Education":[
+
+{
+question:"Safety is the condition of being protected from _______.",
+a:"Happiness",
+b:"Harm, danger, or injury",
+c:"Success",
+d:"Wealth",
+correct:"b"
+},
+
+{
+question:"An accident is an _______ event.",
+a:"Planned",
+b:"Unplanned and unexpected",
+c:"Joyful",
+d:"Expected",
+correct:"b"
+},
+
+{
+question:"Which of these is a place where accidents commonly occur?",
+a:"Home",
+b:"School",
+c:"Road",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"A road traffic accident is an example of a _______ accident.",
+a:"Home",
+b:"School",
+c:"Road",
+d:"Workplace",
+correct:"c"
+},
+
+{
+question:"Which of these is a cause of road traffic accidents?",
+a:"Speeding",
+b:"Drunk driving",
+c:"Poor road conditions",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The use of seat belts helps to _______.",
+a:"Cause accidents",
+b:"Prevent injuries during accidents",
+c:"Increase speed",
+d:"Distract drivers",
+correct:"b"
+},
+
+{
+question:"Which of these is a preventive measure against road accidents?",
+a:"Obeying traffic rules",
+b:"Speeding",
+c:"Driving without a license",
+d:"Using phone while driving",
+correct:"a"
+},
+
+{
+question:"Basketball was invented by _______.",
+a:"James Naismith",
+b:"William Morgan",
+c:"Pele",
+d:"Michael Jordan",
+correct:"a"
+},
+
+{
+question:"Basketball was invented in the year _______.",
+a:"1861",
+b:"1891",
+c:"1901",
+d:"1921",
+correct:"b"
+},
+
+{
+question:"Basketball was invented in the country of _______.",
+a:"England",
+b:"Canada",
+c:"United States",
+d:"Australia",
+correct:"c"
+},
+
+{
+question:"The number of players in a basketball team on the court at a time is _______.",
+a:"5",
+b:"6",
+c:"7",
+d:"8",
+correct:"a"
+},
+
+{
+question:"Which of these is a basic skill in basketball?",
+a:"Dribbling",
+b:"Passing",
+c:"Shooting",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Dribbling in basketball involves _______.",
+a:"Bouncing the ball continuously while moving",
+b:"Throwing the ball into the basket",
+c:"Passing the ball to a teammate",
+d:"Catching the ball",
+correct:"a"
+},
+
+{
+question:"Passing in basketball is _______.",
+a:"Throwing the ball to a teammate",
+b:"Bouncing the ball",
+c:"Shooting the ball",
+d:"Blocking the opponent",
+correct:"a"
+},
+
+{
+question:"Shooting in basketball is _______.",
+a:"Bouncing the ball",
+b:"Throwing the ball to score",
+c:"Passing to a teammate",
+d:"Stealing the ball",
+correct:"b"
+},
+
+{
+question:"The official who enforces the rules in basketball is called a _______.",
+a:"Referee",
+b:"Umpire",
+c:"Coach",
+d:"Captain",
+correct:"a"
+},
+
+{
+question:"Judo is a martial art that originated from _______.",
+a:"China",
+b:"Korea",
+c:"Japan",
+d:"Brazil",
+correct:"c"
+},
+
+{
+question:"Judo was founded by _______.",
+a:"Jigoro Kano",
+b:"Bruce Lee",
+c:"Jackie Chan",
+d:"Mas Oyama",
+correct:"a"
+},
+
+{
+question:"The word 'Judo' means _______.",
+a:"The gentle way",
+b:"The hard way",
+c:"The warrior way",
+d:"The way of the fist",
+correct:"a"
+},
+
+{
+question:"Which of these is a basic skill in Judo?",
+a:"Throws",
+b:"Holds",
+c:"Chokes",
+d:"All of the above",
+correct:"d"
+},
+],
+
+"CRS": [
+{
+question: "According to Genesis, God created the heavens and the earth in _______ days.",
+a: "5",
+b: "6",
+c: "7",
+d: "10",
+correct: "c"
+},
+{
+question: "On the first day of creation, God created _______.",
+a: "The sun and moon",
+b: "Light",
+c: "Animals",
+d: "Man",
+correct: "b"
+},
+{
+question: "On which day did God create the sea creatures and birds?",
+a: "Fourth day",
+b: "Fifth day",
+c: "Sixth day",
+d: "Seventh day",
+correct: "b"
+},
+{
+question: "Man was created on the _______ day.",
+a: "Fourth",
+b: "Fifth",
+c: "Sixth",
+d: "Seventh",
+correct: "c"
+},
+{
+question: "God created man in His own _______.",
+a: "Likeness and image",
+b: "Size",
+c: "Colour",
+d: "Voice",
+correct: "a"
+},
+{
+question: "The first man created by God was named _______.",
+a: "Noah",
+b: "Abraham",
+c: "Adam",
+d: "Moses",
+correct: "c"
+},
+{
+question: "The first woman was created from Adam's _______.",
+a: "Head",
+b: "Foot",
+c: "Rib",
+d: "Hand",
+correct: "c"
+},
+{
+question: "God rested on the _______ day.",
+a: "Sixth",
+b: "Seventh",
+c: "Eighth",
+d: "Fifth",
+correct: "b"
+},
+{
+question: "The tree that Adam and Eve were forbidden to eat from was the tree of _______.",
+a: "Life",
+b: "Knowledge of good and evil",
+c: "Wisdom",
+d: "Power",
+correct: "b"
+},
+{
+question: "The serpent that tempted Eve is identified in the Bible as _______.",
+a: "A friend",
+b: "Satan or the devil",
+c: "An angel",
+d: "A prophet",
+correct: "b"
+},
+{
+question: "God told Abraham to leave his country and go to a land that He would _______.",
+a: "Sell to him",
+b: "Show him",
+c: "Buy for him",
+d: "Conquer for him",
+correct: "b"
+},
+{
+question: "Abraham was originally called _______.",
+a: "Isaac",
+b: "Jacob",
+c: "Abram",
+d: "Ishmael",
+correct: "c"
+},
+{
+question: "God promised Abraham that he would become the father of a great _______.",
+a: "Army",
+b: "Nation",
+c: "River",
+d: "Mountain",
+correct: "b"
+},
+{
+question: "The land God promised to Abraham and his descendants is called _______.",
+a: "Egypt",
+b: "Babylon",
+c: "Canaan (The Promised Land)",
+d: "Rome",
+correct: "c"
+},
+{
+question: "Abraham was from the city of _______.",
+a: "Jerusalem",
+b: "Ur of the Chaldeans",
+c: "Nazareth",
+d: "Bethlehem",
+correct: "b"
+},
+{
+question: "Abraham's wife was named _______.",
+a: "Rebekah",
+b: "Leah",
+c: "Sarah (Sarai)",
+d: "Rachel",
+correct: "c"
+},
+{
+question: "God changed Abram's name to Abraham, which means _______.",
+a: "Father of many nations",
+b: "Friend of God",
+c: "Prince of God",
+d: "Warrior",
+correct: "a"
+},
+{
+question: "Abraham's nephew who travelled with him was _______.",
+a: "Ishmael",
+b: "Isaac",
+c: "Lot",
+d: "Jacob",
+correct: "c"
+},
+{
+question: "God tested Abraham by asking him to sacrifice his son _______.",
+a: "Ishmael",
+b: "Isaac",
+c: "Jacob",
+d: "Esau",
+correct: "b"
+},
+{
+question: "Because of his faith, Abraham is called the _______ of all believers.",
+a: "King",
+b: "Father",
+c: "Prophet",
+d: "Priest",
+correct: "b"
+},
+{
+question: "Joseph was the _______ son of Jacob.",
+a: "First",
+b: "Second",
+c: "Eleventh",
+d: "Twelfth",
+correct: "c"
+},
+{
+question: "Jacob loved Joseph more than his other sons because _______.",
+a: "He was the strongest",
+b: "He was the son of his old age and Rachel",
+c: "He was a warrior",
+d: "He was the richest",
+correct: "b"
+},
+{
+question: "Joseph's brothers sold him into slavery to _______.",
+a: "Egyptian traders",
+b: "Midianite merchants",
+c: "Roman soldiers",
+d: "Philistine warriors",
+correct: "b"
+},
+{
+question: "Joseph was sold in Egypt to an officer named _______.",
+a: "Pharaoh",
+b: "Potiphar",
+c: "Moses",
+d: "Aaron",
+correct: "b"
+},
+{
+question: "Joseph was thrown into prison because Potiphar's wife _______.",
+a: "Loved him",
+b: "Falsely accused him",
+c: "Helped him",
+d: "Set him free",
+correct: "b"
+},
+{
+question: "While in prison, Joseph interpreted the dreams of _______.",
+a: "The king and queen",
+b: "Pharaoh's butler and baker",
+c: "The soldiers",
+d: "His brothers",
+correct: "b"
+},
+{
+question: "Pharaoh dreamt of seven fat cows and seven _______ cows.",
+a: "Thin and ugly",
+b: "Beautiful",
+c: "Flying",
+d: "Golden",
+correct: "a"
+},
+{
+question: "Joseph interpreted Pharaoh's dream to mean _______ years of plenty and famine.",
+a: "Five",
+b: "Seven",
+c: "Ten",
+d: "Twelve",
+correct: "b"
+},
+{
+question: "Pharaoh made Joseph the _______ of Egypt.",
+a: "Slave",
+b: "Governor or Prime Minister",
+c: "Soldier",
+d: "Priest",
+correct: "b"
+},
+{
+question: "Joseph forgave his brothers because _______.",
+a: "He wanted revenge",
+b: "He saw that God had turned their evil into good",
+c: "He wanted to punish them",
+d: "He forgot what they did",
+correct: "b"
+},
+{
+question: "Moses was born at a time when the Hebrews were slaves in _______.",
+a: "Canaan",
+b: "Egypt",
+c: "Babylon",
+d: "Assyria",
+correct: "b"
+},
+{
+question: "To save him from being killed, Moses' mother put him in a basket of bulrushes and placed him on the _______.",
+a: "River Jordan",
+b: "River Nile",
+c: "Red Sea",
+d: "Mediterranean Sea",
+correct: "b"
+},
+{
+question: "Moses was found and adopted by Pharaoh's _______.",
+a: "Son",
+b: "Daughter",
+c: "Wife",
+d: "Priest",
+correct: "b"
+},
+{
+question: "Moses fled Egypt after he killed an Egyptian who was _______.",
+a: "Fighting a Hebrew",
+b: "Stealing from the Hebrews",
+c: "Beating a Hebrew slave",
+d: "Cursing God",
+correct: "c"
+},
+{
+question: "God appeared to Moses in a burning _______ at Mount Sinai.",
+a: "Tree",
+b: "Bush",
+c: "Mountain",
+d: "Cloud",
+correct: "b"
+},
+{
+question: "God told Moses to go back to Egypt to deliver the Israelites from _______.",
+a: "Slavery",
+b: "Famine",
+c: "Disease",
+d: "War",
+correct: "a"
+},
+{
+question: "Moses' brother, who helped him speak, was _______.",
+a: "Joshua",
+b: "Caleb",
+c: "Aaron",
+d: "Levi",
+correct: "c"
+},
+{
+question: "The king of Egypt who opposed Moses was called _______.",
+a: "Caesar",
+b: "Pharaoh",
+c: "Herod",
+d: "Nebuchadnezzar",
+correct: "b"
+},
+{
+question: "God sent _______ plagues upon Egypt to force Pharaoh to let the Israelites go.",
+a: "Five",
+b: "Seven",
+c: "Ten",
+d: "Twelve",
+correct: "c"
+},
+{
+question: "The final plague was the death of all the _______ in Egypt.",
+a: "Cattle",
+b: "Crops",
+c: "Firstborn sons and animals",
+d: "Soldiers",
+correct: "c"
+},
+{
+question: "The departure of the Israelites from Egypt is called the _______.",
+a: "Exodus",
+b: "Exile",
+c: "Reformation",
+d: "Restoration",
+correct: "a"
+},
+{
+question: "God parted the _______ Sea for the Israelites to escape from Pharaoh's army.",
+a: "Black",
+b: "Red",
+c: "Dead",
+d: "Mediterranean",
+correct: "b"
+},
+{
+question: "While in the wilderness, God fed the Israelites with _______ from heaven.",
+a: "Bread",
+b: "Fish",
+c: "Manna",
+d: "Grapes",
+correct: "c"
+},
+{
+question: "God gave the Ten Commandments to Moses on _______.",
+a: "Mount Gerizim",
+b: "Mount Sinai",
+c: "Mount Zion",
+d: "Mount Carmel",
+correct: "b"
+},
+{
+question: "The Ten Commandments were written on two tablets of _______.",
+a: "Wood",
+b: "Bronze",
+c: "Stone",
+d: "Gold",
+correct: "c"
+},
+{
+question: "The first commandment says, 'You shall have no other _______ before Me.'",
+a: "Kings",
+b: "Gods",
+c: "Friends",
+d: "Masters",
+correct: "b"
+},
+{
+question: "The commandment to 'Honour your father and mother' is the _______ commandment with a promise.",
+a: "First",
+b: "Second",
+c: "Fourth",
+d: "Fifth",
+correct: "d"
+},
+{
+question: " 'You shall not steal' is the _______ commandment.",
+a: "Sixth",
+b: "Seventh",
+c: "Eighth",
+d: "Ninth",
+correct: "c"
+},
+{
+question: "The Israelites wandered in the wilderness for _______ years.",
+a: "10",
+b: "40",
+c: "50",
+d: "80",
+correct: "b"
+},
+{
+question: "Joshua eventually led the Israelites into the _______.",
+a: "Promised Land (Canaan)",
+b: "Egypt",
+c: "Babylon",
+d: "Rome",
+correct: "a"
+},
+
+{
+question: "Who sentenced Jesus to be crucified?",
+a: "King Herod",
+b: "Pontius Pilate",
+c: "Caiaphas",
+d: "Judas Iscariot",
+correct: "b"
+},
+{
+question: "Who betrayed Jesus with a kiss?",
+a: "Peter",
+b: "John",
+c: "Judas Iscariot",
+d: "Thomas",
+correct: "c"
+},
+{
+question: "For how many pieces of silver did Judas betray Jesus?",
+a: "20 pieces of silver",
+b: "25 pieces of silver",
+c: "30 pieces of silver",
+d: "40 pieces of silver",
+correct: "c"
+},
+{
+question: "Where was Jesus praying before His arrest?",
+a: "Mount Sinai",
+b: "Garden of Gethsemane",
+c: "Sea of Galilee",
+d: "Bethlehem",
+correct: "b"
+},
+{
+question: "Which disciple cut off the ear of the high priest's servant during Jesus' arrest?",
+a: "James",
+b: "Peter",
+c: "Andrew",
+d: "Philip",
+correct: "b"
+},
+{
+question: "What was the name of the high priest's servant whose ear was cut off?",
+a: "Malchus",
+b: "Nicodemus",
+c: "Joseph",
+d: "Zacchaeus",
+correct: "a"
+},
+{
+question: "What were Jesus' last words according to Luke's Gospel?",
+a: "It is finished.",
+b: "Father, forgive them.",
+c: "Father, into your hands I commit my spirit.",
+d: "My God, my God, why have you forsaken me?",
+correct: "c"
+},
+{
+question: "Who asked Pilate for the body of Jesus after His crucifixion?",
+a: "Nicodemus",
+b: "Joseph of Arimathea",
+c: "Peter",
+d: "John",
+correct: "b"
+},
+{
+question: "Where was Jesus buried?",
+a: "In the temple",
+b: "In a newly cut tomb",
+c: "In Bethlehem",
+d: "In Nazareth",
+correct: "b"
+},
+{
+question: "A large stone was rolled across the entrance of Jesus' tomb to _______.",
+a: "Protect the disciples",
+b: "Seal the tomb",
+c: "Hide the soldiers",
+d: "Keep people from praying",
+correct: "b"
+},
 ],
 
 },
