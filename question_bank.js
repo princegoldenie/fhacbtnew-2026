@@ -1,6 +1,728 @@
 const questionBank = {
 
 "JSS 1":{
+"Intermediate Science": [
+{
+question:"The force that pulls objects towards the centre of the Earth is called?",
+a:"Friction",
+b:"Gravity",
+c:"Magnetism",
+d:"Pressure",
+correct:"b"
+},
+
+{
+question:"The force of gravity on an object is known as its?",
+a:"Mass",
+b:"Density",
+c:"Weight",
+d:"Volume",
+correct:"c"
+},
+
+{
+question:"The scientist who explained the law of gravitation was?",
+a:"Albert Einstein",
+b:"Isaac Newton",
+c:"Galileo Galilei",
+d:"Thomas Edison",
+correct:"b"
+},
+
+{
+question:"The Earth attracts objects because of its?",
+a:"Temperature",
+b:"Gravity",
+c:"Rotation",
+d:"Colour",
+correct:"b"
+},
+
+{
+question:"The force of gravity is strongest when an object is?",
+a:"Far from the Earth",
+b:"Near the Earth",
+c:"In space",
+d:"Floating",
+correct:"b"
+},
+
+{
+question:"The weight of an object depends on its mass and?",
+a:"Shape",
+b:"Colour",
+c:"Gravity",
+d:"Size",
+correct:"c"
+},
+
+{
+question:"An instrument used to measure weight is called a?",
+a:"Thermometer",
+b:"Spring balance",
+c:"Barometer",
+d:"Ruler",
+correct:"b"
+},
+
+{
+question:"The unit of force is?",
+a:"Metre",
+b:"Kilogram",
+c:"Newton",
+d:"Litre",
+correct:"c"
+},
+
+{
+question:"If the gravitational force of the Earth disappeared, objects would?",
+a:"Fall faster",
+b:"Float away",
+c:"Become heavier",
+d:"Stop moving",
+correct:"b"
+},
+
+{
+question:"Gravity keeps the Moon moving around the?",
+a:"Sun",
+b:"Mars",
+c:"Earth",
+d:"Jupiter",
+correct:"c"
+},
+
+{
+question:"Weightlessness occurs when there is no apparent effect of?",
+a:"Heat",
+b:"Gravity",
+c:"Light",
+d:"Sound",
+correct:"b"
+},
+
+{
+question:"Astronauts experience weightlessness when they are?",
+a:"Swimming",
+b:"Underground",
+c:"In space",
+d:"On mountains",
+correct:"c"
+},
+
+{
+question:"A person in a spacecraft appears to float because of?",
+a:"High temperature",
+b:"Weightlessness",
+c:"Heavy clothing",
+d:"Strong wind",
+correct:"b"
+},
+
+{
+question:"Weightlessness is common in?",
+a:"Airplanes on the ground",
+b:"Space stations",
+c:"Buildings",
+d:"Oceans",
+correct:"b"
+},
+
+{
+question:"The force that keeps astronauts and spacecraft in orbit is?",
+a:"Gravity",
+b:"Friction",
+c:"Magnetism",
+d:"Electricity",
+correct:"a"
+},
+
+{
+question:"A state where an object seems to have no weight is called?",
+a:"Motion",
+b:"Weightlessness",
+c:"Pressure",
+d:"Density",
+correct:"b"
+},
+
+{
+question:"The Earth moves around the Sun in a path called?",
+a:"Axis",
+b:"Orbit",
+c:"Circle",
+d:"Line",
+correct:"b"
+},
+
+{
+question:"The Solar System consists of the Sun and?",
+a:"Only planets",
+b:"Planets and other bodies",
+c:"Only stars",
+d:"Only the Moon",
+correct:"b"
+},
+
+{
+question:"The centre of the Solar System is the?",
+a:"Earth",
+b:"Moon",
+c:"Sun",
+d:"Mars",
+correct:"c"
+},
+
+{
+question:"The planet closest to the Sun is?",
+a:"Venus",
+b:"Earth",
+c:"Mercury",
+d:"Mars",
+correct:"c"
+},
+
+{
+question:"The largest planet in the Solar System is?",
+a:"Earth",
+b:"Jupiter",
+c:"Saturn",
+d:"Neptune",
+correct:"b"
+},
+
+{
+question:"The planet known as the Red Planet is?",
+a:"Mars",
+b:"Venus",
+c:"Mercury",
+d:"Jupiter",
+correct:"a"
+},
+
+{
+question:"The planet we live on is?",
+a:"Mars",
+b:"Earth",
+c:"Saturn",
+d:"Venus",
+correct:"b"
+},
+
+{
+question:"The Moon is a natural satellite of the?",
+a:"Sun",
+b:"Mars",
+c:"Earth",
+d:"Jupiter",
+correct:"c"
+},
+
+{
+question:"The movement of the Earth around the Sun is called?",
+a:"Rotation",
+b:"Revolution",
+c:"Spinning",
+d:"Turning",
+correct:"b"
+},
+
+{
+question:"The Earth takes approximately how long to revolve around the Sun?",
+a:"24 hours",
+b:"7 days",
+c:"365 days",
+d:"30 days",
+correct:"c"
+},
+
+{
+question:"The spinning of the Earth on its axis is called?",
+a:"Revolution",
+b:"Rotation",
+c:"Orbit",
+d:"Gravity",
+correct:"b"
+},
+
+{
+question:"Day and night are caused by the Earth's?",
+a:"Revolution",
+b:"Rotation",
+c:"Gravity",
+d:"Orbit",
+correct:"b"
+},
+
+{
+question:"The planet with visible rings around it is?",
+a:"Saturn",
+b:"Mercury",
+c:"Earth",
+d:"Mars",
+correct:"a"
+},
+
+{
+question:"Stars appear to shine because they produce their own?",
+a:"Water",
+b:"Light",
+c:"Air",
+d:"Heat only",
+correct:"b"
+},
+
+{
+question:"The Earth takes approximately how long to complete one revolution around the Sun?",
+a:"24 hours",
+b:"7 days",
+c:"365 days",
+d:"30 days",
+correct:"c"
+},
+
+{
+question:"The spinning of the Earth on its axis is called?",
+a:"Revolution",
+b:"Rotation",
+c:"Orbit",
+d:"Gravity",
+correct:"b"
+},
+
+{
+question:"Day and night are caused by the Earth's?",
+a:"Revolution",
+b:"Rotation",
+c:"Distance from the Sun",
+d:"Gravity",
+correct:"b"
+},
+
+{
+question:"The Moon is a natural satellite of the?",
+a:"Sun",
+b:"Mars",
+c:"Earth",
+d:"Jupiter",
+correct:"c"
+},
+
+{
+question:"Which planet is the largest in the Solar System?",
+a:"Earth",
+b:"Saturn",
+c:"Jupiter",
+d:"Neptune",
+correct:"c"
+},
+
+{
+question:"Which planet is famous for its beautiful rings?",
+a:"Mercury",
+b:"Saturn",
+c:"Venus",
+d:"Mars",
+correct:"b"
+},
+
+{
+question:"The source of light and heat for the planets is the?",
+a:"Moon",
+b:"Earth",
+c:"Sun",
+d:"Stars",
+correct:"c"
+},
+
+{
+question:"The planet closest in size to Earth is?",
+a:"Venus",
+b:"Jupiter",
+c:"Saturn",
+d:"Neptune",
+correct:"a"
+},
+
+{
+question:"Small rocky objects that move around the Sun are called?",
+a:"Asteroids",
+b:"Clouds",
+c:"Satellites",
+d:"Comets only",
+correct:"a"
+},
+
+{
+question:"The Solar System belongs to a larger group of stars called?",
+a:"Galaxy",
+b:"Ocean",
+c:"Atmosphere",
+d:"Ecosystem",
+correct:"a"
+},
+
+{
+question:"Materials are substances that are used to make?",
+a:"Objects",
+b:"Plants",
+c:"Animals",
+d:"Weather",
+correct:"a"
+},
+
+{
+question:"Which of the following is a natural material?",
+a:"Plastic",
+b:"Glass",
+c:"Wood",
+d:"Nylon",
+correct:"c"
+},
+
+{
+question:"Materials obtained from plants and animals are called?",
+a:"Artificial materials",
+b:"Natural materials",
+c:"Synthetic materials",
+d:"Metallic materials",
+correct:"b"
+},
+
+{
+question:"Which of these materials is man-made?",
+a:"Cotton",
+b:"Wood",
+c:"Plastic",
+d:"Leather",
+correct:"c"
+},
+
+{
+question:"The ability of a material to be stretched and return to its original shape is called?",
+a:"Elasticity",
+b:"Hardness",
+c:"Density",
+d:"Solubility",
+correct:"a"
+},
+
+{
+question:"Which of these is a property of metals?",
+a:"Poor strength",
+b:"Shiny appearance",
+c:"Softness only",
+d:"Ability to absorb water",
+correct:"b"
+},
+
+{
+question:"A material that allows heat and electricity to pass through it is called a?",
+a:"Insulator",
+b:"Conductor",
+c:"Solvent",
+d:"Plastic",
+correct:"b"
+},
+
+{
+question:"Copper is commonly used for electrical wires because it is a good?",
+a:"Insulator",
+b:"Conductor",
+c:"Fuel",
+d:"Magnet",
+correct:"b"
+},
+
+{
+question:"Rubber is used to cover electrical wires because it is a good?",
+a:"Conductor",
+b:"Insulator",
+c:"Metal",
+d:"Mineral",
+correct:"b"
+},
+
+{
+question:"The ability of a material to resist scratching is known as?",
+a:"Hardness",
+b:"Elasticity",
+c:"Transparency",
+d:"Flexibility",
+correct:"a"
+},
+
+{
+question:"Which of these materials is transparent?",
+a:"Wood",
+b:"Stone",
+c:"Glass",
+d:"Metal",
+correct:"c"
+},
+
+{
+question:"A material that allows some light to pass through it is called?",
+a:"Opaque",
+b:"Transparent",
+c:"Translucent",
+d:"Reflective",
+correct:"c"
+},
+
+{
+question:"A material that does not allow light to pass through is called?",
+a:"Transparent",
+b:"Translucent",
+c:"Opaque",
+d:"Elastic",
+correct:"c"
+},
+
+{
+question:"Which of the following is a property of glass?",
+a:"It is usually transparent",
+b:"It is always soft",
+c:"It absorbs water easily",
+d:"It is a good conductor",
+correct:"a"
+},
+
+{
+question:"The amount of matter present in an object is called?",
+a:"Weight",
+b:"Mass",
+c:"Volume",
+d:"Density",
+correct:"b"
+},
+
+{
+question:"The space occupied by an object is known as its?",
+a:"Mass",
+b:"Volume",
+c:"Weight",
+d:"Texture",
+correct:"b"
+},
+
+{
+question:"The ability of a material to bend without breaking is called?",
+a:"Flexibility",
+b:"Hardness",
+c:"Density",
+d:"Magnetism",
+correct:"a"
+},
+
+{
+question:"Which material is commonly used for making cooking pots?",
+a:"Paper",
+b:"Metal",
+c:"Cotton",
+d:"Rubber",
+correct:"b"
+},
+
+{
+question:"Wood is commonly used for furniture because it is?",
+a:"Weak and soft",
+b:"Strong and easy to shape",
+c:"Transparent",
+d:"A conductor",
+correct:"b"
+},
+
+{
+question:"Which of these materials can easily break when dropped?",
+a:"Glass",
+b:"Rubber",
+c:"Wood",
+d:"Plastic",
+correct:"a"
+},
+
+{
+question:"Materials are substances that are used to make?",
+a:"Objects",
+b:"Plants",
+c:"Animals",
+d:"Weather",
+correct:"a"
+},
+
+{
+question:"Which of the following is a natural material?",
+a:"Plastic",
+b:"Glass",
+c:"Wood",
+d:"Nylon",
+correct:"c"
+},
+
+{
+question:"Materials obtained from plants and animals are called?",
+a:"Artificial materials",
+b:"Natural materials",
+c:"Synthetic materials",
+d:"Metallic materials",
+correct:"b"
+},
+
+{
+question:"Which of these materials is man-made?",
+a:"Cotton",
+b:"Wood",
+c:"Plastic",
+d:"Leather",
+correct:"c"
+},
+
+{
+question:"The ability of a material to be stretched and return to its original shape is called?",
+a:"Elasticity",
+b:"Hardness",
+c:"Density",
+d:"Solubility",
+correct:"a"
+},
+
+{
+question:"Which of these is a property of metals?",
+a:"Poor strength",
+b:"Shiny appearance",
+c:"Softness only",
+d:"Ability to absorb water",
+correct:"b"
+},
+
+{
+question:"A material that allows heat and electricity to pass through it is called a?",
+a:"Insulator",
+b:"Conductor",
+c:"Solvent",
+d:"Plastic",
+correct:"b"
+},
+
+{
+question:"Copper is commonly used for electrical wires because it is a good?",
+a:"Insulator",
+b:"Conductor",
+c:"Fuel",
+d:"Magnet",
+correct:"b"
+},
+
+{
+question:"Rubber is used to cover electrical wires because it is a good?",
+a:"Conductor",
+b:"Insulator",
+c:"Metal",
+d:"Mineral",
+correct:"b"
+},
+
+{
+question:"The ability of a material to resist scratching is known as?",
+a:"Hardness",
+b:"Elasticity",
+c:"Transparency",
+d:"Flexibility",
+correct:"a"
+},
+
+{
+question:"Which of these materials is transparent?",
+a:"Wood",
+b:"Stone",
+c:"Glass",
+d:"Metal",
+correct:"c"
+},
+
+{
+question:"A material that allows some light to pass through it is called?",
+a:"Opaque",
+b:"Transparent",
+c:"Translucent",
+d:"Reflective",
+correct:"c"
+},
+
+{
+question:"A material that does not allow light to pass through is called?",
+a:"Transparent",
+b:"Translucent",
+c:"Opaque",
+d:"Elastic",
+correct:"c"
+},
+
+{
+question:"Which of the following is a property of glass?",
+a:"It is usually transparent",
+b:"It is always soft",
+c:"It absorbs water easily",
+d:"It is a good conductor",
+correct:"a"
+},
+
+{
+question:"The amount of matter present in an object is called?",
+a:"Weight",
+b:"Mass",
+c:"Volume",
+d:"Density",
+correct:"b"
+},
+
+{
+question:"The space occupied by an object is known as its?",
+a:"Mass",
+b:"Volume",
+c:"Weight",
+d:"Texture",
+correct:"b"
+},
+
+{
+question:"The ability of a material to bend without breaking is called?",
+a:"Flexibility",
+b:"Hardness",
+c:"Density",
+d:"Magnetism",
+correct:"a"
+},
+
+{
+question:"Which material is commonly used for making cooking pots?",
+a:"Paper",
+b:"Metal",
+c:"Cotton",
+d:"Rubber",
+correct:"b"
+},
+
+{
+question:"Wood is commonly used for furniture because it is?",
+a:"Weak and soft",
+b:"Strong and easy to shape",
+c:"Transparent",
+d:"A conductor",
+correct:"b"
+},
+
+{
+question:"Which of these materials can easily break when dropped?",
+a:"Glass",
+b:"Rubber",
+c:"Wood",
+d:"Plastic",
+correct:"a"
+}
+
+],
 
 "English Studies":[
 {
@@ -2715,7 +3437,1556 @@ c:"Waste resources",
 d:"Avoid production",
 correct:"a"
 },
+
 ],
 
+
+"JSS 2":{
+
+"Social and Citizenship Studies":[
+
+{
+question:"Finding help means _______.",
+a:"Ignoring problems",
+b:"Seeking assistance when faced with difficulties",
+c:"Always relying on oneself",
+d:"Avoiding people",
+correct:"b"
+},
+
+{
+question:"Where can a person seek help in times of trouble?",
+a:"Family and friends",
+b:"Religious organizations",
+c:"Government agencies",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Saving is the act of _______.",
+a:"Spending all income",
+b:"Setting aside a portion of income for future use",
+c:"Borrowing money",
+d:"Giving away all money",
+correct:"b"
+},
+
+{
+question:"The importance of saving includes _______.",
+a:"Financial security",
+b:"Meeting future needs",
+c:"Handling emergencies",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"A savings account is usually opened at a _______.",
+a:"Bank",
+b:"Market",
+c:"School",
+d:"Hospital",
+correct:"a"
+},
+
+{
+question:"The Macpherson Constitution was adopted in _______.",
+a:"1948",
+b:"1951",
+c:"1954",
+d:"1960",
+correct:"b"
+},
+
+{
+question:"The Macpherson Constitution introduced _______.",
+a:"A central legislature for the whole country",
+b:"Only regional governments",
+c:"Military rule",
+d:"One-party system",
+correct:"a"
+},
+
+{
+question:"The Macpherson Constitution established three _______.",
+a:"Regions (North, West, East)",
+b:"States",
+c:"Local governments",
+d:"Political parties",
+correct:"a"
+},
+
+{
+question:"The Lyttleton Constitution was adopted in _______.",
+a:"1951",
+b:"1954",
+c:"1957",
+d:"1960",
+correct:"b"
+},
+
+{
+question:"The Lyttleton Constitution introduced the _______ system.",
+a:"Federal",
+b:"Unitary",
+c:"Military",
+d:"Confederal",
+correct:"a"
+},
+
+{
+question:"The Lyttleton Constitution created the position of _______.",
+a:"Prime Minister",
+b:"President",
+c:"Governor-General",
+d:"Chief Justice",
+correct:"a"
+},
+
+{
+question:"The Independence Constitution of Nigeria was adopted in _______.",
+a:"1954",
+b:"1959",
+c:"1960",
+d:"1963",
+correct:"c"
+},
+
+{
+question:"Nigeria gained independence from Britain on _______.",
+a:"1st October 1960",
+b:"1st October 1954",
+c:"1st October 1963",
+d:"1st January 1960",
+correct:"a"
+},
+
+{
+question:"Under the 1960 Independence Constitution, the head of state was the _______.",
+a:"President",
+b:"Prime Minister",
+c:"Governor-General (representing the Queen)",
+d:"Military leader",
+correct:"c"
+},
+
+{
+question:"The 1963 Republican Constitution made Nigeria a _______.",
+a:"Monarchy",
+b:"Republic",
+c:"Colony",
+d:"Protectorate",
+correct:"b"
+},
+
+{
+question:"Under the 1963 Republican Constitution, the head of state was the _______.",
+a:"Governor-General",
+b:"President",
+c:"Prime Minister",
+d:"Queen",
+correct:"b"
+},
+
+{
+question:"The 1979 Constitution was adopted to usher in the _______.",
+a:"Second Republic",
+b:"First Republic",
+c:"Third Republic",
+d:"Fourth Republic",
+correct:"a"
+},
+
+{
+question:"The 1979 Constitution adopted a _______ system of government.",
+a:"Presidential",
+b:"Parliamentary",
+c:"Military",
+d:"Absolute monarchy",
+correct:"a"
+},
+
+{
+question:"The 1979 Constitution was based on the _______ model.",
+a:"British",
+b:"American",
+c:"French",
+d:"Russian",
+correct:"b"
+},
+
+{
+question:"The supremacy of the constitution means that _______.",
+a:"The constitution is the highest law in the land",
+b:"The president is above the constitution",
+c:"The military can override the constitution",
+d:"The constitution can be ignored",
+correct:"a"
+},
+
+{
+question:"The constitution is supreme because it _______.",
+a:"Establishes the structure of government",
+b:"Defines the powers of government",
+c:"Protects the rights of citizens",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The constitution is the _______ of the land.",
+a:"Highest law",
+b:"Lowest law",
+c:"Oldest law",
+d:"Most flexible law",
+correct:"a"
+},
+
+{
+question:"Elections are processes by which citizens _______.",
+a:"Choose their leaders",
+b:"Appoint leaders",
+c:"Remove leaders",
+d:"Ignore leaders",
+correct:"a"
+},
+
+{
+question:"An electoral body is an organization that _______.",
+a:"Conducts elections",
+b:"Creates laws",
+c:"Enforces laws",
+d:"Interprets laws",
+correct:"a"
+},
+
+{
+question:"The electoral body in Nigeria is the _______.",
+a:"INEC",
+b:"NAFDAC",
+c:"NDLEA",
+d:"NITDA",
+correct:"a"
+},
+
+{
+question:"INEC stands for _______.",
+a:"Independent National Electoral Commission",
+b:"International National Electoral Council",
+c:"Internal National Election Committee",
+d:"Independent Nigerian Electoral Commission",
+correct:"a"
+},
+
+{
+question:"The functions of INEC include _______.",
+a:"Registering voters",
+b:"Conducting elections",
+c:"Announcing election results",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"A free and fair election is characterized by _______.",
+a:"Voter intimidation",
+b:"Secret ballot",
+c:"Vote rigging",
+d:"Violence",
+correct:"b"
+},
+
+{
+question:"Voter registration is the process of _______.",
+a:"Enrolling eligible citizens to vote",
+b:"Choosing candidates",
+c:"Counting votes",
+d:"Announcing results",
+correct:"a"
+},
+
+{
+question:"The constitution of Nigeria has been amended several times to _______.",
+a:"Reflect changes in society",
+b:"Make it more flexible",
+c:"Allow dictatorship",
+d:"Remove fundamental rights",
+correct:"a"
+},
+
+{
+question:"A person who seeks help should be _______.",
+a:"Proud",
+b:"Humble and open",
+c:"Rude",
+d:"Isolated",
+correct:"b"
+},
+
+{
+question:"Saving money helps to _______.",
+a:"Avoid future financial crises",
+b:"Increase spending",
+c:"Borrow more money",
+d:"Ignore needs",
+correct:"a"
+},
+
+{
+question:"The Macpherson Constitution created a _______ legislature.",
+a:"Unicameral (one house)",
+b:"Bicameral (two houses)",
+c:"Tricameral",
+d:"No legislature",
+correct:"a"
+},
+
+{
+question:"The Lyttleton Constitution created a _______ legislature.",
+a:"Unicameral",
+b:"Bicameral",
+c:"Tricameral",
+d:"No legislature",
+correct:"b"
+},
+
+{
+question:"The 1960 Independence Constitution was a _______ constitution.",
+a:"Written",
+b:"Unwritten",
+c:"Flexible",
+d:"Rigid",
+correct:"a"
+},
+
+{
+question:"The 1963 Republican Constitution replaced the _______ as head of state.",
+a:"Queen of England",
+b:"President",
+c:"Prime Minister",
+d:"Governor-General",
+correct:"a"
+},
+
+{
+question:"The 1979 Constitution introduced _______.",
+a:"Executive presidency",
+b:"Parliamentary system",
+c:"Absolute monarchy",
+d:"Military rule",
+correct:"a"
+},
+
+{
+question:"The 1979 Constitution was suspended in 1983 following a _______.",
+a:"Military coup",
+b:"Peaceful transition",
+c:"Election",
+d:"Revolution",
+correct:"a"
+},
+
+{
+question:"The current constitution of Nigeria is the _______.",
+a:"1963 Constitution",
+b:"1979 Constitution",
+c:"1999 Constitution",
+d:"1954 Constitution",
+correct:"c"
+},
+
+{
+question:"The 1999 Constitution provides for a _______ system of government.",
+a:"Presidential",
+b:"Parliamentary",
+c:"Military",
+d:"Absolute monarchy",
+correct:"a"
+},
+
+{
+question:"The supremacy of the constitution ensures that _______.",
+a:"Government powers are limited by the constitution",
+b:"The president has absolute power",
+c:"The military can override the constitution",
+d:"The constitution can be ignored",
+correct:"a"
+},
+
+{
+question:"An election is considered free and fair if _______.",
+a:"All eligible citizens can vote",
+b:"Votes are counted accurately",
+c:"No violence or intimidation",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The Independent National Electoral Commission (INEC) was established in _______.",
+a:"1960",
+b:"1979",
+c:"1998",
+d:"1999",
+correct:"c"
+},
+
+{
+question:"A voter's card is a document that _______.",
+a:"Identifies a registered voter",
+b:"Allows someone to drive",
+c:"Proves someone is a citizen",
+d:"Allows someone to work",
+correct:"a"
+},
+
+{
+question:"The constitution is the _______ of government powers.",
+a:"Source and limit",
+b:"Only source",
+c:"Only limit",
+d:"None of the above",
+correct:"a"
+},
+
+{
+question:"The 1999 Constitution came into effect on _______.",
+a:"1st October 1960",
+b:"29th May 1999",
+c:"1st January 1999",
+d:"1st October 1999",
+correct:"b"
+},
+
+{
+question:"The 1951 Macpherson Constitution introduced the principle of _______.",
+a:"Federalism",
+b:"Unitary government",
+c:"Regionalism",
+d:"Autocracy",
+correct:"c"
+},
+
+{
+question:"The 1954 Lyttleton Constitution introduced the principle of _______.",
+a:"Federalism",
+b:"Unitary government",
+c:"Regionalism",
+d:"Autocracy",
+correct:"a"
+},
+
+{
+question:"The President of Nigeria is the _______ of the constitution.",
+a:"Head of state",
+b:"Only leader",
+c:"Above",
+d:"Not subject to",
+correct:"a"
+},
+
+{
+question:"The constitution can be amended to _______.",
+a:"Correct errors and adapt to new realities",
+b:"Make it more rigid",
+c:"Remove all rights",
+d:"Establish dictatorship",
+correct:"a"
+},
+
+{
+question:"A responsible citizen should _______.",
+a:"Seek help when needed",
+b:"Save for the future",
+c:"Participate in elections",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The importance of elections includes _______.",
+a:"Peaceful transfer of power",
+b:"Citizen participation",
+c:"Accountability of leaders",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The 1963 Republican Constitution abolished the _______.",
+a:"Monarchy",
+b:"Federal system",
+c:"Presidential system",
+d:"Parliamentary system",
+correct:"a"
+},
+
+{
+question:"The 1979 Constitution established the _______.",
+a:"Second Republic",
+b:"First Republic",
+c:"Third Republic",
+d:"Fourth Republic",
+correct:"a"
+},
+
+{
+question:"The 1999 Constitution is the _______ constitution of Nigeria.",
+a:"First",
+b:"Second",
+c:"Fourth",
+d:"Fifth",
+correct:"d"
+},
+
+{
+question:"The constitution ensures the _______ of citizens.",
+a:"Rights and freedoms",
+b:"Only responsibilities",
+c:"Only duties",
+d:"None of the above",
+correct:"a"
+},
+
+{
+question:"INEC is responsible for conducting _______.",
+a:"Federal and state elections",
+b:"Local government elections only",
+c:"Only presidential elections",
+d:"Only senatorial elections",
+correct:"a"
+},
+
+{
+question:"Local government elections in Nigeria are conducted by the _______.",
+a:"State Independent Electoral Commissions (SIECs)",
+b:"INEC",
+c:"Federal government",
+d:"National Assembly",
+correct:"a"
+},
+
+{
+question:"The main purpose of a constitution is to _______.",
+a:"Protect the rights of citizens",
+b:"Limit government powers",
+c:"Establish a framework for governance",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Citizenship responsibilities include _______.",
+a:"Obeying the law",
+b:"Paying taxes",
+c:"Voting in elections",
+d:"All of the above",
+correct:"d"
+}
+
+],
+
+"Business Studies":[
+
+{
+question:"The most important factor for developing speed and accuracy in typing is _______.",
+a:"Looking at the keyboard",
+b:"Typing with rhythm",
+c:"Using only one finger",
+d:"Typing as fast as possible",
+correct:"b"
+},
+
+{
+question:"What does rhythm in typewriting mean?",
+a:"The speed of typing",
+b:"The number of errors made",
+c:"Striking keys with the same time interval between strokes",
+d:"The force used to strike the keys",
+correct:"c"
+},
+
+{
+question:"Which of the following is a common error committed while typing?",
+a:"Correct punctuation",
+b:"Error of omission of a letter or word",
+c:"Correct indentation",
+d:"Proper alignment",
+correct:"b"
+},
+
+{
+question:"If a typist makes more than ten errors on a page, it is advisable to _______.",
+a:"Ignore the errors",
+b:"Submit the work anyway",
+c:"Repeat the exercise for better mastery",
+d:"Only correct the first five errors",
+correct:"c"
+},
+
+{
+question:"The greatest advantage of typing by rhythm is that it helps the typist to achieve greater _______.",
+a:"Speed",
+b:"Accuracy",
+c:"Noise",
+d:"Fatigue",
+correct:"b"
+},
+
+{
+question:"Keyboarding is the act of manipulating your fingers on a machine to form _______.",
+a:"Drawings",
+b:"Typewritten words",
+c:"Musical notes",
+d:"Mathematical symbols",
+correct:"b"
+},
+
+{
+question:"In keyboarding, which key is used to take the cursor to a new line?",
+a:"Delete key",
+b:"Enter key",
+c:"Insert key",
+d:"Shift key",
+correct:"b"
+},
+
+{
+question:"To align text to the right, you press _______.",
+a:"Ctrl + L",
+b:"Ctrl + R",
+c:"Ctrl + C",
+d:"Ctrl + E",
+correct:"b"
+},
+
+{
+question:"Typing in small letters is known as typing in _______ case.",
+a:"Upper",
+b:"Lower",
+c:"Title",
+d:"Sentence",
+correct:"b"
+},
+
+{
+question:"How many times should you bounce the space bar after typing a full stop?",
+a:"One",
+b:"Two",
+c:"Three",
+d:"Four",
+correct:"b"
+},
+
+{
+question:"What is a paragraph?",
+a:"A page of writing",
+b:"A clear division of a piece of writing focusing on a single subject",
+c:"A margin on a page",
+d:"A layout of a document",
+correct:"b"
+},
+
+{
+question:"Which of these is a method of paragraphing?",
+a:"Suspended",
+b:"Flushed",
+c:"Hanging",
+d:"Aligned",
+correct:"c"
+},
+
+{
+question:"In a blocked paragraph, the first line is _______.",
+a:"Indented",
+b:"Flush with the left margin",
+c:"Centered",
+d:"Flush with the right margin",
+correct:"b"
+},
+
+{
+question:"The paragraph style where the first line is not indented and paragraphs are separated by double space is called _______.",
+a:"Indented",
+b:"Hanging",
+c:"Blocked",
+d:"Suspended",
+correct:"c"
+},
+
+{
+question:"A paragraph that has all lines except the first line indented is known as a _______ paragraph.",
+a:"Blocked",
+b:"Indented",
+c:"Hanging",
+d:"Flush",
+correct:"c"
+},
+
+{
+question:"Which type of paragraph is mostly used when typing poems and verses?",
+a:"Blocked",
+b:"Indented",
+c:"Hanging",
+d:"Hedging",
+correct:"b"
+},
+
+{
+question:"The method of paragraphing that determines the distance of the paragraph from the margin is _______ paragraph.",
+a:"Hanging",
+b:"Indented",
+c:"Blocked",
+d:"Suspended",
+correct:"d"
+},
+
+{
+question:"An indented paragraph leaves about _______ spaces to the right of the second and subsequent lines.",
+a:"One",
+b:"Two",
+c:"Five or six",
+d:"Ten",
+correct:"c"
+},
+
+{
+question:"The act of setting up or creating a new page on a computer system is called _______.",
+a:"Page set-up",
+b:"Alignment",
+c:"Keyboarding",
+d:"Document",
+correct:"a"
+},
+
+{
+question:"What is alignment in page setting?",
+a:"The color of the text",
+b:"The placement of text and graphics so they are parallel on the page",
+c:"The font size of the text",
+d:"The margin size of the document",
+correct:"b"
+},
+
+{
+question:"When the long edge of the paper is at the top of the page, it is known as the _______ option.",
+a:"Landscape",
+b:"Page set-up",
+c:"Portrait",
+d:"Alignment",
+correct:"c"
+},
+
+{
+question:"The page orientation where the paper is wider than it is tall is called _______.",
+a:"Portrait",
+b:"Landscape",
+c:"Centered",
+d:"Justified",
+correct:"b"
+},
+
+{
+question:"A memorandum is a written message used for communication within an _______.",
+a:"External customer",
+b:"Organization",
+c:"Government agency",
+d:"Individual",
+correct:"b"
+},
+
+{
+question:"The heading of a memorandum typically includes 'To', 'From', 'Date', and _______.",
+a:"Signature",
+b:"Salary",
+c:"Subject",
+d:"Enclosure",
+correct:"c"
+},
+
+{
+question:"The main purpose of a memorandum is to _______.",
+a:"Entertain readers",
+b:"Communicate information internally",
+c:"Advertise a product",
+d:"Send a personal letter",
+correct:"b"
+},
+
+{
+question:"Which of the following is a key feature of a memorandum?",
+a:"It is long and detailed",
+b:"It is used for external communication",
+c:"It is short and direct",
+d:"It requires a stamp for delivery",
+correct:"c"
+},
+
+{
+question:"A memorandum is different from a letter because it _______.",
+a:"Has a salutation",
+b:"Has a signature",
+c:"Is used for internal communication",
+d:"Is always formal",
+correct:"c"
+},
+
+{
+question:"E-mail is a method of exchanging digital messages over the _______.",
+a:"Telephone line",
+b:"Internet",
+c:"Radio waves",
+d:"Postal service",
+correct:"b"
+},
+
+{
+question:"Which of the following is a key component of a professional email?",
+a:"Emojis",
+b:"Subject line",
+c:"Slang language",
+d:"Long story",
+correct:"b"
+},
+
+{
+question:"One major advantage of e-mail is that it is _______.",
+a:"Very slow",
+b:"Not secure",
+c:"Fast and can be sent to multiple people at once",
+d:"Only for internal communication",
+correct:"c"
+},
+
+{
+question:"An email can be used for both _______ and external communication.",
+a:"Internal",
+b:"Personal",
+c:"Spam",
+d:"Formal",
+correct:"a"
+},
+
+{
+question:"Printers' correction signs are also known as _______.",
+a:"Printer's marks",
+b:"Proofreader's marks",
+c:"Typist's signs",
+d:"Editor's notes",
+correct:"b"
+},
+
+{
+question:"What is a manuscript?",
+a:"A typed document",
+b:"A handwritten script or document",
+c:"A printed book",
+d:"A computer file",
+correct:"b"
+},
+
+{
+question:"The purpose of printer's correction signs is to guide the typist or printer to _______.",
+a:"Make the document look colorful",
+b:"Do an efficient job",
+c:"Increase the page count",
+d:"Add pictures to the text",
+correct:"b"
+},
+
+{
+question:"The sign (#) in a manuscript means to _______.",
+a:"Delete",
+b:"Insert space",
+c:"Capitalize",
+d:"Close up",
+correct:"b"
+},
+
+{
+question:"The sign NP in a manuscript means _______.",
+a:"New Page",
+b:"New Paragraph",
+c:"No Problem",
+d:"No Print",
+correct:"b"
+},
+
+{
+question:"The sign U.C. in a manuscript means _______.",
+a:"Under Capital",
+b:"Use Capital",
+c:"Upper Case",
+d:"Underline Capital",
+correct:"c"
+},
+
+{
+question:"The sign L.C. instructs the typist to use _______.",
+a:"Lower Case",
+b:"Left Capital",
+c:"Large Capitals",
+d:"Last Case",
+correct:"a"
+},
+
+{
+question:"The sign Trs in a manuscript means to _______.",
+a:"Translate",
+b:"Transfer",
+c:"Transpose",
+d:"Transport",
+correct:"c"
+},
+
+{
+question:"The abbreviation 'ref' in printer's correction signs means _______.",
+a:"Refer",
+b:"Reference",
+c:"Referee",
+d:"Reflect",
+correct:"b"
+},
+
+{
+question:"The sign (//) means to _______.",
+a:"Delete the word",
+b:"Close up the space",
+c:"Type in reverse order",
+d:"New paragraph",
+correct:"b"
+},
+
+{
+question:"The sign used to indicate delete is a _______.",
+a:"Circle around the text",
+b:"Line across the letter(s)",
+c:"Caret sign",
+d:"Double line under the letter",
+correct:"b"
+},
+
+{
+question:"The sign Stet is used to indicate that a cancelled word should _______.",
+a:"Be deleted",
+b:"Be capitalized",
+c:"Be typed as it was originally",
+d:"Be moved to the next line",
+correct:"c"
+},
+
+{
+question:"When proofreading, the sign ^ (a caret) is inserted to show _______.",
+a:"A space",
+b:"An omission",
+c:"A new paragraph",
+d:"A full stop",
+correct:"b"
+},
+
+{
+question:"The sign Caps means to change the letter(s) to _______.",
+a:"Lower Case",
+b:"Capital letters",
+c:"Italics",
+d:"Bold",
+correct:"b"
+},
+
+{
+question:"The sign for close up is used to remove _______ between words or letters.",
+a:"A line",
+b:"A comma",
+c:"Excess space",
+d:"A full stop",
+correct:"c"
+},
+
+{
+question:"The proofreader's mark for transposing letters looks like a _______.",
+a:"Circle",
+b:"Swirl between the letters",
+c:"Box",
+d:"Dot under the letters",
+correct:"b"
+},
+
+{
+question:"The abbreviation 'enc' in a manuscript means _______.",
+a:"Encore",
+b:"Enclose",
+c:"End",
+d:"Enclosing",
+correct:"b"
+},
+
+{
+question:"The sign # is used to _______.",
+a:"Insert a full stop",
+b:"Delete a word",
+c:"Insert a space",
+d:"Capitalize a letter",
+correct:"c"
+},
+
+{
+question:"The sign Trs is used when two letters or words need to be _______.",
+a:"Deleted",
+b:"Moved to the next line",
+c:"Changed to capital letters",
+d:"Swapped",
+correct:"d"
+}
+
+],
+
+"Home Economics": [
+
+{
+question:"Family resources are things used by a family to meet their ______.",
+a:"Enemies",
+b:"Needs",
+c:"Punishments",
+d:"Arguments",
+correct:"b"
+},
+
+{
+question:"Which of the following is a human resource?",
+a:"House",
+b:"Money",
+c:"Skill",
+d:"Land",
+correct:"c"
+},
+
+{
+question:"Which of the following is a material resource?",
+a:"Energy",
+b:"Knowledge",
+c:"Time",
+d:"Furniture",
+correct:"d"
+},
+
+{
+question:"Decision making means:",
+a:"Buying goods",
+b:"Choosing among alternatives",
+c:"Cooking food",
+d:"Saving money",
+correct:"b"
+},
+
+{
+question:"The first step in decision making is to:",
+a:"Take action",
+b:"Evaluate choices",
+c:"Identify the problem",
+d:"Gather information",
+correct:"c"
+},
+
+{
+question:"Which of these is a human resource?",
+a:"Talent",
+b:"Table",
+c:"Building",
+d:"Car",
+correct:"a"
+},
+
+{
+question:"Family resources help to improve the family's:",
+a:"Poverty",
+b:"Standard of living",
+c:"Laziness",
+d:"Problems",
+correct:"b"
+},
+
+{
+question:"Which is NOT a step in decision making?",
+a:"Evaluate results",
+b:"Gather information",
+c:"Sleep on duty",
+d:"Choose an option",
+correct:"c"
+},
+
+{
+question:"Nutrients are substances in food that:",
+a:"Cause diseases",
+b:"Help the body function properly",
+c:"Destroy body tissues",
+d:"Make food spoil",
+correct:"b"
+},
+
+{
+question:"The nutrient that provides energy is:",
+a:"Protein",
+b:"Vitamin",
+c:"Carbohydrate",
+d:"Mineral",
+correct:"c"
+},
+
+{
+question:"Which nutrient is known as a body-building food?",
+a:"Protein",
+b:"Water",
+c:"Vitamin",
+d:"Fibre",
+correct:"a"
+},
+
+{
+question:"Rice is mainly a source of:",
+a:"Protein",
+b:"Carbohydrate",
+c:"Vitamin",
+d:"Mineral",
+correct:"b"
+},
+
+{
+question:"Beans are rich in:",
+a:"Protein",
+b:"Water",
+c:"Vitamin",
+d:"Fibre",
+correct:"a"
+},
+
+{
+question:"Vitamins help to:",
+a:"Cause diseases",
+b:"Protect the body",
+c:"Break bones",
+d:"Reduce growth",
+correct:"b"
+},
+
+{
+question:"Fibre is also known as:",
+a:"Roughage",
+b:"Sugar",
+c:"Starch",
+d:"Salt",
+correct:"a"
+},
+
+{
+question:"Water helps to:",
+a:"Stop digestion",
+b:"Control body temperature",
+c:"Cause sickness",
+d:"Reduce growth",
+correct:"b"
+},
+
+{
+question:"Which of the following is a source of vitamin A?",
+a:"Carrot",
+b:"Rice",
+c:"Garri",
+d:"Bread",
+correct:"a"
+},
+
+{
+question:"Milk is a good source of:",
+a:"Calcium",
+b:"Sugar",
+c:"Starch",
+d:"Fibre",
+correct:"a"
+},
+
+{
+question:"Palm oil is a source of:",
+a:"Protein",
+b:"Vitamins",
+c:"Fats and oils",
+d:"Fibre",
+correct:"c"
+},
+
+{
+question:"The body needs nutrients for:",
+a:"Growth and health",
+b:"Fighting friends",
+c:"Sleeping only",
+d:"Playing only",
+correct:"a"
+},
+
+{
+question:"Lack of protein causes:",
+a:"Scurvy",
+b:"Kwashiorkor",
+c:"Rickets",
+d:"Anaemia",
+correct:"b"
+},
+
+{
+question:"Kwashiorkor is characterized by:",
+a:"Swollen stomach",
+b:"Strong teeth",
+c:"Healthy eyes",
+d:"Thick hair",
+correct:"a"
+},
+
+{
+question:"Lack of vitamin C causes:",
+a:"Rickets",
+b:"Night blindness",
+c:"Scurvy",
+d:"Anaemia",
+correct:"c"
+},
+
+{
+question:"Bleeding gums are symptoms of:",
+a:"Scurvy",
+b:"Rickets",
+c:"Anaemia",
+d:"Constipation",
+correct:"a"
+},
+
+{
+question:"Vitamin D deficiency causes:",
+a:"Scurvy",
+b:"Kwashiorkor",
+c:"Rickets",
+d:"Cholera",
+correct:"c"
+},
+
+{
+question:"Lack of iron causes:",
+a:"Anaemia",
+b:"Rickets",
+c:"Scurvy",
+d:"Malaria",
+correct:"a"
+},
+
+{
+question:"Night blindness is caused by lack of:",
+a:"Vitamin A",
+b:"Vitamin C",
+c:"Protein",
+d:"Water",
+correct:"a"
+},
+
+{
+question:"Lack of water causes:",
+a:"Anaemia",
+b:"Dehydration",
+c:"Rickets",
+d:"Scurvy",
+correct:"b"
+},
+
+{
+question:"Constipation results from lack of:",
+a:"Protein",
+b:"Fat",
+c:"Fibre",
+d:"Water only",
+correct:"c"
+},
+
+{
+question:"A balanced diet helps to prevent:",
+a:"Deficiency diseases",
+b:"Education",
+c:"Exercise",
+d:"Sports",
+correct:"a"
+},
+
+{
+question:"Food hygiene refers to:",
+a:"Dirty food practices",
+b:"Safe food handling practices",
+c:"Waste disposal only",
+d:"Food selling",
+correct:"b"
+},
+
+{
+question:"Food contamination occurs when:",
+a:"Food is protected",
+b:"Harmful substances enter food",
+c:"Food is cooked",
+d:"Food is stored",
+correct:"b"
+},
+
+{
+question:"One cause of food contamination is:",
+a:"Clean utensils",
+b:"Washing hands",
+c:"Dirty hands",
+d:"Proper storage",
+correct:"c"
+},
+
+{
+question:"Food hygiene helps to prevent:",
+a:"Food poisoning",
+b:"Education",
+c:"Employment",
+d:"Exercise",
+correct:"a"
+},
+
+{
+question:"Fruits should be ______ before eating.",
+a:"Burnt",
+b:"Washed",
+c:"Hidden",
+d:"Frozen",
+correct:"b"
+},
+
+{
+question:"A food handler should keep fingernails:",
+a:"Long",
+b:"Dirty",
+c:"Short and clean",
+d:"Painted",
+correct:"c"
+},
+
+{
+question:"Which of these promotes food hygiene?",
+a:"Covering food",
+b:"Exposing food to flies",
+c:"Using dirty water",
+d:"Dirty utensils",
+correct:"a"
+},
+
+{
+question:"Food poisoning can result from:",
+a:"Clean food",
+b:"Safe water",
+c:"Contaminated food",
+d:"Fresh fruits",
+correct:"c"
+},
+
+{
+question:"A kitchen is a place where food is:",
+a:"Prepared and cooked",
+b:"Sold",
+c:"Thrown away",
+d:"Harvested",
+correct:"a"
+},
+
+{
+question:"Which of these is a kitchen utensil?",
+a:"Knife",
+b:"Television",
+c:"Fan",
+d:"Mattress",
+correct:"a"
+},
+
+{
+question:"A refrigerator is used for:",
+a:"Frying food",
+b:"Preserving food",
+c:"Grinding food",
+d:"Serving food",
+correct:"b"
+},
+
+{
+question:"A knife is used for:",
+a:"Storing food",
+b:"Cutting food",
+c:"Washing food",
+d:"Drying food",
+correct:"b"
+},
+
+{
+question:"The L-shaped kitchen forms the letter:",
+a:"U",
+b:"T",
+c:"L",
+d:"O",
+correct:"c"
+},
+
+{
+question:"The U-shaped kitchen has equipment arranged along:",
+a:"One wall",
+b:"Two walls",
+c:"Three walls",
+d:"Four walls",
+correct:"c"
+},
+
+{
+question:"Kitchen equipment should be:",
+a:"Left dirty",
+b:"Properly maintained",
+c:"Thrown away",
+d:"Broken",
+correct:"b"
+},
+
+{
+question:"Food purchasing means:",
+a:"Buying food",
+b:"Selling food",
+c:"Growing food",
+d:"Storing food",
+correct:"a"
+},
+
+{
+question:"Food processing makes food:",
+a:"Unsafe",
+b:"Easier to use",
+c:"Dirty",
+d:"Harmful",
+correct:"b"
+},
+
+{
+question:"Food preservation helps to:",
+a:"Increase spoilage",
+b:"Reduce spoilage",
+c:"Waste food",
+d:"Destroy food",
+correct:"b"
+},
+
+{
+question:"Fish is an example of:",
+a:"Non-perishable food",
+b:"Perishable food",
+c:"Dry food",
+d:"Processed food",
+correct:"b"
+},
+
+{
+question:"Rice is an example of:",
+a:"Perishable food",
+b:"Non-perishable food",
+c:"Fresh food",
+d:"Wet food",
+correct:"b"
+},
+
+{
+question:"Bacteria can cause food:",
+a:"Preservation",
+b:"Spoilage",
+c:"Improvement",
+d:"Storage",
+correct:"b"
+},
+
+{
+question:"Drying is a method of:",
+a:"Food preservation",
+b:"Food buying",
+c:"Food serving",
+d:"Food waste",
+correct:"a"
+},
+
+{
+question:"Wise buying means:",
+a:"Careful purchasing",
+b:"Expensive purchasing",
+c:"Wasteful spending",
+d:"Borrowing money",
+correct:"a"
+},
+
+{
+question:"A wise buyer should:",
+a:"Buy everything seen",
+b:"Compare prices",
+c:"Waste money",
+d:"Ignore quality",
+correct:"b"
+},
+
+{
+question:"One factor to consider when buying food is:",
+a:"Freshness",
+b:"Colour of the shop",
+c:"Owner's age",
+d:"Weather only",
+correct:"a"
+},
+
+{
+question:"Food safety ensures food is:",
+a:"Harmful",
+b:"Safe to eat",
+c:"Dirty",
+d:"Expired",
+correct:"b"
+},
+
+{
+question:"Expiry dates should be checked on:",
+a:"Packaged foods",
+b:"Shoes",
+c:"Books",
+d:"Furniture",
+correct:"a"
+},
+
+{
+question:"Food should be stored:",
+a:"Improperly",
+b:"Properly",
+c:"Outside always",
+d:"On the road",
+correct:"b"
+},
+
+{
+question:"Which of the following is NOT a food safety practice?",
+a:"Washing hands",
+b:"Covering food",
+c:"Using dirty utensils",
+d:"Cooking food thoroughly",
+correct:"c"
+},
+
+{
+question:"Wise buying helps families to:",
+a:"Waste money",
+b:"Save money",
+c:"Increase spoilage",
+d:"Buy expired goods",
+correct:"b"
+}
+
+],
+
+
+
+}
 
 } }; 
