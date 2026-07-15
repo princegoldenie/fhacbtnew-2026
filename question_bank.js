@@ -1810,7 +1810,7 @@ correct:"a"
 },
 ],
 
-"Social and Citizenship Studies":[
+"SCS":[
 
 {
 question:"Finding help means _______.",
@@ -3443,7 +3443,7 @@ correct:"a"
 
 "JSS 2":{
 
-"Social and Citizenship Studies":[
+"SCD":[
 
 {
 question:"Finding help means _______.",
