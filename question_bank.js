@@ -3443,7 +3443,7 @@ correct:"a"
 
 "JSS 2":{
 
-"SCD":[
+"SCS":[
 
 {
 question:"Finding help means _______.",
