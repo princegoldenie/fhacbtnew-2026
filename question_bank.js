@@ -1263,7 +1263,7 @@ b:"Reveal a secret",
 c:"Be careless",
 d:"Be angry",
 correct:"b"
-}
+},
 
 ],
 
@@ -3983,7 +3983,7 @@ b:"Paying taxes",
 c:"Voting in elections",
 d:"All of the above",
 correct:"d"
-}
+},
 
 ],
 
@@ -4437,7 +4437,7 @@ b:"Moved to the next line",
 c:"Changed to capital letters",
 d:"Swapped",
 correct:"d"
-}
+},
 
 ],
 
@@ -4981,7 +4981,7 @@ b:"Save money",
 c:"Increase spoilage",
 d:"Buy expired goods",
 correct:"b"
-}
+},
 
 ],
 
