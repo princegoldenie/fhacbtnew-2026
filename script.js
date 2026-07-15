@@ -299,12 +299,14 @@ localStorage.getItem("subject");
 
 // Get questions from Question Bank
 
-let bank = questionBank.filter(function(q){
+let bank = [];
 
-return q.class === studentClass &&
-q.subject === subject;
-
-});
+if (
+    questionBank[studentClass] &&
+    questionBank[studentClass][subject]
+) {
+    bank = questionBank[studentClass][subject];
+}
 
 console.log(studentClass);
 console.log(subject);
