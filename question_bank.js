@@ -1,6 +1,370 @@
 const questionBank = {
 
 "JSS 1":{
+    "Home Economics": [
+
+{
+question:"Sewing is the process of ______.",
+a:"washing clothes",
+b:"joining fabrics together",
+c:"ironing clothes",
+d:"decorating clothes",
+correct:"b"
+},
+
+{
+question:"Which of the following is a temporary stitch?",
+a:"Hemming stitch",
+b:"Running stitch",
+c:"Tacking stitch",
+d:"Back stitch",
+correct:"c"
+},
+
+{
+question:"Temporary stitches are used to ______.",
+a:"decorate garments",
+b:"hold fabric temporarily",
+c:"repair shoes",
+d:"wash clothes",
+correct:"b"
+},
+
+{
+question:"Which of these is a permanent stitch?",
+a:"Tacking stitch",
+b:"Basting stitch",
+c:"Running stitch",
+d:"Pinning",
+correct:"c"
+},
+
+{
+question:"The main tool used in sewing is a ______.",
+a:"ruler",
+b:"comb",
+c:"needle",
+d:"brush",
+correct:"c"
+},
+
+{
+question:"A stitch used for finishing garment edges is called ______.",
+a:"hemming stitch",
+b:"tacking stitch",
+c:"pinning stitch",
+d:"basting stitch",
+correct:"a"
+},
+
+{
+question:"Decorative stitches are used mainly to ______.",
+a:"wash garments",
+b:"beautify garments",
+c:"cut fabrics",
+d:"measure fabrics",
+correct:"b"
+},
+
+{
+question:"Which of these is a decorative stitch?",
+a:"Satin stitch",
+b:"Tacking stitch",
+c:"Basting stitch",
+d:"Pin stitch",
+correct:"a"
+},
+
+{
+question:"Cross stitch forms the shape of the letter ______.",
+a:"V",
+b:"Y",
+c:"X",
+d:"Z",
+correct:"c"
+},
+
+{
+question:"A seam is formed when ______.",
+a:"clothes are washed",
+b:"fabrics are joined together",
+c:"clothes are ironed",
+d:"fabrics are dyed",
+correct:"b"
+},
+
+{
+question:"The simplest type of seam is the ______.",
+a:"French seam",
+b:"Plain seam",
+c:"Open seam",
+d:"Fell seam",
+correct:"b"
+},
+
+{
+question:"Which seam is commonly used in most garments?",
+a:"Plain seam",
+b:"Decorative seam",
+c:"Open seam",
+d:"French stitch",
+correct:"a"
+},
+
+{
+question:"Clothing refers to garments worn on the ______.",
+a:"chair",
+b:"wall",
+c:"body",
+d:"floor",
+correct:"c"
+},
+
+{
+question:"Which of these is a household article?",
+a:"Skirt",
+b:"Trouser",
+c:"Table mat",
+d:"Shirt",
+correct:"c"
+},
+
+{
+question:"Crafts are items made mainly by ______.",
+a:"machines only",
+b:"hand",
+c:"robots",
+d:"factories",
+correct:"b"
+},
+
+{
+question:"Which of the following is a sewing tool?",
+a:"Spoon",
+b:"Needle",
+c:"Plate",
+d:"Cup",
+correct:"b"
+},
+
+{
+question:"Which of these is a sewing equipment?",
+a:"Pin",
+b:"Needle",
+c:"Sewing machine",
+d:"Thread",
+correct:"c"
+},
+
+{
+question:"One importance of producing household articles is to ______.",
+a:"waste money",
+b:"develop skills",
+c:"increase dirtiness",
+d:"spoil fabrics",
+correct:"b"
+},
+
+{
+question:"A handkerchief is made from ______.",
+a:"fabric",
+b:"wood",
+c:"metal",
+d:"glass",
+correct:"a"
+},
+
+{
+question:"The first step in making a handkerchief is to ______.",
+a:"iron it",
+b:"select suitable fabric",
+c:"wash it",
+d:"fold it",
+correct:"b"
+},
+
+{
+question:"HIV attacks the body's ______.",
+a:"digestive system",
+b:"skeletal system",
+c:"immune system",
+d:"respiratory system",
+correct:"c"
+},
+
+{
+question:"One way to prevent HIV is by avoiding the sharing of ______.",
+a:"books",
+b:"pencils",
+c:"needles",
+d:"desks",
+correct:"c"
+},
+
+{
+question:"Human rights belong to every ______.",
+a:"animal",
+b:"machine",
+c:"human being",
+d:"building",
+correct:"c"
+},
+
+{
+question:"Every child has the right to ______.",
+a:"education",
+b:"laziness",
+c:"fighting",
+d:"stealing",
+correct:"a"
+},
+
+{
+question:"Every child has the right to ______.",
+a:"abuse",
+b:"protection",
+c:"neglect",
+d:"punishment",
+correct:"b"
+},
+
+{
+question:"One responsibility of a child is to ______.",
+a:"disrespect elders",
+b:"obey rules",
+c:"destroy property",
+d:"fight others",
+correct:"b"
+},
+
+{
+question:"Children should respect the rights of ______.",
+a:"nobody",
+b:"themselves only",
+c:"others",
+d:"visitors only",
+correct:"c"
+},
+
+{
+question:"One importance of children's rights is to ______.",
+a:"promote development",
+b:"increase abuse",
+c:"encourage neglect",
+d:"reduce education",
+correct:"a"
+},
+
+{
+question:"Entertainment provides ______.",
+a:"punishment",
+b:"enjoyment",
+c:"hunger",
+d:"sickness",
+correct:"b"
+},
+
+{
+question:"Home entertainment involves receiving ______.",
+a:"enemies",
+b:"guests",
+c:"strangers only",
+d:"workers",
+correct:"b"
+},
+
+{
+question:"A male person who entertains guests is called a ______.",
+a:"hostess",
+b:"guest",
+c:"host",
+d:"visitor",
+correct:"c"
+},
+
+{
+question:"A female person who entertains guests is called a ______.",
+a:"hostess",
+b:"host",
+c:"guest",
+d:"visitor",
+correct:"a"
+},
+
+{
+question:"A guest should be ______.",
+a:"rude",
+b:"noisy",
+c:"polite",
+d:"troublesome",
+correct:"c"
+},
+
+{
+question:"Entertainment helps to strengthen ______.",
+a:"quarrels",
+b:"family relationships",
+c:"anger",
+d:"loneliness",
+correct:"b"
+},
+
+{
+question:"An invitation is a request asking someone to attend an ______.",
+a:"examination",
+b:"event",
+c:"market",
+d:"farm",
+correct:"b"
+},
+
+{
+question:"Table laying means the proper arrangement of ______.",
+a:"books",
+b:"chairs only",
+c:"dining equipment",
+d:"clothes",
+correct:"c"
+},
+
+{
+question:"Which of these is used in table laying?",
+a:"Plate",
+b:"Spoon",
+c:"Napkin",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"In a simple table setting, the fork is placed on the ______ side of the plate.",
+a:"right",
+b:"left",
+c:"centre",
+d:"top",
+correct:"b"
+},
+
+{
+question:"In buffet service, guests ______.",
+a:"are not served",
+b:"serve themselves",
+c:"eat at home",
+d:"cook the food",
+correct:"b"
+},
+
+{
+question:"Which of the following is a style of entertainment?",
+a:"Buffet service",
+b:"Table service",
+c:"Cocktail service",
+d:"All of the above",
+correct:"d"
+},
+
+],
+
 "Intermediate Science": [
 {
 question:"The force that pulls objects towards the centre of the Earth is called?",
@@ -4985,7 +5349,548 @@ correct:"b"
 
 ],
 
+"Intermediate Science": [
+{
+question:"Materials are substances that are used to make different objects.",
+a:"True only for metals",
+b:"Things we use to produce items",
+c:"Only natural substances",
+d:"Only liquids",
+correct:"b"
+},
 
+{
+question:"Which of the following is a natural material?",
+a:"Plastic",
+b:"Nylon",
+c:"Wood",
+d:"Glass",
+correct:"c"
+},
+
+{
+question:"Materials obtained from nature are called?",
+a:"Artificial materials",
+b:"Natural materials",
+c:"Synthetic materials",
+d:"Processed materials",
+correct:"b"
+},
+
+{
+question:"Which of these is an example of a man-made material?",
+a:"Cotton",
+b:"Wood",
+c:"Plastic",
+d:"Leather",
+correct:"c"
+},
+
+{
+question:"Which material is commonly obtained from trees?",
+a:"Wood",
+b:"Iron",
+c:"Plastic",
+d:"Glass",
+correct:"a"
+},
+
+{
+question:"A material that allows light to pass through it clearly is called?",
+a:"Opaque",
+b:"Transparent",
+c:"Rough",
+d:"Flexible",
+correct:"b"
+},
+
+{
+question:"Which of these materials is transparent?",
+a:"Stone",
+b:"Wood",
+c:"Glass",
+d:"Metal",
+correct:"c"
+},
+
+{
+question:"A material that does not allow light to pass through is called?",
+a:"Transparent",
+b:"Translucent",
+c:"Opaque",
+d:"Elastic",
+correct:"c"
+},
+
+{
+question:"Which of the following is a metal?",
+a:"Rubber",
+b:"Iron",
+c:"Plastic",
+d:"Paper",
+correct:"b"
+},
+
+{
+question:"Metals are generally known to be?",
+a:"Weak",
+b:"Strong and durable",
+c:"Soft like cotton",
+d:"Easily destroyed",
+correct:"b"
+},
+
+{
+question:"The ability of a material to return to its original shape after being stretched is called?",
+a:"Elasticity",
+b:"Density",
+c:"Hardness",
+d:"Solubility",
+correct:"a"
+},
+
+{
+question:"Rubber is used for making tyres because it has?",
+a:"Transparency",
+b:"Elasticity",
+c:"Brittleness",
+d:"Hardness",
+correct:"b"
+},
+
+{
+question:"The ability of a material to resist scratching is called?",
+a:"Flexibility",
+b:"Hardness",
+c:"Ductility",
+d:"Magnetism",
+correct:"b"
+},
+
+{
+question:"Which material is used for making electrical wire because it conducts electricity?",
+a:"Copper",
+b:"Rubber",
+c:"Plastic",
+d:"Wood",
+correct:"a"
+},
+
+{
+question:"Materials that do not allow electricity to pass through them are called?",
+a:"Conductors",
+b:"Insulators",
+c:"Metals",
+d:"Magnets",
+correct:"b"
+},
+
+{
+question:"Plastic covering on electrical wires acts as a?",
+a:"Conductor",
+b:"Insulator",
+c:"Metal",
+d:"Battery",
+correct:"b"
+},
+
+{
+question:"The amount of matter in an object is called?",
+a:"Volume",
+b:"Mass",
+c:"Density",
+d:"Length",
+correct:"b"
+},
+
+{
+question:"The space occupied by an object is known as its?",
+a:"Mass",
+b:"Weight",
+c:"Volume",
+d:"Texture",
+correct:"c"
+},
+
+{
+question:"Which of these materials is used for making glass bottles?",
+a:"Wood",
+b:"Glass",
+c:"Cotton",
+d:"Rubber",
+correct:"b"
+},
+
+{
+question:"Which of the following is a property of metals?",
+a:"They are usually good conductors",
+b:"They dissolve easily in water",
+c:"They are always transparent",
+d:"They cannot be shaped",
+correct:"a"
+},
+
+{
+question:"Which of the following materials is a good conductor of electricity?",
+a:"Rubber",
+b:"Plastic",
+c:"Copper",
+d:"Wood",
+correct:"c"
+},
+
+{
+question:"Which material is commonly used to cover electrical wires?",
+a:"Iron",
+b:"Plastic",
+c:"Copper",
+d:"Aluminium",
+correct:"b"
+},
+
+{
+question:"A material that does not allow electricity to pass through it is called a?",
+a:"Conductor",
+b:"Insulator",
+c:"Magnet",
+d:"Metal",
+correct:"b"
+},
+
+{
+question:"The property that allows a material to return to its original shape after stretching is called?",
+a:"Hardness",
+b:"Elasticity",
+c:"Brittleness",
+d:"Density",
+correct:"b"
+},
+
+{
+question:"Which of these materials is elastic?",
+a:"Glass",
+b:"Rubber",
+c:"Stone",
+d:"Wood",
+correct:"b"
+},
+
+{
+question:"The ability of a material to resist scratching is known as?",
+a:"Transparency",
+b:"Hardness",
+c:"Flexibility",
+d:"Elasticity",
+correct:"b"
+},
+
+{
+question:"Which of the following materials is brittle?",
+a:"Rubber",
+b:"Glass",
+c:"Leather",
+d:"Cotton",
+correct:"b"
+},
+
+{
+question:"A material that can bend easily without breaking is said to be?",
+a:"Flexible",
+b:"Hard",
+c:"Brittle",
+d:"Rough",
+correct:"a"
+},
+
+{
+question:"Which material is commonly used for making cooking pots?",
+a:"Paper",
+b:"Metal",
+c:"Rubber",
+d:"Cotton",
+correct:"b"
+},
+
+{
+question:"The ability of a material to allow heat to pass through it is called?",
+a:"Heat conduction",
+b:"Elasticity",
+c:"Transparency",
+d:"Hardness",
+correct:"a"
+},
+
+{
+question:"Which of the following is a poor conductor of heat?",
+a:"Copper",
+b:"Iron",
+c:"Plastic",
+d:"Aluminium",
+correct:"c"
+},
+
+{
+question:"Which property makes glass suitable for making windows?",
+a:"Elasticity",
+b:"Transparency",
+c:"Hardness",
+d:"Flexibility",
+correct:"b"
+},
+
+{
+question:"Which of these materials is opaque?",
+a:"Glass",
+b:"Clean water",
+c:"Wood",
+d:"Air",
+correct:"c"
+},
+
+{
+question:"A material that allows only some light to pass through it is said to be?",
+a:"Transparent",
+b:"Translucent",
+c:"Opaque",
+d:"Elastic",
+correct:"b"
+},
+
+{
+question:"Which of these is an example of a synthetic material?",
+a:"Cotton",
+b:"Plastic",
+c:"Leather",
+d:"Wood",
+correct:"b"
+},
+
+{
+question:"Which material is commonly used for making tyres?",
+a:"Glass",
+b:"Rubber",
+c:"Paper",
+d:"Wood",
+correct:"b"
+},
+
+{
+question:"Which property makes iron suitable for making gates?",
+a:"Transparency",
+b:"Strength",
+c:"Elasticity",
+d:"Softness",
+correct:"b"
+},
+
+{
+question:"A material that can easily break when struck is described as?",
+a:"Flexible",
+b:"Brittle",
+c:"Elastic",
+d:"Transparent",
+correct:"b"
+},
+
+{
+question:"Which of the following materials is waterproof?",
+a:"Paper",
+b:"Plastic",
+c:"Cotton",
+d:"Cardboard",
+correct:"b"
+},
+
+{
+question:"Materials are selected for different purposes mainly because of their?",
+a:"Prices only",
+b:"Colours only",
+c:"Properties",
+d:"Shapes only",
+correct:"c"
+},
+
+{
+question:"The ability of a material to be drawn into thin wires is called?",
+a:"Malleability",
+b:"Ductility",
+c:"Elasticity",
+d:"Hardness",
+correct:"b"
+},
+
+{
+question:"The ability of a metal to be beaten into thin sheets is known as?",
+a:"Transparency",
+b:"Malleability",
+c:"Brittleness",
+d:"Solubility",
+correct:"b"
+},
+
+{
+question:"Which of the following is an example of a non-metallic material?",
+a:"Iron",
+b:"Copper",
+c:"Plastic",
+d:"Aluminium",
+correct:"c"
+},
+
+{
+question:"Which material is commonly used for making water pipes because it does not rust easily?",
+a:"Plastic",
+b:"Paper",
+c:"Wood",
+d:"Glass",
+correct:"a"
+},
+
+{
+question:"A material that breaks easily when force is applied is said to be?",
+a:"Elastic",
+b:"Flexible",
+c:"Brittle",
+d:"Ductile",
+correct:"c"
+},
+
+{
+question:"Which of the following materials can be recycled?",
+a:"Glass",
+b:"Aluminium",
+c:"Plastic",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Which property makes aluminium suitable for making cooking utensils?",
+a:"It is a poor conductor of heat",
+b:"It is a good conductor of heat",
+c:"It is transparent",
+d:"It is brittle",
+correct:"b"
+},
+
+{
+question:"Which of these materials is commonly used for making school rulers?",
+a:"Plastic",
+b:"Cotton",
+c:"Leather",
+d:"Rubber",
+correct:"a"
+},
+
+{
+question:"Which property makes rubber suitable for making erasers?",
+a:"Elasticity",
+b:"Transparency",
+c:"Hardness",
+d:"Brittleness",
+correct:"a"
+},
+
+{
+question:"The property of a material that enables it to float or sink depends mainly on its?",
+a:"Colour",
+b:"Density",
+c:"Shape",
+d:"Texture",
+correct:"b"
+},
+
+{
+question:"Which of these materials is most suitable for making window panes?",
+a:"Wood",
+b:"Glass",
+c:"Iron",
+d:"Rubber",
+correct:"b"
+},
+
+{
+question:"Which material is best used for making electrical switches because it is an insulator?",
+a:"Copper",
+b:"Iron",
+c:"Plastic",
+d:"Aluminium",
+correct:"c"
+},
+
+{
+question:"The ability of a material to dissolve in water is called?",
+a:"Elasticity",
+b:"Hardness",
+c:"Solubility",
+d:"Flexibility",
+correct:"c"
+},
+
+{
+question:"Salt dissolves in water because it is?",
+a:"Transparent",
+b:"Soluble",
+c:"Elastic",
+d:"Brittle",
+correct:"b"
+},
+
+{
+question:"Sand does not dissolve in water because it is?",
+a:"Soluble",
+b:"Transparent",
+c:"Insoluble",
+d:"Flexible",
+correct:"c"
+},
+
+{
+question:"Which of the following is a natural material?",
+a:"Nylon",
+b:"Plastic",
+c:"Cotton",
+d:"Glass",
+correct:"c"
+},
+
+{
+question:"Leather is obtained from the skin of?",
+a:"Plants",
+b:"Animals",
+c:"Rocks",
+d:"Minerals",
+correct:"b"
+},
+
+{
+question:"Which property should be considered when choosing materials for making raincoats?",
+a:"Waterproof",
+b:"Transparent",
+c:"Soluble",
+d:"Fragile",
+correct:"a"
+},
+
+{
+question:"The choice of a material for a particular purpose depends mainly on its?",
+a:"Weight only",
+b:"Colour only",
+c:"Properties",
+d:"Price only",
+correct:"c"
+},
+
+{
+question:"Which of the following statements about materials is correct?",
+a:"All materials have the same properties.",
+b:"Materials are chosen according to their properties and uses.",
+c:"Only metals are useful materials.",
+d:"All materials conduct electricity.",
+correct:"b"
+},
+
+],
 
 }
 
