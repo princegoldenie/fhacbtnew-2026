@@ -299,12 +299,16 @@ localStorage.getItem("subject");
 
 // Get questions from Question Bank
 
-let bank = question_Bank.filter(function(q){
+let bank = questionBank.filter(function(q){
 
 return q.class === studentClass &&
 q.subject === subject;
 
 });
+
+console.log(studentClass);
+console.log(subject);
+console.log(bank);
 
 
 
@@ -515,10 +519,14 @@ btn.classList.add("answered");
 
 function showQuestion(){
 
+if(examQuestions.length===0){
+return;}
 let q = examQuestions[currentQuestion];
+if(!q){
+return;
+}
 
-let box =
-document.getElementById("questionBox");
+let box = document.getElementById("questionBox");
 
 let html = "";
 
