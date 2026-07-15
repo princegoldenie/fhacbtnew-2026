@@ -854,9 +854,7 @@ localStorage.setItem("status",status);
 
 // Ready for Google Sheet later
 
-localStorage.setItem(
-"examData",
-);
+
 
 const WEB_APP_URL =
 "https://script.google.com/macros/s/AKfycbxUiGptkqLbzW6g40RknBsYzUqlmAGroxvmyGSDTkEIdYby8AHaWl0RBud0PXM5O8Is/exec";
@@ -892,7 +890,7 @@ console.log(error);
 
 saveResult();
 window.location.href="result.html"
-; 
+; }
 
 
 
@@ -1054,22 +1052,18 @@ setTimeout(typeWriter,60);
 window.addEventListener("load",function(){
 
 if(document.getElementById("typing")){
-
 typeWriter();
-
 }
 
 if(window.location.pathname.includes("exam.html")){
-
 loadExam();
-
 }
 
 if(window.location.pathname.includes("result.html")){
-
 loadResult();
+} 
+});
 
-}
 
 // ==========================
 // ADMIN LOGIN
@@ -1202,5 +1196,3 @@ loadAdmin();
 }
 
 }
-
-});
