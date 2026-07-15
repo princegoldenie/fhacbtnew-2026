@@ -6435,7 +6435,8 @@ b:"Contest elections",
 c:"Form a government",
 d:"Make laws",
 correct:"a"
-}, ],
+}, 
+],
 
 },
 
