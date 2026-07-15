@@ -14,7 +14,6 @@ FHA CBT 2026 Examination
 </head>
 
 
-
 <body>
 
 
@@ -79,13 +78,75 @@ TIME LEFT:
 
 
 
-<!-- QUESTION NUMBER NAVIGATION -->
+
+<!-- ==========================
+     EXAM LAYOUT
+=========================== -->
+
+
+<div class="exam-layout">
+
+
+
+<!-- ==========================
+     QUESTION AREA
+=========================== -->
+
+
+<div class="question-area">
+
+
+<div id="questionBox">
+
+</div>
+
+
+
+<div class="exam-buttons">
+
+
+<button 
+id="previousBtn" 
+onclick="previousQuestion()">
+
+PREVIOUS
+
+</button>
+
+
+
+<button 
+id="nextBtn" 
+onclick="nextQuestion()">
+
+NEXT QUESTION
+
+</button>
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+<!-- ==========================
+     QUESTION NUMBER PANEL
+=========================== -->
+
 
 <div class="question-navigation">
 
+
 <h4>
-Question Navigation
+QUESTION NAVIGATION
 </h4>
+
 
 
 <div id="numbers">
@@ -93,37 +154,15 @@ Question Navigation
 </div>
 
 
+
 </div>
 
 
-
-
-
-<!-- QUESTION DISPLAY -->
-
-
-<div id="questionBox">
 
 
 </div>
 
-<div id="numbers"></div>
 
-
-
-
-<div class="exam-buttons">
-
-<button id="previousBtn" onclick="previousQuestion()">
-PREVIOUS
-</button>
-
-<button id="nextBtn" onclick="nextQuestion()">
-NEXT QUESTION
-</button>
-
-
-</div>
 
 
 
