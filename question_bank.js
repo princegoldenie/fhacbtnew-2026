@@ -8441,969 +8441,975 @@ correct:"a"
 
 "Literature": [
 {
-question: "Redemption Road is a novel written by _____.",
+question: "1. Redemption Road is a novel written by _______.",
 a: "Elma Shaw",
 b: "Chinua Achebe",
-c: "Harper Lee",
-d: "Gabriel Okara",
+c: "Buchi Emecheta",
+d: "Wole Soyinka",
 correct: "a"
 },
 {
-question: "The setting of Redemption Road is primarily in _____.",
-a: "Liberia",
-b: "Nigeria",
+question: "2. The setting of Redemption Road is mainly _______.",
+a: "Nigeria",
+b: "Liberia",
 c: "Ghana",
 d: "Sierra Leone",
-correct: "a"
+correct: "b"
 },
 {
-question: "The protagonist of Redemption Road is _____.",
-a: "Kekura",
-b: "Agnes",
-c: "Benjamin",
-d: "Hannah",
-correct: "a"
-},
-{
-question: "The central theme of Redemption Road is _____.",
-a: "The impact of civil war on ordinary people",
-b: "Colonialism",
-c: "Love and romance",
-d: "Education",
-correct: "a"
-},
-{
-question: "In Redemption Road, the title refers to _____.",
-a: "The journey from suffering to healing",
-b: "A physical road in Liberia",
-c: "A street name",
-d: "A political party",
-correct: "a"
-},
-{
-question: "The author of Redemption Road uses realism to _____.",
-a: "Portray the brutality of war authentically",
-b: "Create fantasy",
-c: "Simplify the story",
-d: "Avoid difficult topics",
-correct: "a"
-},
-{
-question: "\"Once Upon a Time\" is a poem written by _____.",
-a: "Gabriel Okara",
-b: "Elizabeth L. A. Kamara",
-c: "Elma Shaw",
-d: "Harper Lee",
-correct: "a"
-},
-{
-question: "The poem \"Once Upon a Time\" explores the theme of _____.",
-a: "The loss of innocence and authenticity in society",
-b: "War and violence",
-c: "Love and romance",
-d: "Nature",
-correct: "a"
-},
-{
-question: "In \"Once Upon a Time,\" the speaker addresses a _____.",
-a: "Child",
-b: "Government official",
-c: "Lover",
-d: "Teacher",
-correct: "a"
-},
-{
-question: "\"New Tongue\" is a poem written by _____.",
-a: "Elizabeth L. A. Kamara",
-b: "Gabriel Okara",
-c: "Elma Shaw",
-d: "Harper Lee",
-correct: "a"
-},
-{
-question: "The poem \"New Tongue\" explores the theme of _____.",
-a: "Cultural identity and language",
-b: "War",
-c: "Love",
-d: "Nature",
-correct: "a"
-},
-{
-question: "To Kill a Mockingbird is a novel written by _____.",
-a: "Harper Lee",
-b: "Elma Shaw",
-c: "Gabriel Okara",
-d: "Chinua Achebe",
-correct: "a"
-},
-{
-question: "To Kill a Mockingbird is set in the fictional town of _____.",
-a: "Maycomb, Alabama",
-b: "Monrovia, Liberia",
-c: "Lagos, Nigeria",
-d: "Accra, Ghana",
-correct: "a"
-},
-{
-question: "The narrator of To Kill a Mockingbird is _____.",
-a: "Scout Finch",
-b: "Atticus Finch",
-c: "Jem Finch",
-d: "Boo Radley",
-correct: "a"
-},
-{
-question: "The protagonist of To Kill a Mockingbird is _____.",
-a: "Scout Finch",
-b: "Atticus Finch",
-c: "Tom Robinson",
-d: "Boo Radley",
-correct: "a"
-},
-{
-question: "Atticus Finch is a _____ in To Kill a Mockingbird.",
-a: "Lawyer",
-b: "Doctor",
-c: "Teacher",
-d: "Farmer",
-correct: "a"
-},
-{
-question: "The theme of racism is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Once Upon a Time",
-c: "New Tongue",
-d: "None of the above",
-correct: "a"
-},
-{
-question: "Tom Robinson is accused of _____ in To Kill a Mockingbird.",
-a: "Rape",
-b: "Theft",
-c: "Murder",
-d: "Treason",
-correct: "a"
-},
-{
-question: "Boo Radley is a character in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Once Upon a Time",
-d: "New Tongue",
-correct: "a"
-},
-{
-question: "The theme of moral courage is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "The plot of Redemption Road follows the life of Kekura as she _____.",
-a: "Survives and rebuilds after the war",
-b: "Fights in the war",
-c: "Leaves Liberia",
-d: "Becomes a soldier",
-correct: "a"
-},
-{
-question: "In Redemption Road, the character Agnes represents _____.",
-a: "Resilience and hope",
-b: "Oppression",
-c: "Corruption",
-d: "Greed",
-correct: "a"
-},
-{
-question: "The use of flashbacks in Redemption Road helps to _____.",
-a: "Show characters' past experiences",
-b: "Speed up the plot",
-c: "Introduce new characters",
-d: "Confuse the reader",
-correct: "a"
-},
-{
-question: "The point of view in To Kill a Mockingbird is _____.",
-a: "First-person (Scout's perspective)",
-b: "Third-person omniscient",
-c: "Second-person",
-d: "Third-person limited",
-correct: "a"
-},
-{
-question: "The mockingbird in To Kill a Mockingbird symbolizes _____.",
-a: "Innocence",
-b: "Guilt",
-c: "Violence",
-d: "Revenge",
-correct: "a"
-},
-{
-question: "Which of these is a character in Redemption Road?",
-a: "Kekura",
-b: "Scout",
-c: "Atticus",
-d: "Boo Radley",
-correct: "a"
-},
-{
-question: "Which of these is a character in To Kill a Mockingbird?",
-a: "Atticus Finch",
-b: "Kekura",
-c: "Agnes",
-d: "Benjamin",
-correct: "a"
-},
-{
-question: "The theme of family is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "The setting of To Kill a Mockingbird is during the _____.",
-a: "Great Depression",
-b: "Civil War",
+question: "3. The major event that influences the plot of Redemption Road is the _______.",
+a: "Industrial Revolution",
+b: "Liberian Civil War",
 c: "World War II",
-d: "Colonial period",
+d: "Nigerian Civil War",
+correct: "b"
+},
+{
+question: "4. One major theme in Redemption Road is _______.",
+a: "Romance",
+b: "Healing after conflict",
+c: "Space exploration",
+d: "Sportsmanship",
+correct: "b"
+},
+{
+question: "5. The title Redemption Road symbolizes _______.",
+a: "A journey from suffering to hope",
+b: "A highway in Liberia",
+c: "A political campaign",
+d: "A school project",
 correct: "a"
 },
 {
-question: "The theme of justice is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Once Upon a Time",
-c: "New Tongue",
-d: "None of the above",
-correct: "a"
+question: "6. Which literary style is predominantly used in Redemption Road?",
+a: "Fantasy",
+b: "Realism",
+c: "Science fiction",
+d: "Comedy",
+correct: "b"
 },
 {
-question: "The conflict in Redemption Road is primarily _____.",
-a: "Person vs. society (war)",
-b: "Person vs. self",
-c: "Person vs. nature",
-d: "Person vs. technology",
-correct: "a"
+question: "7. A central lesson from Redemption Road is that _______.",
+a: "Violence solves problems",
+b: "Hope and forgiveness can restore lives",
+c: "Only the rich succeed",
+d: "War brings lasting peace",
+correct: "b"
 },
 {
-question: "The climax of To Kill a Mockingbird occurs during _____.",
-a: "The trial of Tom Robinson",
-b: "The death of Atticus",
-c: "The fire in the town",
-d: "The school play",
-correct: "a"
+question: "8. Which of the following is a major theme in Redemption Road?",
+a: "Revenge",
+b: "Healing and reconciliation",
+c: "Magic",
+d: "Adventure",
+correct: "b"
 },
 {
-question: "\"Once Upon a Time\" is written in _____.",
-a: "Free verse",
-b: "Blank verse",
-c: "Sonnet form",
-d: "Haiku form",
-correct: "a"
-},
-{
-question: "The poet of \"Once Upon a Time\" uses _____ to emphasize his message.",
-a: "Repetition",
-b: "Rhyme",
-c: "Alliteration",
-d: "All of the above",
-correct: "d"
-},
-{
-question: "\"New Tongue\" explores the challenge of _____.",
-a: "Adapting to a new language",
-b: "Learning to sing",
-c: "Writing poetry",
-d: "Traveling",
-correct: "a"
-},
-{
-question: "The tone of \"Once Upon a Time\" is _____.",
-a: "Nostalgic and critical",
-b: "Joyful and excited",
-c: "Angry and violent",
-d: "Indifferent",
-correct: "a"
-},
-{
-question: "The speaker in \"New Tongue\" expresses _____.",
-a: "A sense of loss and displacement",
-b: "Joy and celebration",
-c: "Anger and revenge",
-d: "Indifference",
-correct: "a"
-},
-{
-question: "Harper Lee won the _____ for To Kill a Mockingbird.",
-a: "Pulitzer Prize",
-b: "Nobel Prize",
-c: "Booker Prize",
-d: "Grammy Award",
-correct: "a"
-},
-{
-question: "The theme of prejudice is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "Dill Harris is a character in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Once Upon a Time",
-d: "New Tongue",
-correct: "a"
-},
-{
-question: "The theme of childhood innocence is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Once Upon a Time",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "Elma Shaw is a _____ writer.",
-a: "Liberian",
-b: "Nigerian",
-c: "American",
-d: "Ghanaian",
-correct: "a"
-},
-{
-question: "Gabriel Okara is a _____ poet.",
-a: "Nigerian",
-b: "Liberian",
-c: "American",
-d: "Ghanaian",
-correct: "a"
-},
-{
-question: "Elizabeth L. A. Kamara is a _____ poet.",
-a: "Sierra Leonean",
-b: "Nigerian",
-c: "Liberian",
-d: "Ghanaian",
-correct: "a"
-},
-{
-question: "Harper Lee is an _____ author.",
-a: "American",
-b: "British",
-c: "Nigerian",
-d: "Liberian",
-correct: "a"
-},
-{
-question: "The narrative technique in Redemption Road includes _____.",
-a: "Flashbacks and stream of consciousness",
-b: "Linear narration only",
-c: "Diary entries only",
-d: "Letters only",
-correct: "a"
-},
-{
-question: "The jury in To Kill a Mockingbird finds Tom Robinson _____.",
-a: "Guilty",
-b: "Not guilty",
-c: "Insane",
-d: "Innocent",
-correct: "a"
-},
-{
-question: "Atticus Finch teaches his children about _____.",
-a: "Empathy and understanding",
-b: "Hatred and violence",
-c: "Greed and selfishness",
-d: "Indifference",
-correct: "a"
-},
-{
-question: "The poem \"Once Upon a Time\" criticizes _____.",
-a: "Hypocrisy in society",
-b: "Government policies",
-c: "Religious institutions",
-d: "Education system",
-correct: "a"
-},
-{
-question: "The poem \"New Tongue\" uses _____ imagery.",
-a: "Cultural and linguistic",
-b: "War and violence",
-c: "Nature and landscape",
-d: "Technological",
-correct: "a"
-},
-{
-question: "The resolution of To Kill a Mockingbird involves _____.",
-a: "Boo Radley saving Scout and Jem",
-b: "Atticus winning the trial",
-c: "Tom Robinson being freed",
-d: "The destruction of Maycomb",
-correct: "a"
-},
-{
-question: "The theme of forgiveness is explored in _____.",
-a: "Redemption Road",
-b: "To Kill a Mockingbird",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "The literary term for the sequence of events in a story is _____.",
+question: "9. The events in Redemption Road are arranged mainly through the _______.",
 a: "Plot",
-b: "Theme",
-c: "Setting",
-d: "Characterization",
+b: "Poem",
+c: "Dialogue only",
+d: "Song",
 correct: "a"
 },
 {
-question: "The central idea or message of a literary work is the _____.",
+question: "10. Characters in Redemption Road mainly struggle against _______.",
+a: "Natural disasters",
+b: "The effects of war",
+c: "Wild animals",
+d: "Technology",
+correct: "b"
+},
+{
+question: "11. The sequence of events in a literary work is called _______.",
 a: "Theme",
 b: "Plot",
-c: "Setting",
-d: "Conflict",
-correct: "a"
+c: "Tone",
+d: "Setting",
+correct: "b"
 },
 {
-question: "A character who undergoes significant change is a _____ character.",
-a: "Dynamic",
-b: "Static",
-c: "Flat",
-d: "Minor",
-correct: "a"
-},
-{
-question: "A character who does not change is a _____ character.",
-a: "Static",
-b: "Dynamic",
-c: "Round",
-d: "Major",
-correct: "a"
-},
-{
-question: "The time and place where a story occurs is the _____.",
-a: "Setting",
-b: "Plot",
-c: "Theme",
-d: "Conflict",
-correct: "a"
-},
-{
-question: "The struggle between opposing forces in a story is the _____.",
+question: "12. The time and place in which a story occurs is known as the _______.",
 a: "Conflict",
+b: "Setting",
+c: "Mood",
+d: "Climax",
+correct: "b"
+},
+{
+question: "13. The main idea of a literary work is called the _______.",
+a: "Theme",
+b: "Conflict",
+c: "Character",
+d: "Narrator",
+correct: "a"
+},
+{
+question: "14. The leading character in a story is the _______.",
+a: "Antagonist",
+b: "Protagonist",
+c: "Narrator",
+d: "Villain",
+correct: "b"
+},
+{
+question: "15. The character who opposes the protagonist is called the _______.",
+a: "Foil",
+b: "Narrator",
+c: "Antagonist",
+d: "Minor character",
+correct: "c"
+},
+{
+question: "16. The highest point of excitement in a story is the _______.",
+a: "Exposition",
 b: "Climax",
 c: "Resolution",
+d: "Introduction",
+correct: "b"
+},
+{
+question: "17. The final outcome of a story is called the _______.",
+a: "Conflict",
+b: "Resolution",
+c: "Setting",
+d: "Suspense",
+correct: "b"
+},
+{
+question: "18. A struggle between opposing forces in literature is known as _______.",
+a: "Conflict",
+b: "Irony",
+c: "Mood",
+d: "Plot",
+correct: "a"
+},
+{
+question: "19. The person who tells a story is called the _______.",
+a: "Author",
+b: "Narrator",
+c: "Reader",
+d: "Publisher",
+correct: "b"
+},
+{
+question: "20. The emotional atmosphere created in a literary work is known as the _______.",
+a: "Mood",
+b: "Theme",
+c: "Setting",
+d: "Character",
+correct: "a"
+},
+{
+question: "21. A comparison using 'like' or 'as' is called a _______.",
+a: "Metaphor",
+b: "Simile",
+c: "Irony",
+d: "Pun",
+correct: "b"
+},
+{
+question: "22. 'The classroom was a zoo' is an example of _______.",
+a: "Simile",
+b: "Metaphor",
+c: "Hyperbole",
+d: "Oxymoron",
+correct: "b"
+},
+{
+question: "23. Giving human qualities to non-living things is called _______.",
+a: "Irony",
+b: "Personification",
+c: "Pun",
+d: "Alliteration",
+correct: "b"
+},
+{
+question: "24. 'The wind whispered through the trees' is an example of _______.",
+a: "Hyperbole",
+b: "Personification",
+c: "Metaphor",
+d: "Simile",
+correct: "b"
+},
+{
+question: "25. Deliberate exaggeration for emphasis is known as _______.",
+a: "Hyperbole",
+b: "Irony",
+c: "Pun",
+d: "Symbolism",
+correct: "a"
+},
+{
+question: "26. 'I have told you a million times' is an example of _______.",
+a: "Metaphor",
+b: "Hyperbole",
+c: "Oxymoron",
+d: "Irony",
+correct: "b"
+},
+{
+question: "27. The repetition of the same consonant sound at the beginning of words is called _______.",
+a: "Alliteration",
+b: "Assonance",
+c: "Irony",
+d: "Imagery",
+correct: "a"
+},
+{
+question: "28. 'Peter Piper picked a peck of peppers' illustrates _______.",
+a: "Irony",
+b: "Alliteration",
+c: "Metaphor",
+d: "Pun",
+correct: "b"
+},
+{
+question: "29. A word that imitates a natural sound is called _______.",
+a: "Onomatopoeia",
+b: "Irony",
+c: "Pun",
+d: "Assonance",
+correct: "a"
+},
+{
+question: "30. 'Buzz', 'bang' and 'hiss' are examples of _______.",
+a: "Simile",
+b: "Onomatopoeia",
+c: "Metaphor",
+d: "Symbolism",
+correct: "b"
+},
+{
+question: "31. Verbal irony occurs when _______.",
+a: "Words mean exactly what they say",
+b: "A speaker says the opposite of what is meant",
+c: "A poem has many stanzas",
+d: "A story ends happily",
+correct: "b"
+},
+{
+question: "32. Imagery is language that appeals to the _______.",
+a: "Government",
+b: "Five senses",
+c: "Teacher",
+d: "Audience only",
+correct: "b"
+},
+{
+question: "33. A lyric poem mainly expresses the poet's _______.",
+a: "Feelings",
+b: "History",
+c: "Politics",
+d: "Business ideas",
+correct: "a"
+},
+{
+question: "34. A narrative poem tells a _______.",
+a: "Story",
+b: "Joke",
+c: "Speech",
+d: "News report",
+correct: "a"
+},
+{
+question: "35. A dramatic poem is written mainly to be _______.",
+a: "Sung",
+b: "Acted or performed",
+c: "Ignored",
+d: "Printed only",
+correct: "b"
+},
+{
+question: "36. An elegy is a poem written to express _______.",
+a: "Joy",
+b: "Sorrow for the dead",
+c: "Anger",
+d: "Victory",
+correct: "b"
+},
+{
+question: "37. A sonnet contains _______ lines.",
+a: "10",
+b: "12",
+c: "14",
+d: "16",
+correct: "c"
+},
+{
+question: "38. An ode is a poem written in praise of _______.",
+a: "Someone or something",
+b: "War only",
+c: "Animals only",
+d: "Children only",
+correct: "a"
+},
+{
+question: "39. A ballad is usually a _______.",
+a: "Short speech",
+b: "Narrative poem often meant for singing",
+c: "Play",
+d: "Novel",
+correct: "b"
+},
+{
+question: "40. An epic is a long poem about _______.",
+a: "Great heroes",
+b: "Cooking",
+c: "School life",
+d: "Animals",
+correct: "a"
+},
+
+{
+question: "41. A poem without a regular rhyme scheme or meter is called _______.",
+a: "Free verse",
+b: "Sonnet",
+c: "Ballad",
+d: "Ode",
+correct: "a"
+},
+{
+question: "42. The choice of words used by an author is known as _______.",
+a: "Diction",
+b: "Conflict",
+c: "Setting",
+d: "Plot",
+correct: "a"
+},
+{
+question: "43. A character who changes significantly during the course of a story is called a _______ character.",
+a: "Static",
+b: "Dynamic",
+c: "Flat",
+d: "Minor",
+correct: "b"
+},
+{
+question: "44. A character who remains the same throughout a story is called a _______ character.",
+a: "Dynamic",
+b: "Round",
+c: "Static",
+d: "Major",
+correct: "c"
+},
+{
+question: "45. A character with many developed qualities is described as a _______ character.",
+a: "Flat",
+b: "Round",
+c: "Minor",
+d: "Static",
+correct: "b"
+},
+{
+question: "46. A symbol in literature is something that represents _______.",
+a: "Only itself",
+b: "Another idea or meaning",
+c: "A type of poem",
+d: "A conflict",
+correct: "b"
+},
+{
+question: "47. The author's attitude toward a subject or audience is known as _______.",
+a: "Mood",
+b: "Tone",
+c: "Theme",
+d: "Conflict",
+correct: "b"
+},
+{
+question: "48. The atmosphere or feeling experienced by the reader is called the _______.",
+a: "Mood",
+b: "Tone",
+c: "Climax",
+d: "Setting",
+correct: "a"
+},
+{
+question: "49. The introduction of a literary work where characters and setting are presented is called the _______.",
+a: "Resolution",
+b: "Climax",
+c: "Exposition",
+d: "Conflict",
+correct: "c"
+},
+{
+question: "50. The events leading to the climax of a story are known as the _______.",
+a: "Falling action",
+b: "Rising action",
+c: "Resolution",
 d: "Exposition",
-correct: "a"
+correct: "b"
 },
 {
-question: "The highest point of tension in a story is the _____.",
-a: "Climax",
+question: "51. The events that occur after the climax are called the _______.",
+a: "Rising action",
 b: "Exposition",
-c: "Rising action",
-d: "Resolution",
+c: "Falling action",
+d: "Conflict",
+correct: "c"
+},
+{
+question: "52. Which literary device gives clues about future events in a story?",
+a: "Foreshadowing",
+b: "Irony",
+c: "Flashback",
+d: "Pun",
 correct: "a"
 },
 {
-question: "The person who tells the story is the _____.",
-a: "Narrator",
-b: "Author",
-c: "Protagonist",
-d: "Antagonist",
+question: "53. A flashback is a literary device that _______.",
+a: "Returns the story to an earlier event",
+b: "Ends the story suddenly",
+c: "Introduces a new character",
+d: "Changes the setting",
 correct: "a"
-}
+},
+{
+question: "54. The struggle between a character and another character is called _______ conflict.",
+a: "Person vs. Nature",
+b: "Person vs. Self",
+c: "Person vs. Person",
+d: "Person vs. Society",
+correct: "c"
+},
+{
+question: "55. The struggle between a character and society is known as _______.",
+a: "Person vs. Society",
+b: "Person vs. Nature",
+c: "Person vs. Self",
+d: "Person vs. Fate",
+correct: "a"
+},
+{
+question: "56. The struggle within a character's mind is called _______.",
+a: "Person vs. Nature",
+b: "Person vs. Society",
+c: "Person vs. Self",
+d: "Person vs. Person",
+correct: "c"
+},
+{
+question: "57. In Redemption Road, the characters' experiences mainly teach the importance of _______.",
+a: "Hatred",
+b: "Revenge",
+c: "Hope, forgiveness and reconciliation",
+d: "Violence",
+correct: "c"
+},
+{
+question: "58. Which literary element helps readers understand where and when a story happens?",
+a: "Theme",
+b: "Setting",
+c: "Tone",
+d: "Symbolism",
+correct: "b"
+},
+{
+question: "59. Literature is primarily the artistic expression of _______.",
+a: "Human experiences and imagination",
+b: "Scientific discoveries",
+c: "Mathematical formulas",
+d: "Political campaigns",
+correct: "a"
+},
+{
+question: "60. One major purpose of studying literature is to _______.",
+a: "Develop language skills and moral values",
+b: "Learn computer programming",
+c: "Become a politician",
+d: "Avoid reading books",
+correct: "a"
+},
+
 ],
+
 
 },
 
 "SS 2": {
+
 "Literature": [
 {
-question: "Redemption Road is a novel written by _____.",
+question: "1. Redemption Road is a novel written by _______.",
 a: "Elma Shaw",
 b: "Chinua Achebe",
-c: "Harper Lee",
-d: "Gabriel Okara",
+c: "Buchi Emecheta",
+d: "Wole Soyinka",
 correct: "a"
 },
 {
-question: "The setting of Redemption Road is primarily in _____.",
-a: "Liberia",
-b: "Nigeria",
+question: "2. The setting of Redemption Road is mainly _______.",
+a: "Nigeria",
+b: "Liberia",
 c: "Ghana",
 d: "Sierra Leone",
-correct: "a"
+correct: "b"
 },
 {
-question: "The protagonist of Redemption Road is _____.",
-a: "Kekura",
-b: "Agnes",
-c: "Benjamin",
-d: "Hannah",
-correct: "a"
-},
-{
-question: "The central theme of Redemption Road is _____.",
-a: "The impact of civil war on ordinary people",
-b: "Colonialism",
-c: "Love and romance",
-d: "Education",
-correct: "a"
-},
-{
-question: "In Redemption Road, the title refers to _____.",
-a: "The journey from suffering to healing",
-b: "A physical road in Liberia",
-c: "A street name",
-d: "A political party",
-correct: "a"
-},
-{
-question: "The author of Redemption Road uses realism to _____.",
-a: "Portray the brutality of war authentically",
-b: "Create fantasy",
-c: "Simplify the story",
-d: "Avoid difficult topics",
-correct: "a"
-},
-{
-question: "\"Once Upon a Time\" is a poem written by _____.",
-a: "Gabriel Okara",
-b: "Elizabeth L. A. Kamara",
-c: "Elma Shaw",
-d: "Harper Lee",
-correct: "a"
-},
-{
-question: "The poem \"Once Upon a Time\" explores the theme of _____.",
-a: "The loss of innocence and authenticity in society",
-b: "War and violence",
-c: "Love and romance",
-d: "Nature",
-correct: "a"
-},
-{
-question: "In \"Once Upon a Time,\" the speaker addresses a _____.",
-a: "Child",
-b: "Government official",
-c: "Lover",
-d: "Teacher",
-correct: "a"
-},
-{
-question: "\"New Tongue\" is a poem written by _____.",
-a: "Elizabeth L. A. Kamara",
-b: "Gabriel Okara",
-c: "Elma Shaw",
-d: "Harper Lee",
-correct: "a"
-},
-{
-question: "The poem \"New Tongue\" explores the theme of _____.",
-a: "Cultural identity and language",
-b: "War",
-c: "Love",
-d: "Nature",
-correct: "a"
-},
-{
-question: "To Kill a Mockingbird is a novel written by _____.",
-a: "Harper Lee",
-b: "Elma Shaw",
-c: "Gabriel Okara",
-d: "Chinua Achebe",
-correct: "a"
-},
-{
-question: "To Kill a Mockingbird is set in the fictional town of _____.",
-a: "Maycomb, Alabama",
-b: "Monrovia, Liberia",
-c: "Lagos, Nigeria",
-d: "Accra, Ghana",
-correct: "a"
-},
-{
-question: "The narrator of To Kill a Mockingbird is _____.",
-a: "Scout Finch",
-b: "Atticus Finch",
-c: "Jem Finch",
-d: "Boo Radley",
-correct: "a"
-},
-{
-question: "The protagonist of To Kill a Mockingbird is _____.",
-a: "Scout Finch",
-b: "Atticus Finch",
-c: "Tom Robinson",
-d: "Boo Radley",
-correct: "a"
-},
-{
-question: "Atticus Finch is a _____ in To Kill a Mockingbird.",
-a: "Lawyer",
-b: "Doctor",
-c: "Teacher",
-d: "Farmer",
-correct: "a"
-},
-{
-question: "The theme of racism is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Once Upon a Time",
-c: "New Tongue",
-d: "None of the above",
-correct: "a"
-},
-{
-question: "Tom Robinson is accused of _____ in To Kill a Mockingbird.",
-a: "Rape",
-b: "Theft",
-c: "Murder",
-d: "Treason",
-correct: "a"
-},
-{
-question: "Boo Radley is a character in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Once Upon a Time",
-d: "New Tongue",
-correct: "a"
-},
-{
-question: "The theme of moral courage is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "The plot of Redemption Road follows the life of Kekura as she _____.",
-a: "Survives and rebuilds after the war",
-b: "Fights in the war",
-c: "Leaves Liberia",
-d: "Becomes a soldier",
-correct: "a"
-},
-{
-question: "In Redemption Road, the character Agnes represents _____.",
-a: "Resilience and hope",
-b: "Oppression",
-c: "Corruption",
-d: "Greed",
-correct: "a"
-},
-{
-question: "The use of flashbacks in Redemption Road helps to _____.",
-a: "Show characters' past experiences",
-b: "Speed up the plot",
-c: "Introduce new characters",
-d: "Confuse the reader",
-correct: "a"
-},
-{
-question: "The point of view in To Kill a Mockingbird is _____.",
-a: "First-person (Scout's perspective)",
-b: "Third-person omniscient",
-c: "Second-person",
-d: "Third-person limited",
-correct: "a"
-},
-{
-question: "The mockingbird in To Kill a Mockingbird symbolizes _____.",
-a: "Innocence",
-b: "Guilt",
-c: "Violence",
-d: "Revenge",
-correct: "a"
-},
-{
-question: "Which of these is a character in Redemption Road?",
-a: "Kekura",
-b: "Scout",
-c: "Atticus",
-d: "Boo Radley",
-correct: "a"
-},
-{
-question: "Which of these is a character in To Kill a Mockingbird?",
-a: "Atticus Finch",
-b: "Kekura",
-c: "Agnes",
-d: "Benjamin",
-correct: "a"
-},
-{
-question: "The theme of family is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "The setting of To Kill a Mockingbird is during the _____.",
-a: "Great Depression",
-b: "Civil War",
+question: "3. The major event that influences the plot of Redemption Road is the _______.",
+a: "Industrial Revolution",
+b: "Liberian Civil War",
 c: "World War II",
-d: "Colonial period",
+d: "Nigerian Civil War",
+correct: "b"
+},
+{
+question: "4. One major theme in Redemption Road is _______.",
+a: "Romance",
+b: "Healing after conflict",
+c: "Space exploration",
+d: "Sportsmanship",
+correct: "b"
+},
+{
+question: "5. The title Redemption Road symbolizes _______.",
+a: "A journey from suffering to hope",
+b: "A highway in Liberia",
+c: "A political campaign",
+d: "A school project",
 correct: "a"
 },
 {
-question: "The theme of justice is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Once Upon a Time",
-c: "New Tongue",
-d: "None of the above",
-correct: "a"
+question: "6. Which literary style is predominantly used in Redemption Road?",
+a: "Fantasy",
+b: "Realism",
+c: "Science fiction",
+d: "Comedy",
+correct: "b"
 },
 {
-question: "The conflict in Redemption Road is primarily _____.",
-a: "Person vs. society (war)",
-b: "Person vs. self",
-c: "Person vs. nature",
-d: "Person vs. technology",
-correct: "a"
+question: "7. A central lesson from Redemption Road is that _______.",
+a: "Violence solves problems",
+b: "Hope and forgiveness can restore lives",
+c: "Only the rich succeed",
+d: "War brings lasting peace",
+correct: "b"
 },
 {
-question: "The climax of To Kill a Mockingbird occurs during _____.",
-a: "The trial of Tom Robinson",
-b: "The death of Atticus",
-c: "The fire in the town",
-d: "The school play",
-correct: "a"
+question: "8. Which of the following is a major theme in Redemption Road?",
+a: "Revenge",
+b: "Healing and reconciliation",
+c: "Magic",
+d: "Adventure",
+correct: "b"
 },
 {
-question: "\"Once Upon a Time\" is written in _____.",
-a: "Free verse",
-b: "Blank verse",
-c: "Sonnet form",
-d: "Haiku form",
-correct: "a"
-},
-{
-question: "The poet of \"Once Upon a Time\" uses _____ to emphasize his message.",
-a: "Repetition",
-b: "Rhyme",
-c: "Alliteration",
-d: "All of the above",
-correct: "d"
-},
-{
-question: "\"New Tongue\" explores the challenge of _____.",
-a: "Adapting to a new language",
-b: "Learning to sing",
-c: "Writing poetry",
-d: "Traveling",
-correct: "a"
-},
-{
-question: "The tone of \"Once Upon a Time\" is _____.",
-a: "Nostalgic and critical",
-b: "Joyful and excited",
-c: "Angry and violent",
-d: "Indifferent",
-correct: "a"
-},
-{
-question: "The speaker in \"New Tongue\" expresses _____.",
-a: "A sense of loss and displacement",
-b: "Joy and celebration",
-c: "Anger and revenge",
-d: "Indifference",
-correct: "a"
-},
-{
-question: "Harper Lee won the _____ for To Kill a Mockingbird.",
-a: "Pulitzer Prize",
-b: "Nobel Prize",
-c: "Booker Prize",
-d: "Grammy Award",
-correct: "a"
-},
-{
-question: "The theme of prejudice is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "Dill Harris is a character in _____.",
-a: "To Kill a Mockingbird",
-b: "Redemption Road",
-c: "Once Upon a Time",
-d: "New Tongue",
-correct: "a"
-},
-{
-question: "The theme of childhood innocence is explored in _____.",
-a: "To Kill a Mockingbird",
-b: "Once Upon a Time",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "Elma Shaw is a _____ writer.",
-a: "Liberian",
-b: "Nigerian",
-c: "American",
-d: "Ghanaian",
-correct: "a"
-},
-{
-question: "Gabriel Okara is a _____ poet.",
-a: "Nigerian",
-b: "Liberian",
-c: "American",
-d: "Ghanaian",
-correct: "a"
-},
-{
-question: "Elizabeth L. A. Kamara is a _____ poet.",
-a: "Sierra Leonean",
-b: "Nigerian",
-c: "Liberian",
-d: "Ghanaian",
-correct: "a"
-},
-{
-question: "Harper Lee is an _____ author.",
-a: "American",
-b: "British",
-c: "Nigerian",
-d: "Liberian",
-correct: "a"
-},
-{
-question: "The narrative technique in Redemption Road includes _____.",
-a: "Flashbacks and stream of consciousness",
-b: "Linear narration only",
-c: "Diary entries only",
-d: "Letters only",
-correct: "a"
-},
-{
-question: "The jury in To Kill a Mockingbird finds Tom Robinson _____.",
-a: "Guilty",
-b: "Not guilty",
-c: "Insane",
-d: "Innocent",
-correct: "a"
-},
-{
-question: "Atticus Finch teaches his children about _____.",
-a: "Empathy and understanding",
-b: "Hatred and violence",
-c: "Greed and selfishness",
-d: "Indifference",
-correct: "a"
-},
-{
-question: "The poem \"Once Upon a Time\" criticizes _____.",
-a: "Hypocrisy in society",
-b: "Government policies",
-c: "Religious institutions",
-d: "Education system",
-correct: "a"
-},
-{
-question: "The poem \"New Tongue\" uses _____ imagery.",
-a: "Cultural and linguistic",
-b: "War and violence",
-c: "Nature and landscape",
-d: "Technological",
-correct: "a"
-},
-{
-question: "The resolution of To Kill a Mockingbird involves _____.",
-a: "Boo Radley saving Scout and Jem",
-b: "Atticus winning the trial",
-c: "Tom Robinson being freed",
-d: "The destruction of Maycomb",
-correct: "a"
-},
-{
-question: "The theme of forgiveness is explored in _____.",
-a: "Redemption Road",
-b: "To Kill a Mockingbird",
-c: "Both A and B",
-d: "None of the above",
-correct: "c"
-},
-{
-question: "The literary term for the sequence of events in a story is _____.",
+question: "9. The events in Redemption Road are arranged mainly through the _______.",
 a: "Plot",
-b: "Theme",
-c: "Setting",
-d: "Characterization",
+b: "Poem",
+c: "Dialogue only",
+d: "Song",
 correct: "a"
 },
 {
-question: "The central idea or message of a literary work is the _____.",
+question: "10. Characters in Redemption Road mainly struggle against _______.",
+a: "Natural disasters",
+b: "The effects of war",
+c: "Wild animals",
+d: "Technology",
+correct: "b"
+},
+{
+question: "11. The sequence of events in a literary work is called _______.",
 a: "Theme",
 b: "Plot",
-c: "Setting",
-d: "Conflict",
-correct: "a"
+c: "Tone",
+d: "Setting",
+correct: "b"
 },
 {
-question: "A character who undergoes significant change is a _____ character.",
-a: "Dynamic",
-b: "Static",
-c: "Flat",
-d: "Minor",
-correct: "a"
-},
-{
-question: "A character who does not change is a _____ character.",
-a: "Static",
-b: "Dynamic",
-c: "Round",
-d: "Major",
-correct: "a"
-},
-{
-question: "The time and place where a story occurs is the _____.",
-a: "Setting",
-b: "Plot",
-c: "Theme",
-d: "Conflict",
-correct: "a"
-},
-{
-question: "The struggle between opposing forces in a story is the _____.",
+question: "12. The time and place in which a story occurs is known as the _______.",
 a: "Conflict",
+b: "Setting",
+c: "Mood",
+d: "Climax",
+correct: "b"
+},
+{
+question: "13. The main idea of a literary work is called the _______.",
+a: "Theme",
+b: "Conflict",
+c: "Character",
+d: "Narrator",
+correct: "a"
+},
+{
+question: "14. The leading character in a story is the _______.",
+a: "Antagonist",
+b: "Protagonist",
+c: "Narrator",
+d: "Villain",
+correct: "b"
+},
+{
+question: "15. The character who opposes the protagonist is called the _______.",
+a: "Foil",
+b: "Narrator",
+c: "Antagonist",
+d: "Minor character",
+correct: "c"
+},
+{
+question: "16. The highest point of excitement in a story is the _______.",
+a: "Exposition",
 b: "Climax",
 c: "Resolution",
+d: "Introduction",
+correct: "b"
+},
+{
+question: "17. The final outcome of a story is called the _______.",
+a: "Conflict",
+b: "Resolution",
+c: "Setting",
+d: "Suspense",
+correct: "b"
+},
+{
+question: "18. A struggle between opposing forces in literature is known as _______.",
+a: "Conflict",
+b: "Irony",
+c: "Mood",
+d: "Plot",
+correct: "a"
+},
+{
+question: "19. The person who tells a story is called the _______.",
+a: "Author",
+b: "Narrator",
+c: "Reader",
+d: "Publisher",
+correct: "b"
+},
+{
+question: "20. The emotional atmosphere created in a literary work is known as the _______.",
+a: "Mood",
+b: "Theme",
+c: "Setting",
+d: "Character",
+correct: "a"
+},
+{
+question: "21. A comparison using 'like' or 'as' is called a _______.",
+a: "Metaphor",
+b: "Simile",
+c: "Irony",
+d: "Pun",
+correct: "b"
+},
+{
+question: "22. 'The classroom was a zoo' is an example of _______.",
+a: "Simile",
+b: "Metaphor",
+c: "Hyperbole",
+d: "Oxymoron",
+correct: "b"
+},
+{
+question: "23. Giving human qualities to non-living things is called _______.",
+a: "Irony",
+b: "Personification",
+c: "Pun",
+d: "Alliteration",
+correct: "b"
+},
+{
+question: "24. 'The wind whispered through the trees' is an example of _______.",
+a: "Hyperbole",
+b: "Personification",
+c: "Metaphor",
+d: "Simile",
+correct: "b"
+},
+{
+question: "25. Deliberate exaggeration for emphasis is known as _______.",
+a: "Hyperbole",
+b: "Irony",
+c: "Pun",
+d: "Symbolism",
+correct: "a"
+},
+{
+question: "26. 'I have told you a million times' is an example of _______.",
+a: "Metaphor",
+b: "Hyperbole",
+c: "Oxymoron",
+d: "Irony",
+correct: "b"
+},
+{
+question: "27. The repetition of the same consonant sound at the beginning of words is called _______.",
+a: "Alliteration",
+b: "Assonance",
+c: "Irony",
+d: "Imagery",
+correct: "a"
+},
+{
+question: "28. 'Peter Piper picked a peck of peppers' illustrates _______.",
+a: "Irony",
+b: "Alliteration",
+c: "Metaphor",
+d: "Pun",
+correct: "b"
+},
+{
+question: "29. A word that imitates a natural sound is called _______.",
+a: "Onomatopoeia",
+b: "Irony",
+c: "Pun",
+d: "Assonance",
+correct: "a"
+},
+{
+question: "30. 'Buzz', 'bang' and 'hiss' are examples of _______.",
+a: "Simile",
+b: "Onomatopoeia",
+c: "Metaphor",
+d: "Symbolism",
+correct: "b"
+},
+{
+question: "31. Verbal irony occurs when _______.",
+a: "Words mean exactly what they say",
+b: "A speaker says the opposite of what is meant",
+c: "A poem has many stanzas",
+d: "A story ends happily",
+correct: "b"
+},
+{
+question: "32. Imagery is language that appeals to the _______.",
+a: "Government",
+b: "Five senses",
+c: "Teacher",
+d: "Audience only",
+correct: "b"
+},
+{
+question: "33. A lyric poem mainly expresses the poet's _______.",
+a: "Feelings",
+b: "History",
+c: "Politics",
+d: "Business ideas",
+correct: "a"
+},
+{
+question: "34. A narrative poem tells a _______.",
+a: "Story",
+b: "Joke",
+c: "Speech",
+d: "News report",
+correct: "a"
+},
+{
+question: "35. A dramatic poem is written mainly to be _______.",
+a: "Sung",
+b: "Acted or performed",
+c: "Ignored",
+d: "Printed only",
+correct: "b"
+},
+{
+question: "36. An elegy is a poem written to express _______.",
+a: "Joy",
+b: "Sorrow for the dead",
+c: "Anger",
+d: "Victory",
+correct: "b"
+},
+{
+question: "37. A sonnet contains _______ lines.",
+a: "10",
+b: "12",
+c: "14",
+d: "16",
+correct: "c"
+},
+{
+question: "38. An ode is a poem written in praise of _______.",
+a: "Someone or something",
+b: "War only",
+c: "Animals only",
+d: "Children only",
+correct: "a"
+},
+{
+question: "39. A ballad is usually a _______.",
+a: "Short speech",
+b: "Narrative poem often meant for singing",
+c: "Play",
+d: "Novel",
+correct: "b"
+},
+{
+question: "40. An epic is a long poem about _______.",
+a: "Great heroes",
+b: "Cooking",
+c: "School life",
+d: "Animals",
+correct: "a"
+},
+
+
+{
+question: "41. A poem without a regular rhyme scheme or meter is called _______.",
+a: "Free verse",
+b: "Sonnet",
+c: "Ballad",
+d: "Ode",
+correct: "a"
+},
+{
+question: "42. The choice of words used by an author is known as _______.",
+a: "Diction",
+b: "Conflict",
+c: "Setting",
+d: "Plot",
+correct: "a"
+},
+{
+question: "43. A character who changes significantly during the course of a story is called a _______ character.",
+a: "Static",
+b: "Dynamic",
+c: "Flat",
+d: "Minor",
+correct: "b"
+},
+{
+question: "44. A character who remains the same throughout a story is called a _______ character.",
+a: "Dynamic",
+b: "Round",
+c: "Static",
+d: "Major",
+correct: "c"
+},
+{
+question: "45. A character with many developed qualities is described as a _______ character.",
+a: "Flat",
+b: "Round",
+c: "Minor",
+d: "Static",
+correct: "b"
+},
+{
+question: "46. A symbol in literature is something that represents _______.",
+a: "Only itself",
+b: "Another idea or meaning",
+c: "A type of poem",
+d: "A conflict",
+correct: "b"
+},
+{
+question: "47. The author's attitude toward a subject or audience is known as _______.",
+a: "Mood",
+b: "Tone",
+c: "Theme",
+d: "Conflict",
+correct: "b"
+},
+{
+question: "48. The atmosphere or feeling experienced by the reader is called the _______.",
+a: "Mood",
+b: "Tone",
+c: "Climax",
+d: "Setting",
+correct: "a"
+},
+{
+question: "49. The introduction of a literary work where characters and setting are presented is called the _______.",
+a: "Resolution",
+b: "Climax",
+c: "Exposition",
+d: "Conflict",
+correct: "c"
+},
+{
+question: "50. The events leading to the climax of a story are known as the _______.",
+a: "Falling action",
+b: "Rising action",
+c: "Resolution",
 d: "Exposition",
-correct: "a"
+correct: "b"
 },
 {
-question: "The highest point of tension in a story is the _____.",
-a: "Climax",
+question: "51. The events that occur after the climax are called the _______.",
+a: "Rising action",
 b: "Exposition",
-c: "Rising action",
-d: "Resolution",
+c: "Falling action",
+d: "Conflict",
+correct: "c"
+},
+{
+question: "52. Which literary device gives clues about future events in a story?",
+a: "Foreshadowing",
+b: "Irony",
+c: "Flashback",
+d: "Pun",
 correct: "a"
 },
 {
-question: "The person who tells the story is the _____.",
-a: "Narrator",
-b: "Author",
-c: "Protagonist",
-d: "Antagonist",
+question: "53. A flashback is a literary device that _______.",
+a: "Returns the story to an earlier event",
+b: "Ends the story suddenly",
+c: "Introduces a new character",
+d: "Changes the setting",
+correct: "a"
+},
+{
+question: "54. The struggle between a character and another character is called _______ conflict.",
+a: "Person vs. Nature",
+b: "Person vs. Self",
+c: "Person vs. Person",
+d: "Person vs. Society",
+correct: "c"
+},
+{
+question: "55. The struggle between a character and society is known as _______.",
+a: "Person vs. Society",
+b: "Person vs. Nature",
+c: "Person vs. Self",
+d: "Person vs. Fate",
+correct: "a"
+},
+{
+question: "56. The struggle within a character's mind is called _______.",
+a: "Person vs. Nature",
+b: "Person vs. Society",
+c: "Person vs. Self",
+d: "Person vs. Person",
+correct: "c"
+},
+{
+question: "57. In Redemption Road, the characters' experiences mainly teach the importance of _______.",
+a: "Hatred",
+b: "Revenge",
+c: "Hope, forgiveness and reconciliation",
+d: "Violence",
+correct: "c"
+},
+{
+question: "58. Which literary element helps readers understand where and when a story happens?",
+a: "Theme",
+b: "Setting",
+c: "Tone",
+d: "Symbolism",
+correct: "b"
+},
+{
+question: "59. Literature is primarily the artistic expression of _______.",
+a: "Human experiences and imagination",
+b: "Scientific discoveries",
+c: "Mathematical formulas",
+d: "Political campaigns",
+correct: "a"
+},
+{
+question: "60. One major purpose of studying literature is to _______.",
+a: "Develop language skills and moral values",
+b: "Learn computer programming",
+c: "Become a politician",
+d: "Avoid reading books",
 correct: "a"
 },
 ],
