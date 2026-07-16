@@ -8439,6 +8439,250 @@ correct:"a"
 }, 
 ],
 
+"Accounting": [
+{
+question: "The process of recording and organizing financial transactions of a business in chronological order is called ______.",
+a: "Financial accounting",
+b: "Bookkeeping",
+c: "Auditing",
+d: "Budgeting",
+correct: "b"
+},
+{
+question: "Financial accounting is primarily concerned with ______.",
+a: "Recording daily transactions only",
+b: "Summarizing and reporting financial information to external stakeholders",
+c: "Managing the company's cash flow",
+d: "Preparing tax returns only",
+correct: "b"
+},
+{
+question: "Which of the following is the main purpose of financial accounting?",
+a: "To maximize profit",
+b: "To provide relevant financial information to stakeholders for decision-making",
+c: "To record all cash transactions",
+d: "To prepare the payroll",
+correct: "b"
+},
+{
+question: "The primary difference between bookkeeping and accounting is that ______.",
+a: "Bookkeeping is more important than accounting",
+b: "Accounting involves summarizing and analyzing, while bookkeeping is primarily recording",
+c: "They are exactly the same thing",
+d: "Bookkeeping is done only by computers",
+correct: "b"
+},
+{
+question: "The process of summarizing, analyzing, and reporting financial transactions to external parties is known as ______.",
+a: "Bookkeeping",
+b: "Financial accounting",
+c: "Management accounting",
+d: "Cost accounting",
+correct: "b"
+},
+{
+question: "One of the following is NOT a reason for studying financial accounting.",
+a: "To assess the profitability of a business",
+b: "To help in making investment decisions",
+c: "To determine the market price of products",
+d: "To ensure compliance with financial regulations",
+correct: "c"
+},
+{
+question: "Financial accounting helps a business to ______.",
+a: "Monitor cash flow and track expenses",
+b: "Increase sales directly",
+c: "Reduce employee salaries",
+d: "Eliminate all business risks",
+correct: "a"
+},
+{
+question: "The importance of accounting to a business includes all EXCEPT ______.",
+a: "Providing information for decision-making",
+b: "Tracking financial performance",
+c: "Guaranteeing profit",
+d: "Preparing tax returns",
+correct: "c"
+},
+{
+question: "Which of the following is an internal user of accounting information?",
+a: "Bank",
+b: "Manager",
+c: "Creditor",
+d: "Government",
+correct: "b"
+},
+{
+question: "Shareholders are classified as ______ users of accounting information.",
+a: "Internal",
+b: "External",
+c: "Government",
+d: "Management",
+correct: "b"
+},
+{
+question: "Which of the following users would be most interested in a company's ability to pay its debts?",
+a: "Employee",
+b: "Creditor",
+c: "Customer",
+d: "Manager",
+correct: "b"
+},
+{
+question: "The government uses accounting information primarily to ______.",
+a: "Decide on employee salaries",
+b: "Determine tax liabilities",
+c: "Choose suppliers",
+d: "Set product prices",
+correct: "b"
+},
+{
+question: "A supplier interested in selling goods on credit to a business would be most concerned with the business's ______.",
+a: "Marketing strategy",
+b: "Liquidity position",
+c: "Employee morale",
+d: "Office location",
+correct: "b"
+},
+{
+question: "Employees use financial accounting information to ______.",
+a: "Decide on dividend payments",
+b: "Assess job security and negotiate wages",
+c: "Set selling prices",
+d: "Choose business locations",
+correct: "b"
+},
+{
+question: "Which of the following is a professional accounting body in Nigeria?",
+a: "Nigerian Medical Association",
+b: "Institute of Chartered Accountants of Nigeria (ICAN)",
+c: "Nigerian Bar Association",
+d: "Nigerian Society of Engineers",
+correct: "b"
+},
+{
+question: "A person who prepares financial statements and advises management on financial matters is called a ______.",
+a: "Bookkeeper",
+b: "Financial accountant",
+c: "Banker",
+d: "Auditor",
+correct: "b"
+},
+{
+question: "Which of the following is a career opportunity in accounting?",
+a: "Architect",
+b: "Auditor",
+c: "Pharmacist",
+d: "Pilot",
+correct: "b"
+},
+{
+question: "The professional body for accountants in Nigeria that regulates the practice of accounting is ______.",
+a: "NSE",
+b: "ANAN",
+c: "NBA",
+d: "NMA",
+correct: "b"
+},
+{
+question: "A person who examines the financial records of a company to express an opinion on their accuracy is a(n) ______.",
+a: "Bookkeeper",
+b: "Auditor",
+c: "Cashier",
+d: "Manager",
+correct: "b"
+},
+{
+question: "Which of the following is NOT a quality of a good accountant?",
+a: "Integrity",
+b: "Honesty",
+c: "Professionalism",
+d: "Dishonesty",
+correct: "d"
+},
+
+{
+question: "The document prepared at the end of an accounting period to test the accuracy of ledger balances is called the ______.",
+a: "Cash Book",
+b: "Journal",
+c: "Trial Balance",
+d: "Invoice",
+correct: "c"
+},
+{
+question: "Which accounting concept states that the owner and the business are treated as separate entities?",
+a: "Dual Aspect Concept",
+b: "Business Entity Concept",
+c: "Money Measurement Concept",
+d: "Going Concern Concept",
+correct: "b"
+},
+{
+question: "Which source document is issued by a seller to request payment from a buyer?",
+a: "Receipt",
+b: "Invoice",
+c: "Voucher",
+d: "Cheque",
+correct: "b"
+},
+{
+question: "The book in which transactions are first recorded before posting to the ledger is called the ______.",
+a: "Journal",
+b: "Cash Book",
+c: "Ledger",
+d: "Trial Balance",
+correct: "a"
+},
+{
+question: "A debit entry in a customer's account means the customer is a ______.",
+a: "Creditor",
+b: "Debtor",
+c: "Supplier",
+d: "Shareholder",
+correct: "b"
+},
+{
+question: "Which of the following is classified as a fixed asset?",
+a: "Cash in hand",
+b: "Stock of goods",
+c: "Furniture",
+d: "Debtors",
+correct: "c"
+},
+{
+question: "The excess of sales over the cost of goods sold is known as ______.",
+a: "Net Profit",
+b: "Gross Profit",
+c: "Capital",
+d: "Discount",
+correct: "b"
+},
+{
+question: "Money introduced into a business by the owner is known as ______.",
+a: "Drawings",
+b: "Capital",
+c: "Liability",
+d: "Revenue",
+correct: "b"
+},
+{
+question: "When the owner withdraws cash or goods from the business for personal use, it is called ______.",
+a: "Capital",
+b: "Sales",
+c: "Drawings",
+d: "Purchases",
+correct: "c"
+},
+{
+question: "Which financial statement shows the financial position of a business on a particular date?",
+a: "Trading Account",
+b: "Profit and Loss Account",
+c: "Balance Sheet",
+d: "Cash Book",
+correct: "c"
+},
+],
+
 "Literature": [
 {
 question: "1. Redemption Road is a novel written by _______.",
