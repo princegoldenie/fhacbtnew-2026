@@ -8609,6 +8609,7 @@ c: "Trial Balance",
 d: "Invoice",
 correct: "c"
 },
+
 {
 question: "Which accounting concept states that the owner and the business are treated as separate entities?",
 a: "Dual Aspect Concept",
@@ -8617,6 +8618,7 @@ c: "Money Measurement Concept",
 d: "Going Concern Concept",
 correct: "b"
 },
+
 {
 question: "Which source document is issued by a seller to request payment from a buyer?",
 a: "Receipt",
@@ -8625,6 +8627,7 @@ c: "Voucher",
 d: "Cheque",
 correct: "b"
 },
+
 {
 question: "The book in which transactions are first recorded before posting to the ledger is called the ______.",
 a: "Journal",
@@ -8633,6 +8636,7 @@ c: "Ledger",
 d: "Trial Balance",
 correct: "a"
 },
+
 {
 question: "A debit entry in a customer's account means the customer is a ______.",
 a: "Creditor",
@@ -8641,6 +8645,7 @@ c: "Supplier",
 d: "Shareholder",
 correct: "b"
 },
+
 {
 question: "Which of the following is classified as a fixed asset?",
 a: "Cash in hand",
@@ -8649,6 +8654,7 @@ c: "Furniture",
 d: "Debtors",
 correct: "c"
 },
+
 {
 question: "The excess of sales over the cost of goods sold is known as ______.",
 a: "Net Profit",
@@ -8657,6 +8663,7 @@ c: "Capital",
 d: "Discount",
 correct: "b"
 },
+
 {
 question: "Money introduced into a business by the owner is known as ______.",
 a: "Drawings",
@@ -8665,6 +8672,7 @@ c: "Liability",
 d: "Revenue",
 correct: "b"
 },
+
 {
 question: "When the owner withdraws cash or goods from the business for personal use, it is called ______.",
 a: "Capital",
@@ -8673,6 +8681,7 @@ c: "Drawings",
 d: "Purchases",
 correct: "c"
 },
+
 {
 question: "Which financial statement shows the financial position of a business on a particular date?",
 a: "Trading Account",
@@ -8681,6 +8690,248 @@ c: "Balance Sheet",
 d: "Cash Book",
 correct: "c"
 },
+
+{
+question: "The accounting equation is expressed as ______.",
+a: "Assets = Liabilities - Capital",
+b: "Assets = Liabilities + Owner's Equity",
+c: "Liabilities = Assets + Capital",
+d: "Capital = Assets + Liabilities",
+correct: "b"
+},
+{
+question: "If a business has assets of ₦50,000 and liabilities of ₦20,000, the capital is ______.",
+a: "₦70,000",
+b: "₦30,000",
+c: "₦50,000",
+d: "₦20,000",
+correct: "b"
+},
+{
+question: "The double entry principle states that ______.",
+a: "Every transaction affects only one account",
+b: "Every transaction has two effects - a debit and a credit",
+c: "Only cash transactions are recorded",
+d: "Every transaction must be recorded twice in the same account",
+correct: "b"
+},
+{
+question: "In double entry bookkeeping, an increase in an asset is recorded on the ______.",
+a: "Credit side",
+b: "Debit side",
+c: "Both sides",
+d: "Neither side",
+correct: "b"
+},
+{
+question: "A creditor is classified as a ______ in the accounting equation.",
+a: "Asset",
+b: "Liability",
+c: "Capital",
+d: "Expense",
+correct: "b"
+},
+{
+question: "Which of the following is recorded as an asset in the balance sheet?",
+a: "Bank overdraft",
+b: "Motor vehicle",
+c: "Creditor",
+d: "Loan",
+correct: "b"
+},
+{
+question: "When a business buys goods on credit, which two accounts are affected?",
+a: "Cash and Purchases",
+b: "Purchases and Creditor",
+c: "Sales and Debtor",
+d: "Cash and Creditor",
+correct: "b"
+},
+{
+question: "A payment of ₦5,000 to a creditor will ______.",
+a: "Increase assets and increase liabilities",
+b: "Decrease assets and decrease liabilities",
+c: "Increase assets and decrease liabilities",
+d: "Decrease assets and increase liabilities",
+correct: "b"
+},
+{
+question: "A cash book is a ______.",
+a: "Subsidiary book and ledger account",
+b: "Only a ledger account",
+c: "Only a subsidiary book",
+d: "Financial statement",
+correct: "a"
+},
+{
+question: "A single column cash book records ______.",
+a: "Cash and bank transactions",
+b: "Only cash transactions",
+c: "Cash transactions and discounts",
+d: "Only credit transactions",
+correct: "b"
+},
+{
+question: "A double column cash book records ______.",
+a: "Cash and bank transactions",
+b: "Cash and discount transactions",
+c: "Bank and discount transactions",
+d: "Only bank transactions",
+correct: "a"
+},
+{
+question: "A three column cash book records ______.",
+a: "Cash, bank, and credit transactions",
+b: "Cash, bank, and discount transactions",
+c: "Discount, credit, and bank transactions",
+d: "Only cash and discount transactions",
+correct: "b"
+},
+{
+question: "A contra entry in a cash book occurs when ______.",
+a: "Cash is received from a debtor",
+b: "Cash is paid to a creditor",
+c: "Cash is withdrawn from the bank for office use",
+d: "Discount is allowed to a customer",
+correct: "c"
+},
+{
+question: "Cash discount is also known as ______.",
+a: "Trade discount",
+b: "Bulk discount",
+c: "Prompt payment discount",
+d: "Quantity discount",
+correct: "c"
+},
+{
+question: "Trade discount is allowed for ______.",
+a: "Prompt payment",
+b: "Bulk purchases",
+c: "Cash payment",
+d: "Early settlement",
+correct: "b"
+},
+{
+question: "In a three column cash book, the discount allowed column is on the ______.",
+a: "Credit side",
+b: "Debit side",
+c: "Both sides",
+d: "Neither side",
+correct: "b"
+},
+{
+question: "A bank overdraft appears on the ______ side of the cash book.",
+a: "Debit",
+b: "Credit",
+c: "Both",
+d: "Neither",
+correct: "b"
+},
+{
+question: "The trading account is prepared to ascertain ______.",
+a: "Net profit",
+b: "Gross profit",
+c: "Cost of goods sold",
+d: "Total expenses",
+correct: "b"
+},
+{
+question: "The profit and loss account is prepared to ascertain ______.",
+a: "Gross profit",
+b: "Net profit or net loss",
+c: "Cost of goods sold",
+d: "Total assets",
+correct: "b"
+},
+{
+question: "The balance sheet is a statement of ______.",
+a: "Profit or loss",
+b: "Assets, liabilities, and capital",
+c: "Income and expenditure",
+d: "Cash receipts and payments",
+correct: "b"
+},
+{
+question: "Which of the following is NOT found on the debit side of the trading account?",
+a: "Opening stock",
+b: "Purchases",
+c: "Closing stock",
+d: "Carriage inwards",
+correct: "c"
+},
+{
+question: "The formula for calculating Cost of Goods Sold is ______.",
+a: "Opening stock + Purchases - Closing stock",
+b: "Sales - Cost of goods sold",
+c: "Opening stock - Purchases + Closing stock",
+d: "Gross profit - Expenses",
+correct: "a"
+},
+{
+question: "Returns inwards are deducted from ______.",
+a: "Purchases",
+b: "Sales",
+c: "Opening stock",
+d: "Closing stock",
+correct: "b"
+},
+{
+question: "Carriage outwards is charged to the ______.",
+a: "Trading account",
+b: "Profit and loss account",
+c: "Balance sheet",
+d: "Cash book",
+correct: "b"
+},
+{
+question: "The final accounts of a sole trader consist of ______.",
+a: "Trading account and balance sheet only",
+b: "Trading account, profit and loss account, and balance sheet",
+c: "Profit and loss account and balance sheet only",
+d: "Cash book and trial balance",
+correct: "b"
+},
+{
+question: "Which of the following is found on the credit side of the trial balance?",
+a: "Sales",
+b: "Purchases",
+c: "Rent expense",
+d: "Salaries",
+correct: "a"
+},
+{
+question: "The amount owed by customers who bought goods on credit are called ______.",
+a: "Creditors",
+b: "Debtors",
+c: "Cash",
+d: "Stock",
+correct: "b"
+},
+{
+question: "The amount owed to suppliers for goods bought on credit are called ______.",
+a: "Debtors",
+b: "Creditors",
+c: "Fixed assets",
+d: "Current assets",
+correct: "b"
+},
+{
+question: "Which of the following is a current asset?",
+a: "Land",
+b: "Building",
+c: "Stock",
+d: "Motor vehicle",
+correct: "c"
+},
+{
+question: "The excess of assets over liabilities represents ______.",
+a: "Gross profit",
+b: "Net profit",
+c: "Capital",
+d: "Revenue",
+correct: "c"
+},
+
 ],
 
 "Literature": [
