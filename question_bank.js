@@ -5291,6 +5291,493 @@ correct:"d"
 
 ],
 
+"Digital Technology": [
+{
+question: "Data storage is the process of _____.",
+a: "Deleting files permanently",
+b: "Saving data for future use",
+c: "Printing documents",
+d: "Sharing information online",
+correct: "b"
+},
+{
+question: "The main purpose of backing up data is to _____.",
+a: "Increase file size",
+b: "Protect data against loss",
+c: "Reduce computer speed",
+d: "Format the computer",
+correct: "b"
+},
+{
+question: "A backup is _____.",
+a: "A duplicate copy of important data",
+b: "A damaged file",
+c: "A deleted document",
+d: "A computer virus",
+correct: "a"
+},
+{
+question: "Which of the following is a reason for backing up files?",
+a: "Virus attack",
+b: "Accidental deletion",
+c: "Hardware failure",
+d: "All of the above",
+correct: "d"
+},
+{
+question: "A device used for storing information is called _____.",
+a: "Storage device",
+b: "Scanner",
+c: "Monitor",
+d: "Speaker",
+correct: "a"
+},
+{
+question: "Which of these is NOT a storage device?",
+a: "Hard disk",
+b: "Flash drive",
+c: "Keyboard",
+d: "Memory card",
+correct: "c"
+},
+{
+question: "Backing up data regularly helps to _____.",
+a: "Increase virus attacks",
+b: "Prevent permanent loss of files",
+c: "Damage storage devices",
+d: "Slow down the computer",
+correct: "b"
+},
+{
+question: "Cloud storage allows users to save files _____.",
+a: "Only on paper",
+b: "On the internet",
+c: "Inside the keyboard",
+d: "Inside the monitor",
+correct: "b"
+},
+{
+question: "Which of these is an online storage service?",
+a: "Google Drive",
+b: "Microsoft Paint",
+c: "Calculator",
+d: "Notepad",
+correct: "a"
+},
+{
+question: "One advantage of backing up data is _____.",
+a: "Recovery of lost information",
+b: "Loss of important files",
+c: "Computer damage",
+d: "Deleting programs",
+correct: "a"
+},
+{
+question: "Magnetic storage stores data using _____.",
+a: "Light",
+b: "Magnetism",
+c: "Heat",
+d: "Water",
+correct: "b"
+},
+{
+question: "Which of these is a magnetic storage device?",
+a: "DVD",
+b: "Hard Disk Drive (HDD)",
+c: "Flash drive",
+d: "CD-ROM",
+correct: "b"
+},
+{
+question: "The abbreviation HDD stands for _____.",
+a: "Hard Disk Drive",
+b: "High Data Device",
+c: "Hard Drive Disk",
+d: "Heavy Disk Drive",
+correct: "a"
+},
+{
+question: "A floppy disk is an example of _____.",
+a: "Magnetic storage",
+b: "Optical storage",
+c: "Solid-state storage",
+d: "Cloud storage",
+correct: "a"
+},
+{
+question: "Magnetic tapes are mostly used for _____.",
+a: "Long-term backup",
+b: "Playing games",
+c: "Typing letters",
+d: "Watching videos",
+correct: "a"
+},
+{
+question: "One disadvantage of magnetic storage is that it can be affected by _____.",
+a: "Magnets",
+b: "Paper",
+c: "Plastic",
+d: "Glass",
+correct: "a"
+},
+{
+question: "Optical storage devices read data using _____.",
+a: "Magnets",
+b: "Laser light",
+c: "Electric fan",
+d: "Ink",
+correct: "b"
+},
+{
+question: "Which of these is an optical storage device?",
+a: "CD",
+b: "Hard disk",
+c: "Flash drive",
+d: "Memory card",
+correct: "a"
+},
+{
+question: "The full meaning of CD is _____.",
+a: "Compact Disc",
+b: "Computer Disc",
+c: "Central Disk",
+d: "Compact Drive",
+correct: "a"
+},
+{
+question: "DVD stands for _____.",
+a: "Digital Versatile Disc",
+b: "Digital Video Data",
+c: "Data Video Device",
+d: "Direct Visual Disc",
+correct: "a"
+},
+
+{
+question: "Optical storage devices read and write data using _______.",
+a: "Magnets",
+b: "Laser beams",
+c: "Electric current",
+d: "Radio signals",
+correct: "b"
+},
+{
+question: "Which of the following is an optical storage device?",
+a: "DVD",
+b: "Flash drive",
+c: "Hard disk",
+d: "Memory card",
+correct: "a"
+},
+{
+question: "The full meaning of CD is _______.",
+a: "Compact Disk",
+b: "Computer Disk",
+c: "Compact Disc",
+d: "Central Disc",
+correct: "c"
+},
+{
+question: "DVD stands for _______.",
+a: "Digital Video Disc",
+b: "Digital Visual Disk",
+c: "Data Video Disk",
+d: "Digital Virtual Disc",
+correct: "a"
+},
+{
+question: "Which optical storage device has the largest storage capacity?",
+a: "CD",
+b: "DVD",
+c: "Blu-ray Disc",
+d: "Floppy disk",
+correct: "c"
+},
+{
+question: "A CD can commonly store about _______ of data.",
+a: "700 MB",
+b: "4.7 GB",
+c: "32 GB",
+d: "1 TB",
+correct: "a"
+},
+{
+question: "A standard DVD can store approximately _______.",
+a: "700 MB",
+b: "4.7 GB",
+c: "16 GB",
+d: "64 GB",
+correct: "b"
+},
+{
+question: "Which of the following uses laser technology to read information?",
+a: "Hard disk",
+b: "Flash drive",
+c: "CD-ROM",
+d: "RAM",
+correct: "c"
+},
+{
+question: "An advantage of optical storage is that it _______.",
+a: "Is not affected by magnets",
+b: "Needs electricity to retain data",
+c: "Cannot be removed",
+d: "Is slower than paper",
+correct: "a"
+},
+{
+question: "Which of these is NOT an optical storage device?",
+a: "Blu-ray Disc",
+b: "DVD",
+c: "CD",
+d: "Flash drive",
+correct: "d"
+},
+{
+question: "Solid-state storage devices store data using _______.",
+a: "Laser beams",
+b: "Magnetic heads",
+c: "Electronic memory chips",
+d: "Paper cards",
+correct: "c"
+},
+{
+question: "Which of the following is a solid-state storage device?",
+a: "SSD",
+b: "DVD",
+c: "Magnetic tape",
+d: "CD-ROM",
+correct: "a"
+},
+{
+question: "SSD stands for _______.",
+a: "Solid Storage Drive",
+b: "Solid State Drive",
+c: "Storage System Device",
+d: "State Storage Disk",
+correct: "b"
+},
+{
+question: "Which of these is another example of solid-state storage?",
+a: "Memory card",
+b: "Floppy disk",
+c: "DVD",
+d: "Magnetic tape",
+correct: "a"
+},
+{
+question: "A flash drive stores data using _______.",
+a: "Magnetic strips",
+b: "Laser technology",
+c: "Flash memory chips",
+d: "Paper records",
+correct: "c"
+},
+{
+question: "One advantage of SSD over HDD is that SSD is _______.",
+a: "Slower",
+b: "More fragile",
+c: "Faster",
+d: "Larger in size",
+correct: "c"
+},
+{
+question: "Which storage device has no moving parts?",
+a: "Hard disk drive",
+b: "SSD",
+c: "DVD",
+d: "Magnetic tape",
+correct: "b"
+},
+{
+question: "Memory cards are commonly used in _______.",
+a: "Televisions only",
+b: "Digital cameras and smartphones",
+c: "Printers only",
+d: "Scanners only",
+correct: "b"
+},
+{
+question: "Which of these storage devices is most resistant to physical shock?",
+a: "Floppy disk",
+b: "Hard disk drive",
+c: "Solid State Drive",
+d: "CD-ROM",
+correct: "c"
+},
+{
+question: "Which of the following is the fastest storage medium among these?",
+a: "Magnetic tape",
+b: "DVD",
+c: "SSD",
+d: "Floppy disk",
+correct: "c"
+},
+
+{
+question: "Which type of storage device is best known for its high speed and durability?",
+a: "CD-ROM",
+b: "Floppy disk",
+c: "Solid State Drive (SSD)",
+d: "Magnetic tape",
+correct: "c"
+},
+{
+question: "A flash drive is connected to a computer through a _______ port.",
+a: "HDMI",
+b: "USB",
+c: "VGA",
+d: "PS/2",
+correct: "b"
+},
+{
+question: "Which of the following is an advantage of cloud storage?",
+a: "Files can only be accessed on one computer",
+b: "Files can be accessed from anywhere with internet connection",
+c: "It cannot be used for backup",
+d: "It requires magnetic tape",
+correct: "b"
+},
+{
+question: "Which storage medium is commonly used in smartphones?",
+a: "CD",
+b: "DVD",
+c: "Memory card",
+d: "Floppy disk",
+correct: "c"
+},
+{
+question: "The process of copying files from one storage device to another is known as _______.",
+a: "Formatting",
+b: "Backing up",
+c: "Deleting",
+d: "Scanning",
+correct: "b"
+},
+{
+question: "Which storage device has the smallest storage capacity among these?",
+a: "Floppy disk",
+b: "DVD",
+c: "Hard disk",
+d: "SSD",
+correct: "a"
+},
+{
+question: "A major disadvantage of optical discs is that they _______.",
+a: "Can be easily scratched",
+b: "Use flash memory",
+c: "Store unlimited data",
+d: "Require magnets to read data",
+correct: "a"
+},
+{
+question: "The primary purpose of secondary storage is to _______.",
+a: "Temporarily hold data while the computer is on",
+b: "Store data permanently",
+c: "Display information",
+d: "Control the CPU",
+correct: "b"
+},
+{
+question: "Which of these is an example of online cloud storage?",
+a: "Google Drive",
+b: "Microsoft Word",
+c: "Paint",
+d: "Calculator",
+correct: "a"
+},
+{
+question: "Which storage device would be most suitable for keeping important school projects safely for many years?",
+a: "RAM",
+b: "Solid State Drive (SSD)",
+c: "CPU",
+d: "Keyboard",
+correct: "b"
+},
+{
+question: "The main purpose of using different storage media is to _______.",
+a: "Increase monitor size",
+b: "Store, retrieve and protect data",
+c: "Print documents",
+d: "Connect to the internet",
+correct: "b"
+},
+{
+question: "Which of the following storage media uses no moving mechanical parts?",
+a: "Hard Disk Drive",
+b: "Floppy Disk",
+c: "Solid State Drive",
+d: "Magnetic Tape",
+correct: "c"
+},
+{
+question: "A damaged storage device may result in _______.",
+a: "Data loss",
+b: "Faster processing",
+c: "Better graphics",
+d: "Louder sound",
+correct: "a"
+},
+{
+question: "Which of the following should be done before removing a flash drive from a computer?",
+a: "Switch off the monitor",
+b: "Safely eject the device",
+c: "Restart the computer",
+d: "Delete all files",
+correct: "b"
+},
+{
+question: "Which of these is NOT a storage medium?",
+a: "Hard Disk",
+b: "Flash Drive",
+c: "Keyboard",
+d: "DVD",
+correct: "c"
+},
+{
+question: "The best way to protect important computer files is to _______.",
+a: "Leave them only on the computer",
+b: "Create regular backups",
+c: "Delete old copies",
+d: "Turn off the monitor",
+correct: "b"
+},
+{
+question: "Storage media are classified into magnetic, optical and _______ storage.",
+a: "Primary",
+b: "Virtual",
+c: "Solid-state",
+d: "Temporary",
+correct: "c"
+},
+{
+question: "An example of a removable storage device is a _______.",
+a: "Flash drive",
+b: "Motherboard",
+c: "Processor",
+d: "Power supply unit",
+correct: "a"
+},
+{
+question: "The capacity of a storage device is measured in _______.",
+a: "Litres",
+b: "Bytes",
+c: "Metres",
+d: "Watts",
+correct: "b"
+},
+{
+question: "The safest habit for preventing data loss is to _______.",
+a: "Ignore updates",
+b: "Back up files regularly and store them securely",
+c: "Share passwords with friends",
+d: "Keep only one copy of important files",
+correct: "b"
+},
+],
+
+
+
 "Home Economics": [
 
 {
@@ -6378,7 +6865,7 @@ correct:"b"
 
 ],
 
-"Physical and Health Education":[
+"PHE":[
 
 {
 question:"Safety is the condition of being protected from _______.",
@@ -7589,6 +8076,489 @@ c:"Form a government",
 d:"Make laws",
 correct:"a"
 }, 
+],
+
+"Literature-in-English": [
+{
+question: "Redemption Road is a novel written by _____.",
+a: "Elma Shaw",
+b: "Chinua Achebe",
+c: "Harper Lee",
+d: "Gabriel Okara",
+correct: "a"
+},
+{
+question: "The setting of Redemption Road is primarily in _____.",
+a: "Liberia",
+b: "Nigeria",
+c: "Ghana",
+d: "Sierra Leone",
+correct: "a"
+},
+{
+question: "The protagonist of Redemption Road is _____.",
+a: "Kekura",
+b: "Agnes",
+c: "Benjamin",
+d: "Hannah",
+correct: "a"
+},
+{
+question: "The central theme of Redemption Road is _____.",
+a: "The impact of civil war on ordinary people",
+b: "Colonialism",
+c: "Love and romance",
+d: "Education",
+correct: "a"
+},
+{
+question: "In Redemption Road, the title refers to _____.",
+a: "The journey from suffering to healing",
+b: "A physical road in Liberia",
+c: "A street name",
+d: "A political party",
+correct: "a"
+},
+{
+question: "The author of Redemption Road uses realism to _____.",
+a: "Portray the brutality of war authentically",
+b: "Create fantasy",
+c: "Simplify the story",
+d: "Avoid difficult topics",
+correct: "a"
+},
+{
+question: "\"Once Upon a Time\" is a poem written by _____.",
+a: "Gabriel Okara",
+b: "Elizabeth L. A. Kamara",
+c: "Elma Shaw",
+d: "Harper Lee",
+correct: "a"
+},
+{
+question: "The poem \"Once Upon a Time\" explores the theme of _____.",
+a: "The loss of innocence and authenticity in society",
+b: "War and violence",
+c: "Love and romance",
+d: "Nature",
+correct: "a"
+},
+{
+question: "In \"Once Upon a Time,\" the speaker addresses a _____.",
+a: "Child",
+b: "Government official",
+c: "Lover",
+d: "Teacher",
+correct: "a"
+},
+{
+question: "\"New Tongue\" is a poem written by _____.",
+a: "Elizabeth L. A. Kamara",
+b: "Gabriel Okara",
+c: "Elma Shaw",
+d: "Harper Lee",
+correct: "a"
+},
+{
+question: "The poem \"New Tongue\" explores the theme of _____.",
+a: "Cultural identity and language",
+b: "War",
+c: "Love",
+d: "Nature",
+correct: "a"
+},
+{
+question: "To Kill a Mockingbird is a novel written by _____.",
+a: "Harper Lee",
+b: "Elma Shaw",
+c: "Gabriel Okara",
+d: "Chinua Achebe",
+correct: "a"
+},
+{
+question: "To Kill a Mockingbird is set in the fictional town of _____.",
+a: "Maycomb, Alabama",
+b: "Monrovia, Liberia",
+c: "Lagos, Nigeria",
+d: "Accra, Ghana",
+correct: "a"
+},
+{
+question: "The narrator of To Kill a Mockingbird is _____.",
+a: "Scout Finch",
+b: "Atticus Finch",
+c: "Jem Finch",
+d: "Boo Radley",
+correct: "a"
+},
+{
+question: "The protagonist of To Kill a Mockingbird is _____.",
+a: "Scout Finch",
+b: "Atticus Finch",
+c: "Tom Robinson",
+d: "Boo Radley",
+correct: "a"
+},
+{
+question: "Atticus Finch is a _____ in To Kill a Mockingbird.",
+a: "Lawyer",
+b: "Doctor",
+c: "Teacher",
+d: "Farmer",
+correct: "a"
+},
+{
+question: "The theme of racism is explored in _____.",
+a: "To Kill a Mockingbird",
+b: "Once Upon a Time",
+c: "New Tongue",
+d: "None of the above",
+correct: "a"
+},
+{
+question: "Tom Robinson is accused of _____ in To Kill a Mockingbird.",
+a: "Rape",
+b: "Theft",
+c: "Murder",
+d: "Treason",
+correct: "a"
+},
+{
+question: "Boo Radley is a character in _____.",
+a: "To Kill a Mockingbird",
+b: "Redemption Road",
+c: "Once Upon a Time",
+d: "New Tongue",
+correct: "a"
+},
+{
+question: "The theme of moral courage is explored in _____.",
+a: "To Kill a Mockingbird",
+b: "Redemption Road",
+c: "Both A and B",
+d: "None of the above",
+correct: "c"
+},
+{
+question: "The plot of Redemption Road follows the life of Kekura as she _____.",
+a: "Survives and rebuilds after the war",
+b: "Fights in the war",
+c: "Leaves Liberia",
+d: "Becomes a soldier",
+correct: "a"
+},
+{
+question: "In Redemption Road, the character Agnes represents _____.",
+a: "Resilience and hope",
+b: "Oppression",
+c: "Corruption",
+d: "Greed",
+correct: "a"
+},
+{
+question: "The use of flashbacks in Redemption Road helps to _____.",
+a: "Show characters' past experiences",
+b: "Speed up the plot",
+c: "Introduce new characters",
+d: "Confuse the reader",
+correct: "a"
+},
+{
+question: "The point of view in To Kill a Mockingbird is _____.",
+a: "First-person (Scout's perspective)",
+b: "Third-person omniscient",
+c: "Second-person",
+d: "Third-person limited",
+correct: "a"
+},
+{
+question: "The mockingbird in To Kill a Mockingbird symbolizes _____.",
+a: "Innocence",
+b: "Guilt",
+c: "Violence",
+d: "Revenge",
+correct: "a"
+},
+{
+question: "Which of these is a character in Redemption Road?",
+a: "Kekura",
+b: "Scout",
+c: "Atticus",
+d: "Boo Radley",
+correct: "a"
+},
+{
+question: "Which of these is a character in To Kill a Mockingbird?",
+a: "Atticus Finch",
+b: "Kekura",
+c: "Agnes",
+d: "Benjamin",
+correct: "a"
+},
+{
+question: "The theme of family is explored in _____.",
+a: "To Kill a Mockingbird",
+b: "Redemption Road",
+c: "Both A and B",
+d: "None of the above",
+correct: "c"
+},
+{
+question: "The setting of To Kill a Mockingbird is during the _____.",
+a: "Great Depression",
+b: "Civil War",
+c: "World War II",
+d: "Colonial period",
+correct: "a"
+},
+{
+question: "The theme of justice is explored in _____.",
+a: "To Kill a Mockingbird",
+b: "Once Upon a Time",
+c: "New Tongue",
+d: "None of the above",
+correct: "a"
+},
+{
+question: "The conflict in Redemption Road is primarily _____.",
+a: "Person vs. society (war)",
+b: "Person vs. self",
+c: "Person vs. nature",
+d: "Person vs. technology",
+correct: "a"
+},
+{
+question: "The climax of To Kill a Mockingbird occurs during _____.",
+a: "The trial of Tom Robinson",
+b: "The death of Atticus",
+c: "The fire in the town",
+d: "The school play",
+correct: "a"
+},
+{
+question: "\"Once Upon a Time\" is written in _____.",
+a: "Free verse",
+b: "Blank verse",
+c: "Sonnet form",
+d: "Haiku form",
+correct: "a"
+},
+{
+question: "The poet of \"Once Upon a Time\" uses _____ to emphasize his message.",
+a: "Repetition",
+b: "Rhyme",
+c: "Alliteration",
+d: "All of the above",
+correct: "d"
+},
+{
+question: "\"New Tongue\" explores the challenge of _____.",
+a: "Adapting to a new language",
+b: "Learning to sing",
+c: "Writing poetry",
+d: "Traveling",
+correct: "a"
+},
+{
+question: "The tone of \"Once Upon a Time\" is _____.",
+a: "Nostalgic and critical",
+b: "Joyful and excited",
+c: "Angry and violent",
+d: "Indifferent",
+correct: "a"
+},
+{
+question: "The speaker in \"New Tongue\" expresses _____.",
+a: "A sense of loss and displacement",
+b: "Joy and celebration",
+c: "Anger and revenge",
+d: "Indifference",
+correct: "a"
+},
+{
+question: "Harper Lee won the _____ for To Kill a Mockingbird.",
+a: "Pulitzer Prize",
+b: "Nobel Prize",
+c: "Booker Prize",
+d: "Grammy Award",
+correct: "a"
+},
+{
+question: "The theme of prejudice is explored in _____.",
+a: "To Kill a Mockingbird",
+b: "Redemption Road",
+c: "Both A and B",
+d: "None of the above",
+correct: "c"
+},
+{
+question: "Dill Harris is a character in _____.",
+a: "To Kill a Mockingbird",
+b: "Redemption Road",
+c: "Once Upon a Time",
+d: "New Tongue",
+correct: "a"
+},
+{
+question: "The theme of childhood innocence is explored in _____.",
+a: "To Kill a Mockingbird",
+b: "Once Upon a Time",
+c: "Both A and B",
+d: "None of the above",
+correct: "c"
+},
+{
+question: "Elma Shaw is a _____ writer.",
+a: "Liberian",
+b: "Nigerian",
+c: "American",
+d: "Ghanaian",
+correct: "a"
+},
+{
+question: "Gabriel Okara is a _____ poet.",
+a: "Nigerian",
+b: "Liberian",
+c: "American",
+d: "Ghanaian",
+correct: "a"
+},
+{
+question: "Elizabeth L. A. Kamara is a _____ poet.",
+a: "Sierra Leonean",
+b: "Nigerian",
+c: "Liberian",
+d: "Ghanaian",
+correct: "a"
+},
+{
+question: "Harper Lee is an _____ author.",
+a: "American",
+b: "British",
+c: "Nigerian",
+d: "Liberian",
+correct: "a"
+},
+{
+question: "The narrative technique in Redemption Road includes _____.",
+a: "Flashbacks and stream of consciousness",
+b: "Linear narration only",
+c: "Diary entries only",
+d: "Letters only",
+correct: "a"
+},
+{
+question: "The jury in To Kill a Mockingbird finds Tom Robinson _____.",
+a: "Guilty",
+b: "Not guilty",
+c: "Insane",
+d: "Innocent",
+correct: "a"
+},
+{
+question: "Atticus Finch teaches his children about _____.",
+a: "Empathy and understanding",
+b: "Hatred and violence",
+c: "Greed and selfishness",
+d: "Indifference",
+correct: "a"
+},
+{
+question: "The poem \"Once Upon a Time\" criticizes _____.",
+a: "Hypocrisy in society",
+b: "Government policies",
+c: "Religious institutions",
+d: "Education system",
+correct: "a"
+},
+{
+question: "The poem \"New Tongue\" uses _____ imagery.",
+a: "Cultural and linguistic",
+b: "War and violence",
+c: "Nature and landscape",
+d: "Technological",
+correct: "a"
+},
+{
+question: "The resolution of To Kill a Mockingbird involves _____.",
+a: "Boo Radley saving Scout and Jem",
+b: "Atticus winning the trial",
+c: "Tom Robinson being freed",
+d: "The destruction of Maycomb",
+correct: "a"
+},
+{
+question: "The theme of forgiveness is explored in _____.",
+a: "Redemption Road",
+b: "To Kill a Mockingbird",
+c: "Both A and B",
+d: "None of the above",
+correct: "c"
+},
+{
+question: "The literary term for the sequence of events in a story is _____.",
+a: "Plot",
+b: "Theme",
+c: "Setting",
+d: "Characterization",
+correct: "a"
+},
+{
+question: "The central idea or message of a literary work is the _____.",
+a: "Theme",
+b: "Plot",
+c: "Setting",
+d: "Conflict",
+correct: "a"
+},
+{
+question: "A character who undergoes significant change is a _____ character.",
+a: "Dynamic",
+b: "Static",
+c: "Flat",
+d: "Minor",
+correct: "a"
+},
+{
+question: "A character who does not change is a _____ character.",
+a: "Static",
+b: "Dynamic",
+c: "Round",
+d: "Major",
+correct: "a"
+},
+{
+question: "The time and place where a story occurs is the _____.",
+a: "Setting",
+b: "Plot",
+c: "Theme",
+d: "Conflict",
+correct: "a"
+},
+{
+question: "The struggle between opposing forces in a story is the _____.",
+a: "Conflict",
+b: "Climax",
+c: "Resolution",
+d: "Exposition",
+correct: "a"
+},
+{
+question: "The highest point of tension in a story is the _____.",
+a: "Climax",
+b: "Exposition",
+c: "Rising action",
+d: "Resolution",
+correct: "a"
+},
+{
+question: "The person who tells the story is the _____.",
+a: "Narrator",
+b: "Author",
+c: "Protagonist",
+d: "Antagonist",
+correct: "a"
+}
 ],
 
 },
