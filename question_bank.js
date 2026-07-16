@@ -2717,7 +2717,7 @@ correct:"d"
 },
 ],
 
-"Physical and Health Education":[
+"PHE":[
 
 {
 question:"Safety is the condition of being protected from _______.",
@@ -7046,6 +7046,367 @@ c:"Chokes",
 d:"All of the above",
 correct:"d"
 },
+
+{
+question:"Judo is important because it _______.",
+a:"Teaches self-defense",
+b:"Improves physical fitness",
+c:"Builds discipline",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Karate originated from _______.",
+a:"Japan",
+b:"China",
+c:"Okinawa",
+d:"Korea",
+correct:"c"
+},
+
+{
+question:"Karate means _______.",
+a:"Gentle way",
+b:"Empty hand",
+c:"Warrior way",
+d:"Way of the fist",
+correct:"b"
+},
+
+{
+question:"Which of these is a basic skill in Karate?",
+a:"Punching",
+b:"Kicking",
+c:"Blocking",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Karate is important because it _______.",
+a:"Teaches self-defense",
+b:"Improves physical fitness",
+c:"Builds character",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Sports law refers to _______.",
+a:"Laws that govern sports activities",
+b:"Laws that govern businesses",
+c:"Criminal laws",
+d:"Family laws",
+correct:"a"
+},
+
+{
+question:"Tort in sports law refers to _______.",
+a:"A civil wrong that causes injury",
+b:"A criminal offense",
+c:"A contract",
+d:"A regulation",
+correct:"a"
+},
+
+{
+question:"Negligence in sports means _______.",
+a:"Failure to take reasonable care",
+b:"Intentionally causing harm",
+c:"Playing fairly",
+d:"Following the rules",
+correct:"a"
+},
+
+{
+question:"Assault in sports refers to _______.",
+a:"Intentional act that causes fear of injury",
+b:"Accidental injury",
+c:"Fair play",
+d:"Following the rules",
+correct:"a"
+},
+
+{
+question:"Legal liability in sports means _______.",
+a:"Being legally responsible for injury or damage",
+b:"Being free from responsibility",
+c:"Playing without rules",
+d:"Being a spectator",
+correct:"a"
+},
+
+{
+question:"Human trafficking is _______.",
+a:"The illegal trade of humans for exploitation",
+b:"Legal migration",
+c:"Tourism",
+d:"Education",
+correct:"a"
+},
+
+{
+question:"Which of these is a form of human trafficking?",
+a:"Forced labor",
+b:"Sexual exploitation",
+c:"Organ trafficking",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Human trafficking is a violation of _______.",
+a:"Human rights",
+b:"Economic rights",
+c:"Political rights",
+d:"Cultural rights",
+correct:"a"
+},
+
+{
+question:"Which of these is a health implication of human trafficking?",
+a:"Physical injuries",
+b:"Mental health issues",
+c:"Sexually transmitted infections",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Which of these is a solution to human trafficking?",
+a:"Public awareness campaigns",
+b:"Strict law enforcement",
+c:"Support for victims",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"A career in Physical and Health Education includes _______.",
+a:"Teaching",
+b:"Coaching",
+c:"Sports management",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Which of these is a branch of Physical and Health Education?",
+a:"Exercise science",
+b:"Sports psychology",
+c:"Nutrition",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The official who ensures fair play in basketball is the _______.",
+a:"Referee",
+b:"Coach",
+c:"Captain",
+d:"Timekeeper",
+correct:"a"
+},
+
+{
+question:"A basketball court is _______ shaped.",
+a:"Square",
+b:"Rectangular",
+c:"Circular",
+d:"Triangular",
+correct:"b"
+},
+
+{
+question:"The height of a basketball hoop is _______.",
+a:"8 feet",
+b:"10 feet",
+c:"12 feet",
+d:"15 feet",
+correct:"b"
+},
+
+{
+question:"In Judo, the objective is to _______.",
+a:"Throw or pin the opponent",
+b:"Punch the opponent",
+c:"Kick the opponent",
+d:"Run away",
+correct:"a"
+},
+
+{
+question:"Which of these is a Karate stance?",
+a:"Horse stance",
+b:"Front stance",
+c:"Back stance",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The scoring system in basketball involves _______.",
+a:"2-point shots",
+b:"3-point shots",
+c:"Free throws",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Which of these is a cause of accidents at home?",
+a:"Slippery floors",
+b:"Poor lighting",
+c:"Sharp objects",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"First aid is _______.",
+a:"Immediate care given to an injured person",
+b:"Long-term treatment",
+c:"Surgery",
+d:"Medication",
+correct:"a"
+},
+
+{
+question:"Which of these is a first aid item?",
+a:"Bandage",
+b:"Antiseptic",
+c:"Plaster",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The number of players in a Judo match is _______.",
+a:"1",
+b:"2",
+c:"3",
+d:"4",
+correct:"b"
+},
+
+{
+question:"Karate belts indicate _______.",
+a:"The wearer's rank or skill level",
+b:"The wearer's age",
+c:"The wearer's weight",
+d:"The wearer's height",
+correct:"a"
+},
+
+{
+question:"The highest rank in Karate is the _______ belt.",
+a:"White",
+b:"Brown",
+c:"Black",
+d:"Red",
+correct:"c"
+},
+
+{
+question:"Which of these is a rule in basketball?",
+a:"Traveling is not allowed",
+b:"Double dribbling is not allowed",
+c:"Fouls are prohibited",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The objective of Karate is to _______.",
+a:"Defend oneself",
+b:"Attack opponents",
+c:"Perform acrobatics",
+d:"Dance",
+correct:"a"
+},
+
+{
+question:"Human trafficking victims are often _______.",
+a:"Children",
+b:"Women",
+c:"Men",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Which of these is a sign of human trafficking?",
+a:"Lack of freedom of movement",
+b:"Being controlled by another person",
+c:"Working in poor conditions",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"Sports law protects athletes from _______.",
+a:"Injuries caused by negligence",
+b:"Unfair treatment",
+c:"Exploitation",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The governing body for basketball worldwide is _______.",
+a:"FIFA",
+b:"NBA",
+c:"FIBA",
+d:"UEFA",
+correct:"c"
+},
+
+{
+question:"The governing body for Judo worldwide is _______.",
+a:"IJF",
+b:"FIFA",
+c:"NBA",
+d:"IOC",
+correct:"a"
+},
+
+{
+question:"A foul in basketball is _______.",
+a:"An illegal act by a player",
+b:"A legal act",
+c:"A good play",
+d:"A time-out",
+correct:"a"
+},
+
+{
+question:"Which of these is a benefit of playing basketball?",
+a:"Improved coordination",
+b:"Cardiovascular health",
+c:"Teamwork skills",
+d:"All of the above",
+correct:"d"
+},
+
+{
+question:"The term 'sports medicine' refers to _______.",
+a:"Medical care for athletes",
+b:"Surgery",
+c:"General medicine",
+d:"Nursing",
+correct:"a"
+},
+
+{
+question:"Physical and Health Education helps to promote _______.",
+a:"Physical fitness",
+b:"Mental health",
+c:"Social well-being",
+d:"All of the above",
+correct:"d"
+},
+
 ],
 
 "CRS": [
