@@ -1,6 +1,489 @@
 const questionBank = {
 
 "JSS 1":{
+    "CCA": [
+{
+question: "A motif is a _______.",
+a: "Large background colour",
+b: "Repeated unit or design element",
+c: "Type of paintbrush",
+d: "Frame for a picture",
+correct: "b"
+},
+{
+question: "Patterns are formed when motifs are _______.",
+a: "Erased",
+b: "Coloured randomly",
+c: "Repeated in a planned arrangement",
+d: "Drawn once",
+correct: "c"
+},
+{
+question: "Which of the following is an example of a natural motif?",
+a: "Geometric triangle",
+b: "Leaf or flower shape",
+c: "Artificial diamond",
+d: "Cardboard square",
+correct: "b"
+},
+{
+question: "The arrangement of motifs in a straight line is called _______ pattern.",
+a: "Random",
+b: "Border",
+c: "All-over",
+d: "Central",
+correct: "b"
+},
+{
+question: "A pattern that spreads across the entire surface without a focal point is called _______.",
+a: "Border pattern",
+b: "All-over pattern",
+c: "Alternating pattern",
+d: "Radial pattern",
+correct: "b"
+},
+{
+question: "Motifs can be inspired by _______.",
+a: "Only machines",
+b: "Nature, culture, and geometry",
+c: "Only letters",
+d: "Only numbers",
+correct: "b"
+},
+{
+question: "A pattern that radiates outward from a centre point is a _______ pattern.",
+a: "Border",
+b: "Random",
+c: "Radial",
+d: "Block",
+correct: "c"
+},
+{
+question: "The repeated use of a motif creates _______.",
+a: "Noise",
+b: "Rhythm and unity in design",
+c: "Confusion",
+d: "Wastage of materials",
+correct: "b"
+},
+{
+question: "Textile design refers to the art of creating designs for _______.",
+a: "Wood carving",
+b: "Fabrics and materials",
+c: "Metal works",
+d: "Paper crafts",
+correct: "b"
+},
+{
+question: "Which of these is a method of textile decoration?",
+a: "Painting",
+b: "Weaving",
+c: "Carving",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "The process of producing fabric by interlacing two sets of yarns is called _______.",
+a: "Knitting",
+b: "Weaving",
+c: "Dyeing",
+d: "Printing",
+correct: "b"
+},
+{
+question: "A design printed on fabric using a carved block is called _______.",
+a: "Tie and dye",
+b: "Block printing",
+c: "Embroidery",
+d: "Crocheting",
+correct: "b"
+},
+{
+question: "Which of the following is a type of textile fibre?",
+a: "Cotton",
+b: "Wood",
+c: "Glass",
+d: "Steel",
+correct: "a"
+},
+{
+question: "The surface design of a fabric can be enhanced by using _______.",
+a: "Only one colour",
+b: "Patterns, colours, and textures",
+c: "Only straight lines",
+d: "No repetition",
+correct: "b"
+},
+{
+question: "Textile design can be classified into _______ design and structural design.",
+a: "Surface",
+b: "Internal",
+c: "External",
+d: "Hidden",
+correct: "a"
+},
+{
+question: "A design that is woven directly into the fabric during production is called _______ design.",
+a: "Surface",
+b: "Structural",
+c: "Painted",
+d: "Printed",
+correct: "b"
+},
+{
+question: "Tie and dye is a method of creating patterns on fabric by _______.",
+a: "Stitching and painting",
+b: "Tying and immersing in dye",
+c: "Gluing and cutting",
+d: "Ironing and folding",
+correct: "b"
+},
+{
+question: "The process of folding, twisting, or tying fabric before dyeing is to _______.",
+a: "Make it dirty",
+b: "Resist dye from reaching certain areas",
+c: "Make it softer",
+d: "Shrink the fabric",
+correct: "b"
+},
+{
+question: "A common material used for tying fabric in tie and dye is _______.",
+a: "Nylon thread",
+b: "Rubber band or twine",
+c: "Metal wire",
+d: "Glue stick",
+correct: "b"
+},
+{
+question: "The dye that is most commonly used for tie and dye in Nigeria is _______.",
+a: "Oil paint",
+b: "Indigo or vat dye",
+c: "Watercolour",
+d: "Poster colour",
+correct: "b"
+},
+{
+question: "Which of these is a basic tie and dye technique?",
+a: "Marbling",
+b: "Knotting",
+c: "Appliqué",
+d: "Batik",
+correct: "b"
+},
+{
+question: "The areas of fabric that remain undyed after tie and dye are called _______ areas.",
+a: "Reserved",
+b: "Coloured",
+c: "Washed",
+d: "Painted",
+correct: "a"
+},
+{
+question: "After dyeing, the fabric is rinsed and _______ to set the colour.",
+a: "Burnt",
+b: "Ironed or dried",
+c: "Cut into pieces",
+d: "Soaked in oil",
+correct: "b"
+},
+{
+question: "Tie and dye is also known as _______.",
+a: "Shibori",
+b: "Crochet",
+c: "Weaving",
+d: "Mosaic",
+correct: "a"
+},
+{
+question: "Batik is a method of fabric decoration using _______ to resist dye.",
+a: "Rubber",
+b: "Wax",
+c: "Glue",
+d: "Chalk",
+correct: "b"
+},
+{
+question: "The wax in batik is applied using a tool called a _______.",
+a: "Brush",
+b: "Canting or tjanting",
+c: "Needle",
+d: "Stencil",
+correct: "b"
+},
+{
+question: "After applying wax, the fabric is dipped into _______.",
+a: "Water",
+b: "Dye",
+c: "Oil",
+d: "Soap",
+correct: "b"
+},
+{
+question: "The wax is removed from the fabric by _______ after dyeing.",
+a: "Boiling or ironing",
+b: "Washing with cold water",
+c: "Scratching it off",
+d: "Burning it",
+correct: "a"
+},
+{
+question: "Batik designs often have _______ lines where the wax cracks.",
+a: "Straight",
+b: "Crackled or veined",
+c: "Dotted",
+d: "Thick",
+correct: "b"
+},
+{
+question: "The word 'batik' is believed to originate from the _______ language.",
+a: "French",
+b: "Javanese (Indonesian)",
+c: "Yoruba",
+d: "English",
+correct: "b"
+},
+{
+question: "One major difference between tie and dye and batik is that batik uses _______.",
+a: "Tying",
+b: "Wax resist",
+c: "Only one colour",
+d: "Stitching",
+correct: "b"
+},
+{
+question: "Batik can be done on _______ fabric.",
+a: "Only cotton",
+b: "Cotton, silk, or linen",
+c: "Only synthetic",
+d: "Only wool",
+correct: "b"
+},
+{
+question: "Craftwork refers to items made _______ using skills and hands.",
+a: "By machines only",
+b: "By hand, often with tools",
+c: "In factories",
+d: "With computers",
+correct: "b"
+},
+{
+question: "Which of the following is an example of craftwork?",
+a: "Pottery",
+b: "Typing",
+c: "Dancing",
+d: "Singing",
+correct: "a"
+},
+{
+question: "Pottery is the art of making objects from _______.",
+a: "Metal",
+b: "Clay",
+c: "Wood",
+d: "Plastic",
+correct: "b"
+},
+{
+question: "Basketry is a craft that involves weaving _______.",
+a: "Metal strips",
+b: "Paper",
+c: "Fibres like cane or raffia",
+d: "Glass",
+correct: "c"
+},
+{
+question: "A craftsperson who works with wood is called a _______.",
+a: "Potter",
+b: "Woodcarver or carpenter",
+c: "Weaver",
+d: "Blacksmith",
+correct: "b"
+},
+{
+question: "The process of heating clay in a kiln to harden it is called _______.",
+a: "Drying",
+b: "Firing",
+c: "Glazing",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "Craftwork is important because it _______.",
+a: "Preserves culture and provides income",
+b: "Causes pollution",
+c: "Is only for children",
+d: "Has no economic value",
+correct: "a"
+},
+{
+question: "Beadmaking, leatherwork, and embroidery are all examples of _______.",
+a: "Fine art",
+b: "Craftwork",
+c: "Performing arts",
+d: "Architecture",
+correct: "b"
+},
+{
+question: "Sculpture is a three-dimensional art form created by _______ or assembling materials.",
+a: "Singing",
+b: "Carving, modelling, or casting",
+c: "Painting",
+d: "Writing",
+correct: "b"
+},
+{
+question: "Which material is commonly used for carving sculptures?",
+a: "Water",
+b: "Wood or stone",
+c: "Paper",
+d: "Cloth",
+correct: "b"
+},
+{
+question: "Modelling is a sculptural technique that uses _______ materials like clay.",
+a: "Hard",
+b: "Soft and pliable",
+c: "Liquid",
+d: "Metallic",
+correct: "b"
+},
+{
+question: "A sculpture that stands alone and can be viewed from all sides is called _______.",
+a: "Relief",
+b: "Freestanding or in-the-round",
+c: "Abstract",
+d: "Assemblage",
+correct: "b"
+},
+{
+question: "A relief sculpture is attached to a _______.",
+a: "Wall or flat background",
+b: "Moving vehicle",
+c: "Ceiling",
+d: "Floor only",
+correct: "a"
+},
+{
+question: "Casting is a sculptural process that involves pouring _______ into a mould.",
+a: "Water",
+b: "Liquid metal or resin",
+c: "Paint",
+d: "Sand",
+correct: "b"
+},
+{
+question: "Which of these is a famous sculptural material in Nigeria?",
+a: "Bronze",
+b: "Plastic",
+c: "Cardboard",
+d: "Rubber",
+correct: "a"
+},
+{
+question: "The process of removing material to create a sculpture is called _______.",
+a: "Additive",
+b: "Subtractive",
+c: "Assembling",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "Contemporary sculptors may use found objects and scraps; this is called _______.",
+a: "Assemblage",
+b: "Carving",
+c: "Modelling",
+d: "Firing",
+correct: "a"
+},
+{
+question: "Sculpture can be used for _______.",
+a: "Decoration, religion, and commemoration",
+b: "Only decoration",
+c: "Only play",
+d: "Only writing",
+correct: "a"
+},
+{
+    question: "The repeated arrangement of shapes, lines, or colours in art is called _____.",
+    a: "Balance",
+    b: "Pattern",
+    c: "Texture",
+    d: "Contrast",
+    correct: "b"
+},
+{
+    question: "Which of these materials is commonly used in weaving?",
+    a: "Raffia",
+    b: "Iron rod",
+    c: "Glass",
+    d: "Concrete",
+    correct: "a"
+},
+{
+    question: "A loom is a tool mainly used for _____.",
+    a: "Painting",
+    b: "Weaving fabric",
+    c: "Carving wood",
+    d: "Making pottery",
+    correct: "b"
+},
+{
+    question: "The main purpose of applying colour to textile materials is to _____.",
+    a: "Destroy the fabric",
+    b: "Improve appearance and decoration",
+    c: "Reduce the size of the cloth",
+    d: "Make the cloth heavier",
+    correct: "b"
+},
+{
+    question: "Which of the following is an example of a Nigerian traditional textile?",
+    a: "Aso Oke",
+    b: "Denim",
+    c: "Silk tie",
+    d: "Canvas",
+    correct: "a"
+},
+{
+    question: "Craftwork helps to preserve a people's _____.",
+    a: "Electricity",
+    b: "Culture and tradition",
+    c: "Road network",
+    d: "Weather",
+    correct: "b"
+},
+{
+    question: "The person who makes clay pots is called a _____.",
+    a: "Blacksmith",
+    b: "Potter",
+    c: "Weaver",
+    d: "Carpenter",
+    correct: "b"
+},
+{
+    question: "A sculpture made by joining different objects together is known as _____.",
+    a: "Assemblage",
+    b: "Relief",
+    c: "Casting",
+    d: "Modelling",
+    correct: "a"
+},
+{
+    question: "One importance of Cultural and Creative Arts is that it _____.",
+    a: "Promotes creativity and self-expression",
+    b: "Discourages innovation",
+    c: "Prevents cultural development",
+    d: "Reduces communication",
+    correct: "a"
+},
+{
+    question: "Cultural and Creative Arts contributes to national development through _____.",
+    a: "Tourism and job creation",
+    b: "Pollution",
+    c: "Increasing unemployment",
+    d: "Destroying cultural heritage",
+    correct: "a"
+},
+
+],
     "Home Economics": [
     
 {
@@ -7142,7 +7625,7 @@ correct: "a"
 
 ],
 
-"Nigerian Histoy":[
+"Nigerian History":[
 {
 question: "Before colonial rule, Nigeria was made up of various _______.",
 a: "United kingdoms",
