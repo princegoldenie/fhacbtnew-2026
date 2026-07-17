@@ -3804,6 +3804,889 @@ correct:"a"
 
 ],
 
+"Nigerian History": [
+{ 
+question: "The study of history helps us to _______.",
+
+a: "Forget our past",
+
+b: "Understand our present and plan for the future",
+
+c: "Only memorize dates",
+
+d: "Avoid reading books",
+
+correct: "b"
+
+},
+
+{
+
+question: "History is important because it _______.",
+
+a: "Promotes tribalism",
+
+b: "Preserves our culture and heritage",
+
+c: "Encourages laziness",
+
+d: "Only tells stories",
+
+correct: "b"
+
+},
+
+{
+
+question: "Knowing history helps to build _______.",
+
+a: "Division among people",
+
+b: "National unity and patriotism",
+
+c: "Confusion",
+
+d: "Hatred",
+
+correct: "b"
+
+},
+
+{
+
+question: "History teaches us about the _______ of our ancestors.",
+
+a: "Mistakes only",
+
+b: "Achievements and struggles",
+
+c: "Food recipes only",
+
+d: "Clothing styles only",
+
+correct: "b"
+
+},
+
+{
+
+question: "A person who studies history is called a _______.",
+
+a: "Geographer",
+
+b: "Historian",
+
+c: "Scientist",
+
+d: "Artist",
+
+correct: "b"
+
+},
+
+{
+
+question: "Sources of history are things that give us _______ about the past.",
+
+a: "Money",
+
+b: "Information or evidence",
+
+c: "Power",
+
+d: "Land",
+
+correct: "b"
+
+},
+
+{
+
+question: "Which of these is a primary source of history?",
+
+a: "Textbook",
+
+b: "Oral tradition",
+
+c: "Biography written by someone else",
+
+d: "Newspaper article",
+
+correct: "b"
+
+},
+
+{
+
+question: "Oral tradition includes _______.",
+
+a: "Written letters",
+
+b: "Folktales, songs, and proverbs passed by word of mouth",
+
+c: "Photographs",
+
+d: "Museum artifacts",
+
+correct: "b"
+
+},
+
+{
+
+question: "Archaeology is the study of _______.",
+
+a: "Living people",
+
+b: "Ancient remains and artifacts",
+
+c: "Modern technology",
+
+d: "Languages",
+
+correct: "b"
+
+},
+
+{
+
+question: "Which of these is an example of a written source?",
+
+a: "Pottery",
+
+b: "Palm kernel",
+
+c: "Diaries and letters",
+
+d: "Bones",
+
+correct: "c"
+
+},
+
+{
+
+question: "Museums preserve historical objects like _______.",
+
+a: "Cars and phones",
+
+b: "Pots, tools, and sculptures",
+
+c: "Food and drinks",
+
+d: "Paper money only",
+
+correct: "b"
+
+},
+
+{
+
+question: "Linguistic evidence helps historians to trace _______.",
+
+a: "The weather of the past",
+
+b: "The origin and migration of peoples through language",
+
+c: "The number of animals",
+
+d: "The size of kingdoms",
+
+correct: "b"
+
+},
+
+{
+
+question: "A secondary source of history is _______.",
+
+a: "An eyewitness account",
+
+b: "A textbook written by a historian",
+
+c: "A fossil",
+
+d: "A traditional festival",
+
+correct: "b"
+
+},
+
+{
+
+question: "Radiocarbon dating is a _______ method used to date artifacts.",
+
+a: "Scientific",
+
+b: "Spiritual",
+
+c: "Oral",
+
+d: "Written",
+
+correct: "a"
+
+},
+
+{
+
+question: "Songs, dances, and festivals are part of _______ sources.",
+
+a: "Written",
+
+b: "Archaeological",
+
+c: "Oral",
+
+d: "Scientific",
+
+correct: "c"
+
+},
+
+{
+
+question: "A centralized state is one where _______.",
+
+a: "Power is shared equally by all villages",
+
+b: "Power is concentrated in a central authority",
+
+c: "There is no leader",
+
+d: "Everyone rules themselves",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Hausa states were made up of _______ major city-states.",
+
+a: "Five",
+
+b: "Seven",
+
+c: "Nine",
+
+d: "Ten",
+
+correct: "b"
+
+},
+
+{
+
+question: "The seven Hausa states are also known as the _______.",
+
+a: "Hausa Bakwai",
+
+b: "Banza Bakwai",
+
+c: "Yoruba Kingdoms",
+
+d: "Igbo Villages",
+
+correct: "a"
+
+},
+
+{
+
+question: "The leader of a Hausa state was called the _______.",
+
+a: "Oba",
+
+b: "Sarki",
+
+c: "Emir",
+
+d: "Obi",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Kanem-Borno Empire was located in the _______ part of Nigeria.",
+
+a: "South-West",
+
+b: "North-East",
+
+c: "South-East",
+
+d: "North-Central",
+
+correct: "b"
+
+},
+
+{
+
+question: "The capital of the Kanem-Borno Empire at its peak was _______.",
+
+a: "Kano",
+
+b: "Katsina",
+
+c: "Birni Gazargamo",
+
+d: "Lagos",
+
+correct: "c"
+
+},
+
+{
+
+question: "The introduction of Islam into the Hausa states came through _______.",
+
+a: "European traders",
+
+b: "Trans-Saharan trade and scholars",
+
+c: "The British army",
+
+d: "Portuguese explorers",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Fulani Jihad led by Uthman dan Fodio created the _______.",
+
+a: "Oyo Empire",
+
+b: "Sokoto Caliphate",
+
+c: "Benin Empire",
+
+d: "Kanem-Borno Empire",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Sokoto Caliphate was the largest empire in West Africa in the _______ century.",
+
+a: "16th",
+
+b: "17th",
+
+c: "19th",
+
+d: "20th",
+
+correct: "c"
+
+},
+
+{
+
+question: "The head of the Sokoto Caliphate was called the _______.",
+
+a: "Sarki",
+
+b: "Oba",
+
+c: "Sultan",
+
+d: "Emir",
+
+correct: "c"
+
+},
+
+{
+
+question: "The Yoruba people are believed to have originated from _______.",
+
+a: "Benin City",
+
+b: "Ile-Ife",
+
+c: "Oyo",
+
+d: "Ibadan",
+
+correct: "b"
+
+},
+
+{
+
+question: "Ile-Ife is considered the _______ of the Yoruba people.",
+
+a: "Trade center",
+
+b: "Spiritual and ancestral home",
+
+c: "Military base",
+
+d: "Port city",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Oyo Empire was famous for its powerful _______.",
+
+a: "Navy",
+
+b: "Army and cavalry",
+
+c: "Air force",
+
+d: "Fishermen",
+
+correct: "b"
+
+},
+
+{
+
+question: "The ruler of the Oyo Empire was called the _______.",
+
+a: "Ooni",
+
+b: "Alaafin",
+
+c: "Obong",
+
+d: "Eze",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Oyo Empire used a council of chiefs called the _______.",
+
+a: "Ogboni",
+
+b: "Oyo Mesi",
+
+c: "Egbe",
+
+d: "Ndichie",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Benin Empire is located in present-day _______ State.",
+
+a: "Oyo",
+
+b: "Lagos",
+
+c: "Edo",
+
+d: "Delta",
+
+correct: "c"
+
+},
+
+{
+
+question: "The ruler of Benin was called the _______.",
+
+a: "Oba",
+
+b: "Alaafin",
+
+c: "Obi",
+
+d: "Etsu",
+
+correct: "a"
+
+},
+
+{
+
+question: "The Benin Empire is world-famous for its _______ art.",
+
+a: "Terracotta",
+
+b: "Bronze and ivory",
+
+c: "Wood carving only",
+
+d: "Beadwork",
+
+correct: "b"
+
+},
+
+{
+
+question: "The first ruler of the Benin Empire was _______.",
+
+a: "Oranmiyan",
+
+b: "Ewuare the Great",
+
+c: "Oba Esigie",
+
+d: "Oba Ovonramwen",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Yoruba system of government was _______.",
+
+a: "Dictatorship",
+
+b: "Monarchy with councils",
+
+c: "Anarchy",
+
+d: "Military rule",
+
+correct: "b"
+
+},
+
+{
+
+question: "A non-centralized state is one where _______.",
+
+a: "There is a powerful king",
+
+b: "Power is shared among villages, elders, and councils",
+
+c: "The emperor rules all",
+
+d: "There is no government at all",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Igbo traditional political system was based on _______.",
+
+a: "A single monarch",
+
+b: "Village democracy and councils of elders",
+
+c: "Military generals",
+
+d: "Foreign rulers",
+
+correct: "b"
+
+},
+
+{
+
+question: "The highest decision-making body in an Igbo village was the _______.",
+
+a: "Oba's court",
+
+b: "Council of elders",
+
+c: "Age grades",
+
+d: "Market women",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Igbo practiced a form of government called _______.",
+
+a: "Autocracy",
+
+b: "Republicanism",
+
+c: "Monarchy",
+
+d: "Feudalism",
+
+correct: "b"
+
+},
+
+{
+
+question: "The title of the oldest respected man in some Igbo communities was _______.",
+
+a: "Obi",
+
+b: "Eze or Igwe",
+
+c: "Sarki",
+
+d: "Oba",
+
+correct: "b"
+
+},
+
+{
+
+question: "Age grades in Igbo land were responsible for _______.",
+
+a: "Only dancing",
+
+b: "Community service, defense, and maintenance of order",
+
+c: "Farming only",
+
+d: "Trading only",
+
+correct: "b"
+
+},
+
+{
+
+question: "Igbo society was largely _______ in its political organization.",
+
+a: "Centralized",
+
+b: "Decentralized",
+
+c: "Imperial",
+
+d: "Feudal",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Urhobo people are located mainly in present-day _______ State.",
+
+a: "Lagos",
+
+b: "Oyo",
+
+c: "Delta",
+
+d: "Rivers",
+
+correct: "c"
+
+},
+
+{
+
+question: "The Urhobo traditional political system was _______.",
+
+a: "Highly centralized",
+
+b: "Decentralized with village and clan autonomy",
+
+c: "Ruled by a single emperor",
+
+d: "Controlled by foreigners",
+
+correct: "b"
+
+},
+
+{
+
+question: "The head of an Urhobo family was called the _______.",
+
+a: "Oka",
+
+b: "Eze",
+
+c: "Odi",
+
+d: "Emir",
+
+correct: "c"
+
+},
+
+{
+
+question: "In Urhobo society, the council of chiefs advised the _______.",
+
+a: "King",
+
+b: "Village head",
+
+c: "Foreigners",
+
+d: "Military",
+
+correct: "b"
+
+},
+
+{
+
+question: "The Urhobo people are culturally close to the _______.",
+
+a: "Hausa",
+
+b: "Igbo",
+
+c: "Yoruba and Edo",
+
+d: "Fulani",
+
+correct: "c"
+
+},
+
+{
+
+question: "Like the Igbo, the Urhobo believed in _______.",
+
+a: "Absolute monarchy",
+
+b: "Decentralized authority and family/clan heads",
+
+c: "Military dictatorship",
+
+d: "Foreign rule",
+
+correct: "b"
+
+},
+
+{
+
+question: "One major occupation of the Urhobo people is _______.",
+
+a: "Mining only",
+
+b: "Fishing, farming, and trading",
+
+c: "Only herding",
+
+d: "Only banking",
+
+correct: "b"
+
+},
+
+{
+
+question: "The study of all these states helps us to appreciate Nigeria's _______.",
+
+a: "Problems only",
+
+b: "Diverse cultures and historical development",
+
+c: "Single language",
+
+d: "Foreign origins",
+
+correct: "b"
+
+},
+
+{
+question: "The Nok civilization is famous for its _______.",
+a: "Bronze sculptures",
+b: "Terracotta sculptures",
+c: "Gold ornaments",
+d: "Wood carvings",
+correct: "b"
+},
+{
+question: "The Nok civilization was located mainly in present-day _______ State.",
+a: "Kano",
+b: "Kaduna",
+c: "Plateau",
+d: "Lagos",
+correct: "b"
+},
+{
+question: "The Nok people are believed to be among the earliest users of _______ technology in West Africa.",
+a: "Iron",
+b: "Plastic",
+c: "Glass",
+d: "Aluminium",
+correct: "a"
+},
+{
+question: "Trade among the ancient Nigerian states encouraged the exchange of _______.",
+a: "Goods and ideas",
+b: "Only money",
+c: "Only food",
+d: "Only animals",
+correct: "a"
+},
+{
+question: "One importance of studying Nigerian history is to help citizens develop _______.",
+a: "Patriotism",
+b: "Hatred",
+c: "Tribal conflicts",
+d: "Laziness",
+correct: "a"
+},
+{
+question: "Ancient Nigerian kingdoms became prosperous mainly because of _______.",
+a: "Trade and agriculture",
+b: "Piracy",
+c: "Foreign aid",
+d: "Modern industries",
+correct: "a"
+},
+{
+question: "The traditional ruler of Ile-Ife is known as the _______.",
+a: "Alaafin",
+b: "Oba",
+c: "Ooni",
+d: "Emir",
+correct: "c"
+},
+{
+question: "Which of the following is NOT a source of Nigerian history?",
+a: "Oral tradition",
+b: "Archaeological evidence",
+c: "Written records",
+d: "Computer games",
+correct: "d"
+},
+{
+question: "The Benin Kingdom became well known because of its excellent _______.",
+a: "Bronze casting",
+b: "Aircraft production",
+c: "Oil drilling",
+d: "Textile factories",
+correct: "a"
+},
+{
+question: "Studying Nigerian History enables citizens to value their _______.",
+a: "Culture and national heritage",
+b: "Foreign traditions only",
+c: "Political parties only",
+d: "Modern technology only",
+correct: "a"
+},
+
+],
+
 "CRS": [
 {
 question: "According to the Gospel of Matthew, who was the Roman Emperor at the time of Jesus' birth?",
@@ -4837,6 +5720,490 @@ correct:"d"
 
 ],
 
+"CCA": [
+{
+question: "A motif is a _______.",
+a: "Large background colour",
+b: "Repeated unit or design element",
+c: "Type of paintbrush",
+d: "Frame for a picture",
+correct: "b"
+},
+{
+question: "Patterns are formed when motifs are _______.",
+a: "Erased",
+b: "Coloured randomly",
+c: "Repeated in a planned arrangement",
+d: "Drawn once",
+correct: "c"
+},
+{
+question: "Which of the following is an example of a natural motif?",
+a: "Geometric triangle",
+b: "Leaf or flower shape",
+c: "Artificial diamond",
+d: "Cardboard square",
+correct: "b"
+},
+{
+question: "The arrangement of motifs in a straight line is called _______ pattern.",
+a: "Random",
+b: "Border",
+c: "All-over",
+d: "Central",
+correct: "b"
+},
+{
+question: "A pattern that spreads across the entire surface without a focal point is called _______.",
+a: "Border pattern",
+b: "All-over pattern",
+c: "Alternating pattern",
+d: "Radial pattern",
+correct: "b"
+},
+{
+question: "Motifs can be inspired by _______.",
+a: "Only machines",
+b: "Nature, culture, and geometry",
+c: "Only letters",
+d: "Only numbers",
+correct: "b"
+},
+{
+question: "A pattern that radiates outward from a centre point is a _______ pattern.",
+a: "Border",
+b: "Random",
+c: "Radial",
+d: "Block",
+correct: "c"
+},
+{
+question: "The repeated use of a motif creates _______.",
+a: "Noise",
+b: "Rhythm and unity in design",
+c: "Confusion",
+d: "Wastage of materials",
+correct: "b"
+},
+{
+question: "Textile design refers to the art of creating designs for _______.",
+a: "Wood carving",
+b: "Fabrics and materials",
+c: "Metal works",
+d: "Paper crafts",
+correct: "b"
+},
+{
+question: "Which of these is a method of textile decoration?",
+a: "Painting",
+b: "Weaving",
+c: "Carving",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "The process of producing fabric by interlacing two sets of yarns is called _______.",
+a: "Knitting",
+b: "Weaving",
+c: "Dyeing",
+d: "Printing",
+correct: "b"
+},
+{
+question: "A design printed on fabric using a carved block is called _______.",
+a: "Tie and dye",
+b: "Block printing",
+c: "Embroidery",
+d: "Crocheting",
+correct: "b"
+},
+{
+question: "Which of the following is a type of textile fibre?",
+a: "Cotton",
+b: "Wood",
+c: "Glass",
+d: "Steel",
+correct: "a"
+},
+{
+question: "The surface design of a fabric can be enhanced by using _______.",
+a: "Only one colour",
+b: "Patterns, colours, and textures",
+c: "Only straight lines",
+d: "No repetition",
+correct: "b"
+},
+{
+question: "Textile design can be classified into _______ design and structural design.",
+a: "Surface",
+b: "Internal",
+c: "External",
+d: "Hidden",
+correct: "a"
+},
+{
+question: "A design that is woven directly into the fabric during production is called _______ design.",
+a: "Surface",
+b: "Structural",
+c: "Painted",
+d: "Printed",
+correct: "b"
+},
+{
+question: "Tie and dye is a method of creating patterns on fabric by _______.",
+a: "Stitching and painting",
+b: "Tying and immersing in dye",
+c: "Gluing and cutting",
+d: "Ironing and folding",
+correct: "b"
+},
+{
+question: "The process of folding, twisting, or tying fabric before dyeing is to _______.",
+a: "Make it dirty",
+b: "Resist dye from reaching certain areas",
+c: "Make it softer",
+d: "Shrink the fabric",
+correct: "b"
+},
+{
+question: "A common material used for tying fabric in tie and dye is _______.",
+a: "Nylon thread",
+b: "Rubber band or twine",
+c: "Metal wire",
+d: "Glue stick",
+correct: "b"
+},
+{
+question: "The dye that is most commonly used for tie and dye in Nigeria is _______.",
+a: "Oil paint",
+b: "Indigo or vat dye",
+c: "Watercolour",
+d: "Poster colour",
+correct: "b"
+},
+{
+question: "Which of these is a basic tie and dye technique?",
+a: "Marbling",
+b: "Knotting",
+c: "Appliqué",
+d: "Batik",
+correct: "b"
+},
+{
+question: "The areas of fabric that remain undyed after tie and dye are called _______ areas.",
+a: "Reserved",
+b: "Coloured",
+c: "Washed",
+d: "Painted",
+correct: "a"
+},
+{
+question: "After dyeing, the fabric is rinsed and _______ to set the colour.",
+a: "Burnt",
+b: "Ironed or dried",
+c: "Cut into pieces",
+d: "Soaked in oil",
+correct: "b"
+},
+{
+question: "Tie and dye is also known as _______.",
+a: "Shibori",
+b: "Crochet",
+c: "Weaving",
+d: "Mosaic",
+correct: "a"
+},
+{
+question: "Batik is a method of fabric decoration using _______ to resist dye.",
+a: "Rubber",
+b: "Wax",
+c: "Glue",
+d: "Chalk",
+correct: "b"
+},
+{
+question: "The wax in batik is applied using a tool called a _______.",
+a: "Brush",
+b: "Canting or tjanting",
+c: "Needle",
+d: "Stencil",
+correct: "b"
+},
+{
+question: "After applying wax, the fabric is dipped into _______.",
+a: "Water",
+b: "Dye",
+c: "Oil",
+d: "Soap",
+correct: "b"
+},
+{
+question: "The wax is removed from the fabric by _______ after dyeing.",
+a: "Boiling or ironing",
+b: "Washing with cold water",
+c: "Scratching it off",
+d: "Burning it",
+correct: "a"
+},
+{
+question: "Batik designs often have _______ lines where the wax cracks.",
+a: "Straight",
+b: "Crackled or veined",
+c: "Dotted",
+d: "Thick",
+correct: "b"
+},
+{
+question: "The word 'batik' is believed to originate from the _______ language.",
+a: "French",
+b: "Javanese (Indonesian)",
+c: "Yoruba",
+d: "English",
+correct: "b"
+},
+{
+question: "One major difference between tie and dye and batik is that batik uses _______.",
+a: "Tying",
+b: "Wax resist",
+c: "Only one colour",
+d: "Stitching",
+correct: "b"
+},
+{
+question: "Batik can be done on _______ fabric.",
+a: "Only cotton",
+b: "Cotton, silk, or linen",
+c: "Only synthetic",
+d: "Only wool",
+correct: "b"
+},
+{
+question: "Craftwork refers to items made _______ using skills and hands.",
+a: "By machines only",
+b: "By hand, often with tools",
+c: "In factories",
+d: "With computers",
+correct: "b"
+},
+{
+question: "Which of the following is an example of craftwork?",
+a: "Pottery",
+b: "Typing",
+c: "Dancing",
+d: "Singing",
+correct: "a"
+},
+{
+question: "Pottery is the art of making objects from _______.",
+a: "Metal",
+b: "Clay",
+c: "Wood",
+d: "Plastic",
+correct: "b"
+},
+{
+question: "Basketry is a craft that involves weaving _______.",
+a: "Metal strips",
+b: "Paper",
+c: "Fibres like cane or raffia",
+d: "Glass",
+correct: "c"
+},
+{
+question: "A craftsperson who works with wood is called a _______.",
+a: "Potter",
+b: "Woodcarver or carpenter",
+c: "Weaver",
+d: "Blacksmith",
+correct: "b"
+},
+{
+question: "The process of heating clay in a kiln to harden it is called _______.",
+a: "Drying",
+b: "Firing",
+c: "Glazing",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "Craftwork is important because it _______.",
+a: "Preserves culture and provides income",
+b: "Causes pollution",
+c: "Is only for children",
+d: "Has no economic value",
+correct: "a"
+},
+{
+question: "Beadmaking, leatherwork, and embroidery are all examples of _______.",
+a: "Fine art",
+b: "Craftwork",
+c: "Performing arts",
+d: "Architecture",
+correct: "b"
+},
+{
+question: "Sculpture is a three-dimensional art form created by _______ or assembling materials.",
+a: "Singing",
+b: "Carving, modelling, or casting",
+c: "Painting",
+d: "Writing",
+correct: "b"
+},
+{
+question: "Which material is commonly used for carving sculptures?",
+a: "Water",
+b: "Wood or stone",
+c: "Paper",
+d: "Cloth",
+correct: "b"
+},
+{
+question: "Modelling is a sculptural technique that uses _______ materials like clay.",
+a: "Hard",
+b: "Soft and pliable",
+c: "Liquid",
+d: "Metallic",
+correct: "b"
+},
+{
+question: "A sculpture that stands alone and can be viewed from all sides is called _______.",
+a: "Relief",
+b: "Freestanding or in-the-round",
+c: "Abstract",
+d: "Assemblage",
+correct: "b"
+},
+{
+question: "A relief sculpture is attached to a _______.",
+a: "Wall or flat background",
+b: "Moving vehicle",
+c: "Ceiling",
+d: "Floor only",
+correct: "a"
+},
+{
+question: "Casting is a sculptural process that involves pouring _______ into a mould.",
+a: "Water",
+b: "Liquid metal or resin",
+c: "Paint",
+d: "Sand",
+correct: "b"
+},
+{
+question: "Which of these is a famous sculptural material in Nigeria?",
+a: "Bronze",
+b: "Plastic",
+c: "Cardboard",
+d: "Rubber",
+correct: "a"
+},
+{
+question: "The process of removing material to create a sculpture is called _______.",
+a: "Additive",
+b: "Subtractive",
+c: "Assembling",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "Contemporary sculptors may use found objects and scraps; this is called _______.",
+a: "Assemblage",
+b: "Carving",
+c: "Modelling",
+d: "Firing",
+correct: "a"
+},
+{
+question: "Sculpture can be used for _______.",
+a: "Decoration, religion, and commemoration",
+b: "Only decoration",
+c: "Only play",
+d: "Only writing",
+correct: "a"
+},
+{
+    question: "The repeated arrangement of shapes, lines, or colours in art is called _____.",
+    a: "Balance",
+    b: "Pattern",
+    c: "Texture",
+    d: "Contrast",
+    correct: "b"
+},
+{
+    question: "Which of these materials is commonly used in weaving?",
+    a: "Raffia",
+    b: "Iron rod",
+    c: "Glass",
+    d: "Concrete",
+    correct: "a"
+},
+{
+    question: "A loom is a tool mainly used for _____.",
+    a: "Painting",
+    b: "Weaving fabric",
+    c: "Carving wood",
+    d: "Making pottery",
+    correct: "b"
+},
+{
+    question: "The main purpose of applying colour to textile materials is to _____.",
+    a: "Destroy the fabric",
+    b: "Improve appearance and decoration",
+    c: "Reduce the size of the cloth",
+    d: "Make the cloth heavier",
+    correct: "b"
+},
+{
+    question: "Which of the following is an example of a Nigerian traditional textile?",
+    a: "Aso Oke",
+    b: "Denim",
+    c: "Silk tie",
+    d: "Canvas",
+    correct: "a"
+},
+{
+    question: "Craftwork helps to preserve a people's _____.",
+    a: "Electricity",
+    b: "Culture and tradition",
+    c: "Road network",
+    d: "Weather",
+    correct: "b"
+},
+{
+    question: "The person who makes clay pots is called a _____.",
+    a: "Blacksmith",
+    b: "Potter",
+    c: "Weaver",
+    d: "Carpenter",
+    correct: "b"
+},
+{
+    question: "A sculpture made by joining different objects together is known as _____.",
+    a: "Assemblage",
+    b: "Relief",
+    c: "Casting",
+    d: "Modelling",
+    correct: "a"
+},
+{
+    question: "One importance of Cultural and Creative Arts is that it _____.",
+    a: "Promotes creativity and self-expression",
+    b: "Discourages innovation",
+    c: "Prevents cultural development",
+    d: "Reduces communication",
+    correct: "a"
+},
+{
+    question: "Cultural and Creative Arts contributes to national development through _____.",
+    a: "Tourism and job creation",
+    b: "Pollution",
+    c: "Increasing unemployment",
+    d: "Destroying cultural heritage",
+    correct: "a"
+},
+
+],
+
 "Business Studies":[
 
 {
@@ -5288,6 +6655,894 @@ c:"Changed to capital letters",
 d:"Swapped",
 correct:"d"
 },
+
+],
+"CCA": [
+{
+question: "A motif is a _______.",
+a: "Large background colour",
+b: "Repeated unit or design element",
+c: "Type of paintbrush",
+d: "Frame for a picture",
+correct: "b"
+},
+{
+question: "Patterns are formed when motifs are _______.",
+a: "Erased",
+b: "Coloured randomly",
+c: "Repeated in a planned arrangement",
+d: "Drawn once",
+correct: "c"
+},
+{
+question: "Which of the following is an example of a natural motif?",
+a: "Geometric triangle",
+b: "Leaf or flower shape",
+c: "Artificial diamond",
+d: "Cardboard square",
+correct: "b"
+},
+{
+question: "The arrangement of motifs in a straight line is called _______ pattern.",
+a: "Random",
+b: "Border",
+c: "All-over",
+d: "Central",
+correct: "b"
+},
+{
+question: "A pattern that spreads across the entire surface without a focal point is called _______.",
+a: "Border pattern",
+b: "All-over pattern",
+c: "Alternating pattern",
+d: "Radial pattern",
+correct: "b"
+},
+{
+question: "Motifs can be inspired by _______.",
+a: "Only machines",
+b: "Nature, culture, and geometry",
+c: "Only letters",
+d: "Only numbers",
+correct: "b"
+},
+{
+question: "A pattern that radiates outward from a centre point is a _______ pattern.",
+a: "Border",
+b: "Random",
+c: "Radial",
+d: "Block",
+correct: "c"
+},
+{
+question: "The repeated use of a motif creates _______.",
+a: "Noise",
+b: "Rhythm and unity in design",
+c: "Confusion",
+d: "Wastage of materials",
+correct: "b"
+},
+{
+question: "Textile design refers to the art of creating designs for _______.",
+a: "Wood carving",
+b: "Fabrics and materials",
+c: "Metal works",
+d: "Paper crafts",
+correct: "b"
+},
+{
+question: "Which of these is a method of textile decoration?",
+a: "Painting",
+b: "Weaving",
+c: "Carving",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "The process of producing fabric by interlacing two sets of yarns is called _______.",
+a: "Knitting",
+b: "Weaving",
+c: "Dyeing",
+d: "Printing",
+correct: "b"
+},
+{
+question: "A design printed on fabric using a carved block is called _______.",
+a: "Tie and dye",
+b: "Block printing",
+c: "Embroidery",
+d: "Crocheting",
+correct: "b"
+},
+{
+question: "Which of the following is a type of textile fibre?",
+a: "Cotton",
+b: "Wood",
+c: "Glass",
+d: "Steel",
+correct: "a"
+},
+{
+question: "The surface design of a fabric can be enhanced by using _______.",
+a: "Only one colour",
+b: "Patterns, colours, and textures",
+c: "Only straight lines",
+d: "No repetition",
+correct: "b"
+},
+{
+question: "Textile design can be classified into _______ design and structural design.",
+a: "Surface",
+b: "Internal",
+c: "External",
+d: "Hidden",
+correct: "a"
+},
+{
+question: "A design that is woven directly into the fabric during production is called _______ design.",
+a: "Surface",
+b: "Structural",
+c: "Painted",
+d: "Printed",
+correct: "b"
+},
+{
+question: "Tie and dye is a method of creating patterns on fabric by _______.",
+a: "Stitching and painting",
+b: "Tying and immersing in dye",
+c: "Gluing and cutting",
+d: "Ironing and folding",
+correct: "b"
+},
+{
+question: "The process of folding, twisting, or tying fabric before dyeing is to _______.",
+a: "Make it dirty",
+b: "Resist dye from reaching certain areas",
+c: "Make it softer",
+d: "Shrink the fabric",
+correct: "b"
+},
+{
+question: "A common material used for tying fabric in tie and dye is _______.",
+a: "Nylon thread",
+b: "Rubber band or twine",
+c: "Metal wire",
+d: "Glue stick",
+correct: "b"
+},
+{
+question: "The dye that is most commonly used for tie and dye in Nigeria is _______.",
+a: "Oil paint",
+b: "Indigo or vat dye",
+c: "Watercolour",
+d: "Poster colour",
+correct: "b"
+},
+{
+question: "Which of these is a basic tie and dye technique?",
+a: "Marbling",
+b: "Knotting",
+c: "Appliqué",
+d: "Batik",
+correct: "b"
+},
+{
+question: "The areas of fabric that remain undyed after tie and dye are called _______ areas.",
+a: "Reserved",
+b: "Coloured",
+c: "Washed",
+d: "Painted",
+correct: "a"
+},
+{
+question: "After dyeing, the fabric is rinsed and _______ to set the colour.",
+a: "Burnt",
+b: "Ironed or dried",
+c: "Cut into pieces",
+d: "Soaked in oil",
+correct: "b"
+},
+{
+question: "Tie and dye is also known as _______.",
+a: "Shibori",
+b: "Crochet",
+c: "Weaving",
+d: "Mosaic",
+correct: "a"
+},
+{
+question: "Batik is a method of fabric decoration using _______ to resist dye.",
+a: "Rubber",
+b: "Wax",
+c: "Glue",
+d: "Chalk",
+correct: "b"
+},
+
+{
+question: "The wax in batik is applied using a tool called a _______.",
+a: "Brush",
+b: "Canting or tjanting",
+c: "Needle",
+d: "Stencil",
+correct: "b"
+},
+{
+question: "After applying wax, the fabric is dipped into _______.",
+a: "Water",
+b: "Dye",
+c: "Oil",
+d: "Soap",
+correct: "b"
+},
+{
+question: "The wax is removed from the fabric by _______ after dyeing.",
+a: "Boiling or ironing",
+b: "Washing with cold water",
+c: "Scratching it off",
+d: "Burning it",
+correct: "a"
+},
+{
+question: "Batik designs often have _______ lines where the wax cracks.",
+a: "Straight",
+b: "Crackled or veined",
+c: "Dotted",
+d: "Thick",
+correct: "b"
+},
+{
+question: "The word 'batik' is believed to originate from the _______ language.",
+a: "French",
+b: "Javanese (Indonesian)",
+c: "Yoruba",
+d: "English",
+correct: "b"
+},
+{
+question: "One major difference between tie and dye and batik is that batik uses _______.",
+a: "Tying",
+b: "Wax resist",
+c: "Only one colour",
+d: "Stitching",
+correct: "b"
+},
+{
+question: "Batik can be done on _______ fabric.",
+a: "Only cotton",
+b: "Cotton, silk, or linen",
+c: "Only synthetic",
+d: "Only wool",
+correct: "b"
+},
+{
+question: "Craftwork refers to items made _______ using skills and hands.",
+a: "By machines only",
+b: "By hand, often with tools",
+c: "In factories",
+d: "With computers",
+correct: "b"
+},
+{
+question: "Which of the following is an example of craftwork?",
+a: "Pottery",
+b: "Typing",
+c: "Dancing",
+d: "Singing",
+correct: "a"
+},
+{
+question: "Pottery is the art of making objects from _______.",
+a: "Metal",
+b: "Clay",
+c: "Wood",
+d: "Plastic",
+correct: "b"
+},
+{
+question: "Basketry is a craft that involves weaving _______.",
+a: "Metal strips",
+b: "Paper",
+c: "Fibres like cane or raffia",
+d: "Glass",
+correct: "c"
+},
+{
+question: "A craftsperson who works with wood is called a _______.",
+a: "Potter",
+b: "Woodcarver or carpenter",
+c: "Weaver",
+d: "Blacksmith",
+correct: "b"
+},
+{
+question: "The process of heating clay in a kiln to harden it is called _______.",
+a: "Drying",
+b: "Firing",
+c: "Glazing",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "Craftwork is important because it _______.",
+a: "Preserves culture and provides income",
+b: "Causes pollution",
+c: "Is only for children",
+d: "Has no economic value",
+correct: "a"
+},
+{
+question: "Beadmaking, leatherwork, and embroidery are all examples of _______.",
+a: "Fine art",
+b: "Craftwork",
+c: "Performing arts",
+d: "Architecture",
+correct: "b"
+},
+{
+question: "Sculpture is a three-dimensional art form created by _______ or assembling materials.",
+a: "Singing",
+b: "Carving, modelling, or casting",
+c: "Painting",
+d: "Writing",
+correct: "b"
+},
+{
+question: "Which material is commonly used for carving sculptures?",
+a: "Water",
+b: "Wood or stone",
+c: "Paper",
+d: "Cloth",
+correct: "b"
+},
+{
+question: "Modelling is a sculptural technique that uses _______ materials like clay.",
+a: "Hard",
+b: "Soft and pliable",
+c: "Liquid",
+d: "Metallic",
+correct: "b"
+},
+{
+question: "A sculpture that stands alone and can be viewed from all sides is called _______.",
+a: "Relief",
+b: "Freestanding or in-the-round",
+c: "Abstract",
+d: "Assemblage",
+correct: "b"
+},
+{
+question: "A relief sculpture is attached to a _______.",
+a: "Wall or flat background",
+b: "Moving vehicle",
+c: "Ceiling",
+d: "Floor only",
+correct: "a"
+},
+{
+question: "Casting is a sculptural process that involves pouring _______ into a mould.",
+a: "Water",
+b: "Liquid metal or resin",
+c: "Paint",
+d: "Sand",
+correct: "b"
+},
+{
+question: "Which of these is a famous sculptural material in Nigeria?",
+a: "Bronze",
+b: "Plastic",
+c: "Cardboard",
+d: "Rubber",
+correct: "a"
+},
+{
+question: "The process of removing material to create a sculpture is called _______.",
+a: "Additive",
+b: "Subtractive",
+c: "Assembling",
+d: "Moulding",
+correct: "b"
+},
+{
+question: "Contemporary sculptors may use found objects and scraps; this is called _______.",
+a: "Assemblage",
+b: "Carving",
+c: "Modelling",
+d: "Firing",
+correct: "a"
+},
+{
+question: "Sculpture can be used for _______.",
+a: "Decoration, religion, and commemoration",
+b: "Only decoration",
+c: "Only play",
+d: "Only writing",
+correct: "a"
+},
+{
+    question: "The repeated arrangement of shapes, lines, or colours in art is called _____.",
+    a: "Balance",
+    b: "Pattern",
+    c: "Texture",
+    d: "Contrast",
+    correct: "b"
+},
+{
+    question: "Which of these materials is commonly used in weaving?",
+    a: "Raffia",
+    b: "Iron rod",
+    c: "Glass",
+    d: "Concrete",
+    correct: "a"
+},
+{
+    question: "A loom is a tool mainly used for _____.",
+    a: "Painting",
+    b: "Weaving fabric",
+    c: "Carving wood",
+    d: "Making pottery",
+    correct: "b"
+},
+{
+    question: "The main purpose of applying colour to textile materials is to _____.",
+    a: "Destroy the fabric",
+    b: "Improve appearance and decoration",
+    c: "Reduce the size of the cloth",
+    d: "Make the cloth heavier",
+    correct: "b"
+},
+{
+    question: "Which of the following is an example of a Nigerian traditional textile?",
+    a: "Aso Oke",
+    b: "Denim",
+    c: "Silk tie",
+    d: "Canvas",
+    correct: "a"
+},
+{
+    question: "Craftwork helps to preserve a people's _____.",
+    a: "Electricity",
+    b: "Culture and tradition",
+    c: "Road network",
+    d: "Weather",
+    correct: "b"
+},
+{
+    question: "The person who makes clay pots is called a _____.",
+    a: "Blacksmith",
+    b: "Potter",
+    c: "Weaver",
+    d: "Carpenter",
+    correct: "b"
+},
+{
+    question: "A sculpture made by joining different objects together is known as _____.",
+    a: "Assemblage",
+    b: "Relief",
+    c: "Casting",
+    d: "Modelling",
+    correct: "a"
+},
+{
+    question: "One importance of Cultural and Creative Arts is that it _____.",
+    a: "Promotes creativity and self-expression",
+    b: "Discourages innovation",
+    c: "Prevents cultural development",
+    d: "Reduces communication",
+    correct: "a"
+},
+{
+    question: "Cultural and Creative Arts contributes to national development through _____.",
+    a: "Tourism and job creation",
+    b: "Pollution",
+    c: "Increasing unemployment",
+    d: "Destroying cultural heritage",
+    correct: "a"
+},
+
+],
+
+"Nigerian Histoy":[
+{
+question: "Before colonial rule, Nigeria was made up of various _______.",
+a: "United kingdoms",
+b: "Independent states, kingdoms, and empires",
+c: "Foreign settlements",
+d: "Religious groups only",
+correct: "b"
+},
+{
+question: "The Nok culture is famous for its _______.",
+a: "Bronze casting",
+b: "Terracotta sculptures",
+c: "Iron smelting only",
+d: "Textile weaving",
+correct: "b"
+},
+{
+question: "The Nok civilization existed in present-day _______ state.",
+a: "Lagos",
+b: "Kaduna",
+c: "Kano",
+d: "Rivers",
+correct: "b"
+},
+{
+question: "The Ife Empire is known for its naturalistic _______.",
+a: "Wood carvings",
+b: "Bronze and terracotta heads",
+c: "Pottery",
+d: "Beadwork",
+correct: "b"
+},
+{
+question: "The Oyo Empire was a powerful state in the _______ region.",
+a: "South-East",
+b: "South-West",
+c: "North-Central",
+d: "South-South",
+correct: "b"
+},
+{
+question: "The Benin Empire is famous for its _______ art.",
+a: "Terracotta",
+b: "Bronze and ivory",
+c: "Stone",
+d: "Paper",
+correct: "b"
+},
+{
+question: "The Kanem-Borno Empire was located in the _______ part of Nigeria.",
+a: "South-West",
+b: "North-East",
+c: "South-East",
+d: "North-West",
+correct: "b"
+},
+{
+question: "The Hausa states were known for _______.",
+a: "Fishing",
+b: "Trade and textile production",
+c: "Mining gold",
+d: "Building pyramids",
+correct: "b"
+},
+{
+question: "The Igbo political system was traditionally based on _______.",
+a: "A centralized king",
+b: "Village democracy and councils of elders",
+c: "An emperor",
+d: "Military rule",
+correct: "b"
+},
+{
+question: "The Fulani Jihad led by Uthman dan Fodio resulted in the creation of the _______.",
+a: "Benin Empire",
+b: "Sokoto Caliphate",
+c: "Oyo Empire",
+d: "Kanem-Borno Empire",
+correct: "b"
+},
+{
+question: "The main religion of the Sokoto Caliphate was _______.",
+a: "Christianity",
+b: "Islam",
+c: "Traditional religion",
+d: "Buddhism",
+correct: "b"
+},
+{
+question: "The slave trade in Nigeria was abolished by the British in the _______.",
+a: "16th century",
+b: "19th century",
+c: "20th century",
+d: "15th century",
+correct: "b"
+},
+{
+question: "The amalgamation of Northern and Southern Protectorates took place in _______.",
+a: "1861",
+b: "1900",
+c: "1914",
+d: "1960",
+correct: "c"
+},
+{
+question: "Nigeria gained independence on _______.",
+a: "1st October 1960",
+b: "1st October 1914",
+c: "15th January 1966",
+d: "1st October 1970",
+correct: "a"
+},
+{
+question: "The first Governor-General of Nigeria was _______.",
+a: "Sir James Robertson",
+b: "Dr. Nnamdi Azikiwe",
+c: "Lord Lugard",
+d: "Sir Abubakar Tafawa Balewa",
+correct: "a"
+},
+{
+question: "The Ghana Empire was located in present-day _______.",
+a: "Nigeria and Cameroon",
+b: "Mauritania and Mali",
+c: "Modern Ghana",
+d: "Senegal only",
+correct: "b"
+},
+{
+question: "The Ghana Empire was also known as the _______ Empire.",
+a: "Songhai",
+b: "Wagadugu",
+c: "Mali",
+d: "Kanem",
+correct: "b"
+},
+{
+question: "The capital city of the Ghana Empire was _______.",
+a: "Timbuktu",
+b: "Gao",
+c: "Kumbi Saleh",
+d: "Niani",
+correct: "c"
+},
+{
+question: "The Ghana Empire became wealthy through the _______.",
+a: "Yam trade",
+b: "Gold and salt trade",
+c: "Fishing industry",
+d: "Timber export",
+correct: "b"
+},
+{
+question: "The king of Ghana was called the _______.",
+a: "Mansa",
+b: "Oba",
+c: "Emir",
+d: "Ghana (Tunka)",
+correct: "d"
+},
+{
+question: "The Ghana Empire's army mainly used _______ weapons.",
+a: "Iron",
+b: "Copper",
+c: "Bronze",
+d: "Wood",
+correct: "a"
+},
+{
+question: "The ruling class of Ghana mainly practiced _______.",
+a: "Islam",
+b: "Traditional African religion",
+c: "Christianity",
+d: "Buddhism",
+correct: "b"
+},
+{
+question: "The Ghana Empire declined mainly because of _______.",
+a: "Earthquakes",
+b: "Almoravid invasion and internal rebellion",
+c: "Flooding",
+d: "European colonization",
+correct: "b"
+},
+{
+question: "Salt was highly valued because it was used for _______.",
+a: "Decoration",
+b: "Food preservation and health",
+c: "House building",
+d: "Making weapons",
+correct: "b"
+},
+{
+question: "The Soninke people founded the _______ Empire.",
+a: "Mali",
+b: "Songhai",
+c: "Ghana",
+d: "Benin",
+correct: "c"
+},
+{
+question: "The Mali Empire rose after the fall of the _______ Empire.",
+a: "Songhai",
+b: "Ghana",
+c: "Kanem",
+d: "Oyo",
+correct: "b"
+},
+{
+question: "The founder of the Mali Empire was _______.",
+a: "Mansa Musa",
+b: "Sundiata Keita",
+c: "Askia Muhammad",
+d: "Uthman dan Fodio",
+correct: "b"
+},
+{
+question: "Sundiata Keita is often called the _______.",
+a: "Lion King",
+b: "Elephant King",
+c: "Golden King",
+d: "Warrior Prince",
+correct: "a"
+},
+{
+question: "The capital of the Mali Empire was _______.",
+a: "Timbuktu",
+b: "Gao",
+c: "Niani",
+d: "Kumbi Saleh",
+correct: "c"
+},
+{
+question: "The most famous ruler of Mali was _______.",
+a: "Sundiata Keita",
+b: "Mansa Musa",
+c: "Askia the Great",
+d: "Sonni Ali",
+correct: "b"
+},
+{
+question: "Mansa Musa is remembered for his pilgrimage to _______.",
+a: "Jerusalem",
+b: "Mecca",
+c: "Rome",
+d: "Cairo",
+correct: "b"
+},
+{
+question: "During his pilgrimage Mansa Musa distributed so much gold that he caused _______.",
+a: "Inflation",
+b: "War",
+c: "Famine",
+d: "Drought",
+correct: "a"
+},
+{
+question: "The Mali Empire controlled trade in _______ and salt.",
+a: "Silver",
+b: "Gold",
+c: "Copper",
+d: "Iron",
+correct: "b"
+},
+{
+question: "The famous Islamic university in Timbuktu was _______.",
+a: "Al-Azhar",
+b: "Sankore University",
+c: "Oxford",
+d: "University of Ibadan",
+correct: "b"
+},
+{
+question: "Timbuktu became a centre of _______.",
+a: "Agriculture",
+b: "Learning, trade and Islamic scholarship",
+c: "Mining",
+d: "Shipbuilding",
+correct: "b"
+},
+{
+question: "The Mali Empire reached its greatest height under _______.",
+a: "Sundiata Keita",
+b: "Mansa Musa",
+c: "Abu Bakr II",
+d: "Mansa Sulayman",
+correct: "b"
+},
+{
+question: "After Mali declined, the _______ Empire became dominant.",
+a: "Ghana",
+b: "Songhai",
+c: "Benin",
+d: "Oyo",
+correct: "b"
+},
+{
+question: "Mali's economy depended on agriculture, trade and _______.",
+a: "Gold mining",
+b: "Factory production",
+c: "Oil drilling",
+d: "Tourism",
+correct: "a"
+},
+{
+question: "The Mali Empire controlled important routes across the _______.",
+a: "Atlantic Ocean",
+b: "Sahara Desert",
+c: "Indian Ocean",
+d: "Nile River",
+correct: "b"
+},
+{
+question: "One factor responsible for the decline of Mali was _______.",
+a: "Internal conflicts and Songhai attacks",
+b: "Earthquake",
+c: "European invasion",
+d: "Volcanic eruption",
+correct: "a"
+},
+{
+question: "Abu Bakr II attempted to _______.",
+a: "Cross the Atlantic Ocean",
+b: "Conquer Europe",
+c: "Build a wall around Timbuktu",
+d: "Abolish Islam",
+correct: "a"
+},
+{
+question: "The social structure of Mali included royalty, nobles, merchants and _______.",
+a: "Slaves only",
+b: "Commoners and farmers",
+c: "Foreign rulers",
+d: "No other classes",
+correct: "b"
+},
+{
+question: "The administrative and trade languages of Mali included _______.",
+a: "English",
+b: "Arabic and Mandinka",
+c: "French",
+d: "Portuguese",
+correct: "b"
+},
+{
+question: "The Mali Empire promoted the spread of _______.",
+a: "Christianity",
+b: "Islam",
+c: "Hinduism",
+d: "Judaism",
+correct: "b"
+},
+{
+question: "Mansa Musa's famous pilgrimage took place in _______.",
+a: "1324 CE",
+b: "1492 CE",
+c: "1807 CE",
+d: "1000 CE",
+correct: "a"
+},
+{
+question: "The Mali Empire controlled the gold mines of _______.",
+a: "Bure and Bambuk",
+b: "Jos Plateau",
+c: "Enugu",
+d: "Zamfara",
+correct: "a"
+},
+{
+question: "Sundiata Keita belonged to the _______ dynasty.",
+a: "Keita",
+b: "Soninke",
+c: "Almoravid",
+d: "Songhai",
+correct: "a"
+},
+{
+question: "The Mali Empire lasted until about _______ CE.",
+a: "1400",
+b: "1600",
+c: "1800",
+d: "1900",
+correct: "b"
+},
+{
+question: "Cowrie shells and salt were commonly used as _______.",
+a: "Currency",
+b: "Weapons",
+c: "Clothing",
+d: "Building materials",
+correct: "a"
+},
+{
+question: "The fall of the Mali Empire was completed when the _______ captured Niani.",
+a: "Songhai Empire",
+b: "British",
+c: "French",
+d: "Almoravids",
+correct: "a"
+}
 
 ],
 
@@ -7896,6 +10151,1033 @@ correct: "b"
 },
 
 "SS 1": {
+"Digital Technologies": [
+{
+    question: "A word processor is software used for ______.",
+    a: "Creating, editing and formatting text documents",
+    b: "Creating databases",
+    c: "Designing websites",
+    d: "Playing games",
+    correct: "a"
+},
+{
+    question: "Which of the following is an example of a word processing application?",
+    a: "Microsoft Word",
+    b: "Microsoft Excel",
+    c: "Microsoft Access",
+    d: "Microsoft PowerPoint",
+    correct: "a"
+},
+{
+    question: "Google Docs is an example of a ______ word processor.",
+    a: "Cloud-based",
+    b: "Offline-only",
+    c: "Database",
+    d: "Programming",
+    correct: "a"
+},
+{
+    question: "Which feature checks spelling mistakes in a document?",
+    a: "Spell Check",
+    b: "Mail Merge",
+    c: "Word Count",
+    d: "Track Changes",
+    correct: "a"
+},
+{
+    question: "Which Microsoft Word feature allows one letter to be sent to many recipients?",
+    a: "Mail Merge",
+    b: "AutoCorrect",
+    c: "Print Preview",
+    d: "Header and Footer",
+    correct: "a"
+},
+{
+    question: "The shortcut key for saving a document is ______.",
+    a: "Ctrl + S",
+    b: "Ctrl + P",
+    c: "Ctrl + C",
+    d: "Ctrl + X",
+    correct: "a"
+},
+{
+    question: "The shortcut key for copying selected text is ______.",
+    a: "Ctrl + C",
+    b: "Ctrl + V",
+    c: "Ctrl + Z",
+    d: "Ctrl + X",
+    correct: "a"
+},
+{
+    question: "The default file extension for Microsoft Word documents is ______.",
+    a: ".docx",
+    b: ".xlsx",
+    c: ".pptx",
+    d: ".accdb",
+    correct: "a"
+},
+{
+    question: "Which of these is NOT a feature of Microsoft Word?",
+    a: "Spell Check",
+    b: "Mail Merge",
+    c: "Slide Transition",
+    d: "Find and Replace",
+    correct: "c"
+},
+{
+    question: "The Ribbon in Microsoft Word contains ______.",
+    a: "Tabs and commands",
+    b: "Rows and columns",
+    c: "Slides",
+    d: "Records",
+    correct: "a"
+},
+{
+    question: "A spreadsheet is mainly used for ______.",
+    a: "Organizing and analyzing numerical data",
+    b: "Typing letters",
+    c: "Editing videos",
+    d: "Creating databases",
+    correct: "a"
+},
+{
+    question: "Which application is commonly used for spreadsheets?",
+    a: "Microsoft Excel",
+    b: "Microsoft Word",
+    c: "Microsoft Access",
+    d: "Paint",
+    correct: "a"
+},
+{
+    question: "A cell is formed by the intersection of a ______.",
+    a: "Row and column",
+    b: "Page and margin",
+    c: "Slide and layout",
+    d: "Field and record",
+    correct: "a"
+},
+{
+    question: "Every formula in Microsoft Excel begins with a ______.",
+    a: "=",
+    b: "+",
+    c: "-",
+    d: "*",
+    correct: "a"
+},
+{
+    question: "Cell B5 refers to ______.",
+    a: "Column B and Row 5",
+    b: "Row B and Column 5",
+    c: "Book 5",
+    d: "Block 5",
+    correct: "a"
+},
+{
+    question: "Which Excel function adds a range of numbers together?",
+    a: "SUM",
+    b: "COUNT",
+    c: "IF",
+    d: "MAX",
+    correct: "a"
+},
+{
+    question: "Which function calculates the average of selected numbers?",
+    a: "AVERAGE",
+    b: "SUM",
+    c: "COUNT",
+    d: "MIN",
+    correct: "a"
+},
+{
+    question: "Which Excel function counts the number of cells containing numbers?",
+    a: "COUNT",
+    b: "SUM",
+    c: "AVERAGE",
+    d: "IF",
+    correct: "a"
+},
+{
+    question: "Charts in Excel are used to ______.",
+    a: "Present data graphically",
+    b: "Type documents",
+    c: "Create databases",
+    d: "Browse the internet",
+    correct: "a"
+},
+{
+    question: "Which of the following is a type of chart in Microsoft Excel?",
+    a: "Pie Chart",
+    b: "Circle Sheet",
+    c: "Data Slide",
+    d: "Ribbon Chart",
+    correct: "a"
+},
+
+{
+    question: "Presentation software is mainly used to ______.",
+    a: "Create slide presentations",
+    b: "Prepare spreadsheets",
+    c: "Create databases",
+    d: "Browse the internet",
+    correct: "a"
+},
+{
+    question: "Which of the following is a presentation software?",
+    a: "Microsoft PowerPoint",
+    b: "Microsoft Word",
+    c: "Microsoft Excel",
+    d: "Microsoft Access",
+    correct: "a"
+},
+{
+    question: "Google Slides is an example of a ______ presentation application.",
+    a: "Cloud-based",
+    b: "Database",
+    c: "Spreadsheet",
+    d: "Programming",
+    correct: "a"
+},
+{
+    question: "A single page in a PowerPoint presentation is called a ______.",
+    a: "Slide",
+    b: "Worksheet",
+    c: "Document",
+    d: "Record",
+    correct: "a"
+},
+{
+    question: "Slide transitions are used to ______.",
+    a: "Control how one slide changes to another",
+    b: "Correct spelling errors",
+    c: "Create formulas",
+    d: "Store records",
+    correct: "a"
+},
+{
+    question: "Animations in PowerPoint are used to ______.",
+    a: "Add movement to text and objects",
+    b: "Calculate figures",
+    c: "Create databases",
+    d: "Print documents",
+    correct: "a"
+},
+{
+    question: "Which view is commonly used when presenting a slide show to an audience?",
+    a: "Slide Show View",
+    b: "Outline View",
+    c: "Normal View",
+    d: "Notes View",
+    correct: "a"
+},
+{
+    question: "The default file extension for Microsoft PowerPoint is ______.",
+    a: ".pptx",
+    b: ".docx",
+    c: ".xlsx",
+    d: ".accdb",
+    correct: "a"
+},
+{
+    question: "A presentation template is ______.",
+    a: "A pre-designed slide layout",
+    b: "A spreadsheet formula",
+    c: "A database table",
+    d: "A word processing tool",
+    correct: "a"
+},
+{
+    question: "Which of the following can be inserted into a PowerPoint slide?",
+    a: "Pictures, audio and videos",
+    b: "Only text",
+    c: "Only charts",
+    d: "Only tables",
+    correct: "a"
+},
+{
+    question: "A database is ______.",
+    a: "An organized collection of related data",
+    b: "A type of spreadsheet",
+    c: "A presentation program",
+    d: "A graphics editor",
+    correct: "a"
+},
+{
+    question: "DBMS stands for ______.",
+    a: "Database Management System",
+    b: "Digital Business Management System",
+    c: "Data Backup Management Software",
+    d: "Database Basic Machine System",
+    correct: "a"
+},
+{
+    question: "Which of the following is an example of database software?",
+    a: "Microsoft Access",
+    b: "Microsoft Word",
+    c: "Microsoft Excel",
+    d: "Microsoft Paint",
+    correct: "a"
+},
+{
+    question: "A table in a database is made up of ______.",
+    a: "Rows and columns",
+    b: "Slides and pages",
+    c: "Pictures and videos",
+    d: "Files and folders",
+    correct: "a"
+},
+{
+    question: "A row in a database table is called a ______.",
+    a: "Record",
+    b: "Field",
+    c: "Cell",
+    d: "Worksheet",
+    correct: "a"
+},
+{
+    question: "A column in a database table is called a ______.",
+    a: "Field",
+    b: "Record",
+    c: "Page",
+    d: "Slide",
+    correct: "a"
+},
+{
+    question: "A query in a database is used to ______.",
+    a: "Retrieve specific information",
+    b: "Delete the operating system",
+    c: "Print slides",
+    d: "Create spreadsheets",
+    correct: "a"
+},
+{
+    question: "A form in Microsoft Access is mainly used for ______.",
+    a: "Entering and viewing records",
+    b: "Creating presentations",
+    c: "Performing calculations",
+    d: "Browsing websites",
+    correct: "a"
+},
+{
+    question: "A report in a database is used to ______.",
+    a: "Display and print information in an organized format",
+    b: "Store videos",
+    c: "Create formulas",
+    d: "Edit pictures",
+    correct: "a"
+},
+{
+    question: "Which of the following is the default file extension for Microsoft Access?",
+    a: ".accdb",
+    b: ".docx",
+    c: ".xlsx",
+    d: ".pptx",
+    correct: "a"
+},
+
+{
+    question: "Which Microsoft Office application is best used for typing letters and reports?",
+    a: "Microsoft Word",
+    b: "Microsoft Excel",
+    c: "Microsoft Access",
+    d: "Microsoft PowerPoint",
+    correct: "a"
+},
+{
+    question: "Which Microsoft Office application is best used for preparing students' results and calculations?",
+    a: "Microsoft Excel",
+    b: "Microsoft Word",
+    c: "Microsoft Access",
+    d: "Microsoft PowerPoint",
+    correct: "a"
+},
+{
+    question: "Which Microsoft Office application is mainly used for delivering classroom presentations?",
+    a: "Microsoft PowerPoint",
+    b: "Microsoft Word",
+    c: "Microsoft Excel",
+    d: "Microsoft Access",
+    correct: "a"
+},
+{
+    question: "Which Microsoft Office application is mainly used for storing and managing records?",
+    a: "Microsoft Access",
+    b: "Microsoft Word",
+    c: "Microsoft Excel",
+    d: "Microsoft PowerPoint",
+    correct: "a"
+},
+{
+    question: "The shortcut key Ctrl + P is used to ______.",
+    a: "Print a document",
+    b: "Paste text",
+    c: "Open a file",
+    d: "Close a document",
+    correct: "a"
+},
+{
+    question: "The shortcut key Ctrl + O is used to ______.",
+    a: "Open an existing document",
+    b: "Save a document",
+    c: "Create a new slide",
+    d: "Copy text",
+    correct: "a"
+},
+{
+    question: "Which shortcut key creates a new document in Microsoft Word?",
+    a: "Ctrl + N",
+    b: "Ctrl + S",
+    c: "Ctrl + X",
+    d: "Ctrl + B",
+    correct: "a"
+},
+{
+    question: "Which Excel function returns the largest value in a selected range?",
+    a: "MAX",
+    b: "MIN",
+    c: "COUNT",
+    d: "SUM",
+    correct: "a"
+},
+{
+    question: "Which Excel function returns the smallest value in a selected range?",
+    a: "MIN",
+    b: "MAX",
+    c: "AVERAGE",
+    d: "COUNT",
+    correct: "a"
+},
+{
+    question: "The IF function in Microsoft Excel is used for ______.",
+    a: "Making logical or conditional decisions",
+    b: "Adding numbers only",
+    c: "Printing worksheets",
+    d: "Creating charts only",
+    correct: "a"
+},
+{
+    question: "A group of selected cells in a spreadsheet is called a ______.",
+    a: "Range",
+    b: "Record",
+    c: "Field",
+    d: "Slide",
+    correct: "a"
+},
+{
+    question: "Sorting data in Excel means ______.",
+    a: "Arranging data in a particular order",
+    b: "Deleting data",
+    c: "Printing data",
+    d: "Copying data",
+    correct: "a"
+},
+{
+    question: "Filtering data in Excel helps users to ______.",
+    a: "Display only records that meet specific conditions",
+    b: "Delete unwanted files",
+    c: "Increase computer speed",
+    d: "Create presentations",
+    correct: "a"
+},
+{
+    question: "Which chart is best used to show parts of a whole?",
+    a: "Pie Chart",
+    b: "Bar Chart",
+    c: "Line Chart",
+    d: "Column Chart",
+    correct: "a"
+},
+{
+    question: "Which chart is best used to show changes over time?",
+    a: "Line Chart",
+    b: "Pie Chart",
+    c: "Area Text",
+    d: "Scatter Note",
+    correct: "a"
+},
+{
+    question: "A primary key in a database is used to ______.",
+    a: "Uniquely identify each record",
+    b: "Delete all records",
+    c: "Print reports",
+    d: "Format tables",
+    correct: "a"
+},
+{
+    question: "Which of the following is NOT a database object in Microsoft Access?",
+    a: "Worksheet",
+    b: "Table",
+    c: "Query",
+    d: "Form",
+    correct: "a"
+},
+{
+    question: "A good presentation should contain ______.",
+    a: "Clear and concise information",
+    b: "Too much text on every slide",
+    c: "Many unrelated animations",
+    d: "Only pictures without headings",
+    correct: "a"
+},
+{
+    question: "Which of the following file extensions belongs to Microsoft Excel?",
+    a: ".xlsx",
+    b: ".docx",
+    c: ".pptx",
+    d: ".accdb",
+    correct: "a"
+},
+{
+    question: "Which of the following best describes Microsoft Office?",
+    a: "A collection of productivity software applications",
+    b: "A computer operating system",
+    c: "An internet browser",
+    d: "An antivirus program",
+    correct: "a"
+}
+],
+
+"CHS":[
+
+{
+question:"Global citizenship refers to _______.",
+a:"Being a citizen of only one country",
+b:"Recognizing that people are members of a global community",
+c:"Travelling to many countries",
+d:"Living outside one's country",
+correct:"b"
+},
+
+{
+question:"A global citizen is expected to _______.",
+a:"Respect people from different cultures",
+b:"Discriminate against foreigners",
+c:"Ignore global issues",
+d:"Promote violence",
+correct:"a"
+},
+
+{
+question:"Which of the following is a responsibility of a global citizen?",
+a:"Protecting the environment",
+b:"Destroying public property",
+c:"Encouraging conflict",
+d:"Ignoring human rights",
+correct:"a"
+},
+
+{
+question:"Globalization refers to the _______.",
+a:"Isolation of countries",
+b:"Interaction and integration of countries",
+c:"Division of countries",
+d:"Formation of villages",
+correct:"b"
+},
+
+{
+question:"One advantage of globalization is _______.",
+a:"Improved international trade",
+b:"Increased isolation",
+c:"Reduction in communication",
+d:"Closure of markets",
+correct:"a"
+},
+
+{
+question:"One challenge of globalization is _______.",
+a:"Spread of diseases",
+b:"Improved technology",
+c:"Better communication",
+d:"International cooperation",
+correct:"a"
+},
+
+{
+question:"Global citizenship promotes _______.",
+a:"Peaceful coexistence",
+b:"Tribalism",
+c:"Ethnic conflict",
+d:"Religious intolerance",
+correct:"a"
+},
+
+{
+question:"Respect for human rights is a major principle of _______.",
+a:"Global citizenship",
+b:"Military rule",
+c:"Dictatorship",
+d:"Colonialism",
+correct:"a"
+},
+
+{
+question:"Citizenship education teaches people to become _______.",
+a:"Responsible citizens",
+b:"Dictators",
+c:"Foreigners",
+d:"Politicians only",
+correct:"a"
+},
+
+{
+question:"Citizenship education encourages _______.",
+a:"National unity",
+b:"Violence",
+c:"Election malpractice",
+d:"Corruption",
+correct:"a"
+},
+
+{
+question:"Which country is well known for teaching civic responsibility in schools?",
+a:"United States of America",
+b:"Mars",
+c:"Antarctica",
+d:"Greenland",
+correct:"a"
+},
+
+{
+question:"The United Kingdom promotes citizenship education mainly to encourage _______.",
+a:"Responsible participation",
+b:"Political violence",
+c:"Military rule",
+d:"Corruption",
+correct:"a"
+},
+
+{
+question:"Ghana's citizenship education emphasizes _______.",
+a:"National unity",
+b:"Tribal conflicts",
+c:"Religious discrimination",
+d:"Election violence",
+correct:"a"
+},
+
+{
+question:"South Africa promotes citizenship education to strengthen _______.",
+a:"Democracy and equality",
+b:"Apartheid",
+c:"Military dictatorship",
+d:"Colonial rule",
+correct:"a"
+},
+
+{
+question:"One similarity between citizenship education in Nigeria and other countries is _______.",
+a:"Promotion of responsible citizenship",
+b:"Promotion of corruption",
+c:"Promotion of dictatorship",
+d:"Promotion of tribalism",
+correct:"a"
+},
+
+{
+question:"The United Nations (UN) was established in _______.",
+a:"1945",
+b:"1950",
+c:"1960",
+d:"1975",
+correct:"a"
+},
+
+{
+question:"The headquarters of the United Nations is in _______.",
+a:"New York",
+b:"London",
+c:"Abuja",
+d:"Accra",
+correct:"a"
+},
+
+{
+question:"The main aim of the United Nations is to promote _______.",
+a:"International peace and security",
+b:"War among nations",
+c:"Colonialism",
+d:"Military coups",
+correct:"a"
+},
+
+{
+question:"The African Union (AU) was formerly known as the _______.",
+a:"Organization of African Unity (OAU)",
+b:"ECOWAS",
+c:"Commonwealth",
+d:"United Nations",
+correct:"a"
+},
+
+{
+question:"The headquarters of the African Union is located in _______.",
+a:"Addis Ababa, Ethiopia",
+b:"Abuja, Nigeria",
+c:"Accra, Ghana",
+d:"Nairobi, Kenya",
+correct:"a"
+},
+{
+question:"ECOWAS stands for _______.",
+a:"Economic Community of West African States",
+b:"Economic Council of West African States",
+c:"East Community of West African States",
+d:"Economic Commission of World African States",
+correct:"a"
+},
+
+{
+question:"ECOWAS was established in _______.",
+a:"1963",
+b:"1975",
+c:"1985",
+d:"1995",
+correct:"b"
+},
+
+{
+question:"The headquarters of ECOWAS is in _______.",
+a:"Lagos",
+b:"Abuja",
+c:"Accra",
+d:"Abuja, Nigeria",
+correct:"d"
+},
+
+{
+question:"One major objective of ECOWAS is to _______.",
+a:"Promote economic integration",
+b:"Encourage military rule",
+c:"Promote colonialism",
+d:"Create political parties",
+correct:"a"
+},
+
+{
+question:"The Commonwealth is an association of countries that were mostly _______.",
+a:"Former British colonies",
+b:"Former French colonies",
+c:"Former Portuguese colonies",
+d:"Former German colonies",
+correct:"a"
+},
+
+{
+question:"The Commonwealth promotes _______.",
+a:"Democracy and development",
+b:"Military dictatorship",
+c:"Religious intolerance",
+d:"Civil war",
+correct:"a"
+},
+
+{
+question:"Which of the following is an international organization?",
+a:"United Nations",
+b:"WAEC",
+c:"JAMB",
+d:"INEC",
+correct:"a"
+},
+
+{
+question:"International organizations promote cooperation among _______.",
+a:"Countries",
+b:"Families",
+c:"Schools",
+d:"Markets",
+correct:"a"
+},
+
+{
+question:"One function of the African Union is to _______.",
+a:"Promote unity among African countries",
+b:"Conduct WAEC examinations",
+c:"Control elections in Nigeria",
+d:"Make Nigerian laws",
+correct:"a"
+},
+
+{
+question:"The United Nations protects human rights through its _______.",
+a:"Agencies and programmes",
+b:"Police Force",
+c:"Political parties",
+d:"Traditional rulers",
+correct:"a"
+},
+
+{
+question:"Human rights are protected in Nigeria by the _______.",
+a:"National Human Rights Commission",
+b:"National Assembly only",
+c:"Political parties",
+d:"Traditional institutions",
+correct:"a"
+},
+
+{
+question:"The abbreviation NHRC means _______.",
+a:"National Human Rights Commission",
+b:"National Health Reform Council",
+c:"National Human Resources Commission",
+d:"National Human Rights Council",
+correct:"a"
+},
+
+{
+question:"The National Human Rights Commission was established to _______.",
+a:"Promote and protect human rights",
+b:"Collect taxes",
+c:"Conduct elections",
+d:"Issue passports",
+correct:"a"
+},
+
+{
+question:"NGO means _______.",
+a:"Non-Governmental Organization",
+b:"National Government Office",
+c:"New Government Organization",
+d:"Non-General Office",
+correct:"a"
+},
+
+{
+question:"An example of an NGO involved in human rights is _______.",
+a:"Amnesty International",
+b:"INEC",
+c:"WAEC",
+d:"NNPC",
+correct:"a"
+},
+
+{
+question:"The judiciary protects citizens by _______.",
+a:"Interpreting the law fairly",
+b:"Making laws",
+c:"Conducting elections",
+d:"Collecting taxes",
+correct:"a"
+},
+
+{
+question:"A court that hears cases involving countries is called _______.",
+a:"International Court of Justice",
+b:"Supreme Court of Nigeria",
+c:"Magistrate Court",
+d:"Customary Court",
+correct:"a"
+},
+
+{
+question:"The International Court of Justice is located in _______.",
+a:"The Hague, Netherlands",
+b:"New York, USA",
+c:"London, UK",
+d:"Abuja, Nigeria",
+correct:"a"
+},
+
+{
+question:"One responsibility of every citizen is to _______.",
+a:"Respect the rights of others",
+b:"Violate the law",
+c:"Destroy public property",
+d:"Refuse to pay taxes",
+correct:"a"
+},
+
+{
+question:"Global peace can best be achieved through _______.",
+a:"International cooperation",
+b:"Violence",
+c:"War",
+d:"Terrorism",
+correct:"a"
+},
+{
+question:"Global citizenship encourages people to _______.",
+a:"Respect cultural diversity",
+b:"Promote discrimination",
+c:"Encourage violence",
+d:"Ignore other nations",
+correct:"a"
+},
+
+{
+question:"One benefit of global citizenship is _______.",
+a:"Peaceful coexistence among nations",
+b:"Increase in wars",
+c:"Isolation of countries",
+d:"Loss of education",
+correct:"a"
+},
+
+{
+question:"A responsible global citizen should _______.",
+a:"Protect the environment",
+b:"Destroy public property",
+c:"Promote corruption",
+d:"Disobey laws",
+correct:"a"
+},
+
+{
+question:"Citizenship education helps individuals to become _______.",
+a:"Responsible members of society",
+b:"Dictators",
+c:"Foreign rulers",
+d:"Military officers",
+correct:"a"
+},
+
+{
+question:"One importance of citizenship education is that it promotes _______.",
+a:"National unity",
+b:"Ethnic conflict",
+c:"Religious intolerance",
+d:"Political violence",
+correct:"a"
+},
+
+{
+question:"The African Union works to promote _______.",
+a:"Unity and development in Africa",
+b:"Military rule",
+c:"Colonialism",
+d:"Civil unrest",
+correct:"a"
+},
+
+{
+question:"ECOWAS encourages the free movement of _______.",
+a:"People and goods",
+b:"Weapons only",
+c:"Soldiers only",
+d:"Political parties",
+correct:"a"
+},
+
+{
+question:"One objective of the Commonwealth is to promote _______.",
+a:"Democracy and good governance",
+b:"Military dictatorship",
+c:"Civil war",
+d:"Religious conflict",
+correct:"a"
+},
+
+{
+question:"The Universal Declaration of Human Rights was adopted in _______.",
+a:"1948",
+b:"1945",
+c:"1955",
+d:"1960",
+correct:"a"
+},
+
+{
+question:"Human rights belong to every person regardless of _______.",
+a:"Race, religion or nationality",
+b:"Occupation only",
+c:"Political office",
+d:"Educational qualification",
+correct:"a"
+},
+
+{
+question:"The judiciary protects human rights through _______.",
+a:"Fair interpretation of the law",
+b:"Making campaign speeches",
+c:"Collecting taxes",
+d:"Conducting elections",
+correct:"a"
+},
+
+{
+question:"The National Human Rights Commission investigates cases of _______.",
+a:"Human rights violations",
+b:"Examination malpractice",
+c:"Market prices",
+d:"Weather conditions",
+correct:"a"
+},
+
+{
+question:"An NGO is usually _______.",
+a:"Independent of government",
+b:"Owned by the military",
+c:"Controlled by political parties",
+d:"A branch of the legislature",
+correct:"a"
+},
+
+{
+question:"International cooperation helps countries to solve _______.",
+a:"Common global problems",
+b:"Family disputes",
+c:"School examinations",
+d:"Village meetings",
+correct:"a"
+},
+
+{
+question:"Climate change is an example of a _______.",
+a:"Global challenge",
+b:"Personal challenge",
+c:"School problem",
+d:"Local festival",
+correct:"a"
+},
+
+{
+question:"One responsibility of citizens is to _______.",
+a:"Obey the laws of the country",
+b:"Destroy government property",
+c:"Encourage violence",
+d:"Refuse civic duties",
+correct:"a"
+},
+
+{
+question:"Respecting the rights of others promotes _______.",
+a:"Peaceful coexistence",
+b:"Conflict",
+c:"Disunity",
+d:"Lawlessness",
+correct:"a"
+},
+
+{
+question:"A democratic society depends on citizens who are _______.",
+a:"Responsible and law-abiding",
+b:"Violent",
+c:"Corrupt",
+d:"Careless",
+correct:"a"
+},
+
+{
+question:"The overall aim of Citizenship and Heritage Studies is to develop _______.",
+a:"Responsible, patriotic and globally conscious citizens",
+b:"Military rulers",
+c:"Business owners only",
+d:"Professional athletes",
+correct:"a"
+},
+
+{
+question:"One major benefit of international organizations is that they promote _______.",
+a:"Peace, cooperation and development",
+b:"Political violence",
+c:"Ethnic conflicts",
+d:"Military coups",
+correct:"a"
+},
+
+],
+
 "Government": [
 
 {
@@ -8934,6 +12216,547 @@ correct: "c"
 
 ],
 
+"Marketing":[
+
+{
+question:"Advertising is best defined as:",
+a:"The physical movement of goods from producer to consumer",
+b:"Any paid form of non-personal communication about an organization, product, or idea",
+c:"The process of setting prices for products",
+d:"A personal sales talk between a seller and a buyer",
+correct:"b"
+},
+
+{
+question:"Which of the following is a primary objective of advertising?",
+a:"To reduce the cost of production",
+b:"To inform, persuade, and remind consumers about a product",
+c:"To distribute goods to retailers",
+d:"To recruit new employees for the company",
+correct:"b"
+},
+
+{
+question:"A television commercial is an example of which type of advertising medium?",
+a:"Print media",
+b:"Electronic media",
+c:"Outdoor media",
+d:"Direct mail",
+correct:"b"
+},
+
+{
+question:"Which of the following is an example of print media advertising?",
+a:"Radio jingle",
+b:"Billboard",
+c:"Newspaper advertisement",
+d:"Internet pop-up advertisement",
+correct:"c"
+},
+
+{
+question:"Advertising that aims to create a favourable image of a company rather than promote a specific product is called:",
+a:"Direct advertising",
+b:"Product advertising",
+c:"Institutional advertising",
+d:"Classified advertising",
+correct:"c"
+},
+
+{
+question:"The AIDA model in advertising stands for:",
+a:"Attention, Interest, Desire, Action",
+b:"Awareness, Information, Distribution, Appeal",
+c:"Attraction, Interaction, Decision, Assessment",
+d:"Analysis, Implementation, Design, Approval",
+correct:"a"
+},
+
+{
+question:"A major advantage of advertising to a business is that it:",
+a:"Guarantees immediate sales",
+b:"Increases the cost of production",
+c:"Helps create brand awareness and customer loyalty",
+d:"Eliminates all competition",
+correct:"c"
+},
+
+{
+question:"Which of the following is a disadvantage of advertising?",
+a:"It can be very expensive and may increase the price of goods",
+b:"It always provides accurate information",
+c:"It reduces the need for salespeople",
+d:"It guarantees market dominance",
+correct:"a"
+},
+
+{
+question:"A jingle is a form of advertising commonly associated with:",
+a:"Billboards",
+b:"Magazines",
+c:"Radio and television",
+d:"Direct mail",
+correct:"c"
+},
+
+{
+question:"The person or organization that creates and places advertisements for clients is called:",
+a:"The consumer",
+b:"The wholesaler",
+c:"The advertising agency",
+d:"The distributor",
+correct:"c"
+},
+
+{
+question:"Price can be defined as:",
+a:"The cost of producing a product",
+b:"The amount of money paid to obtain a product or service",
+c:"The profit made by a company",
+d:"The expenses incurred by a business",
+correct:"b"
+},
+
+{
+question:"A company that sets a very low price to enter a new market is using:",
+a:"Skimming pricing",
+b:"Penetration pricing",
+c:"Premium pricing",
+d:"Psychological pricing",
+correct:"b"
+},
+
+{
+question:"Setting a high initial price for a new product is called:",
+a:"Penetration pricing",
+b:"Price skimming",
+c:"Competitive pricing",
+d:"Cost-plus pricing",
+correct:"b"
+},
+
+{
+question:"Cost-plus pricing involves:",
+a:"Matching competitors' prices",
+b:"Adding a markup to the cost of production",
+c:"Pricing based on emotions",
+d:"Reducing prices during festive periods",
+correct:"b"
+},
+
+{
+question:"Which of the following is an internal factor affecting pricing?",
+a:"Competitors' prices",
+b:"Government regulations",
+c:"Cost of production",
+d:"Consumer demand",
+correct:"c"
+},
+
+{
+question:"Psychological pricing such as ₦999 instead of ₦1,000 is intended to:",
+a:"Make the product appear cheaper",
+b:"Increase production cost",
+c:"Reduce company profit",
+d:"Match competitors exactly",
+correct:"a"
+},
+
+{
+question:"A pricing strategy that sets prices lower than competitors to gain market share is:",
+a:"Premium pricing",
+b:"Competitive pricing",
+c:"Price skimming",
+d:"Cost-plus pricing",
+correct:"b"
+},
+
+{
+question:"The point where total revenue equals total cost is called the:",
+a:"Break-even point",
+b:"Profit margin",
+c:"Market share",
+d:"Discount level",
+correct:"a"
+},
+
+{
+question:"A reduction in the original selling price of a product is known as:",
+a:"Markup",
+b:"Discount",
+c:"Markdown",
+d:"Premium",
+correct:"c"
+},
+
+{
+question:"The total costs incurred in producing a product are known as:",
+a:"Selling price",
+b:"Cost of production",
+c:"Profit margin",
+d:"Market price",
+correct:"b"
+},
+{
+question:"Promotion is one of the 4 Ps of marketing. The other three are Product, Price and _______.",
+a:"People",
+b:"Process",
+c:"Place (Distribution)",
+d:"Physical Evidence",
+correct:"c"
+},
+
+{
+question:"The promotion mix consists of advertising, public relations, personal selling and _______.",
+a:"Pricing",
+b:"Sales promotion",
+c:"Merchandising",
+d:"Distribution",
+correct:"b"
+},
+
+{
+question:"Which of the following is an example of sales promotion?",
+a:"A television advertisement",
+b:"A salesperson visiting a customer",
+c:"Buy One, Get One Free offer",
+d:"A newspaper editorial",
+correct:"c"
+},
+
+{
+question:"Personal selling involves _______.",
+a:"Broadcasting messages to many people",
+b:"Face-to-face interaction between seller and buyer",
+c:"Sending bulk SMS messages",
+d:"Publishing newspaper adverts",
+correct:"b"
+},
+
+{
+question:"Public relations is mainly concerned with _______.",
+a:"Increasing sales through discounts",
+b:"Building goodwill and a positive company image",
+c:"Training salespeople",
+d:"Transporting goods",
+correct:"b"
+},
+
+{
+question:"Which of the following is aimed directly at consumers?",
+a:"Trade discounts",
+b:"Free samples and coupons",
+c:"Sales training",
+d:"Dealer incentives",
+correct:"b"
+},
+
+{
+question:"The major purpose of promotion is to _______.",
+a:"Increase production costs",
+b:"Reduce product quality",
+c:"Communicate with and persuade customers",
+d:"Reduce competition",
+correct:"c"
+},
+
+{
+question:"A company sponsoring a football competition is an example of _______.",
+a:"Sales promotion",
+b:"Personal selling",
+c:"Public relations",
+d:"Direct marketing",
+correct:"c"
+},
+
+{
+question:"Which promotional tool provides immediate customer feedback?",
+a:"Advertising",
+b:"Personal selling",
+c:"Public relations",
+d:"Sales promotion",
+correct:"b"
+},
+
+{
+question:"Trade promotion is directed mainly at _______.",
+a:"Consumers",
+b:"Wholesalers and retailers",
+c:"Government agencies",
+d:"Manufacturers",
+correct:"b"
+},
+
+{
+question:"Merchandising is best described as the _______.",
+a:"Transportation of goods",
+b:"Planning, buying and selling goods profitably",
+c:"Pricing of products",
+d:"Advertising on television",
+correct:"b"
+},
+
+{
+question:"A primary function of a merchandiser is to _______.",
+a:"Manufacture products",
+b:"Fix product prices",
+c:"Ensure the right products are available at the right place and time",
+d:"Handle public relations",
+correct:"c"
+},
+
+{
+question:"Visual merchandising refers to _______.",
+a:"Selling products online",
+b:"Displaying products attractively in a store",
+c:"Transporting products",
+d:"Preparing financial accounts",
+correct:"b"
+},
+
+{
+question:"Which of the following is an element of retail merchandising?",
+a:"Store layout and window display",
+b:"Manufacturing",
+c:"Transportation",
+d:"Factory construction",
+correct:"a"
+},
+
+{
+question:"A major objective of merchandising is to _______.",
+a:"Reduce advertising",
+b:"Increase sales and profitability",
+c:"Lower product quality",
+d:"Eliminate customer service",
+correct:"b"
+},
+
+{
+question:"Choosing the range of products to stock is known as _______.",
+a:"Product display",
+b:"Product assortment",
+c:"Product pricing",
+d:"Product distribution",
+correct:"b"
+},
+
+{
+question:"Neatly arranged supermarket shelves are an example of _______.",
+a:"Visual merchandising",
+b:"Price promotion",
+c:"Personal selling",
+d:"Public relations",
+correct:"a"
+},
+
+{
+question:"Merchandising mainly focuses on the _______.",
+a:"Point of sale",
+b:"Production process",
+c:"Advertising campaign",
+d:"Government policy",
+correct:"a"
+},
+
+{
+question:"A merchandiser is especially concerned with the _______.",
+a:"Company tax records",
+b:"Design and layout of the sales floor",
+c:"Employment of accountants",
+d:"Legal registration of the company",
+correct:"b"
+},
+
+{
+question:"Which of the following is NOT an importance of merchandising?",
+a:"Encourages impulse buying",
+b:"Improves the use of retail space",
+c:"Manufactures raw materials",
+d:"Improves customer satisfaction",
+correct:"c"
+},
+{
+question:"Distribution in marketing refers to _______.",
+a:"Creating new products",
+b:"The movement of goods from producer to consumer",
+c:"Advertising products",
+d:"Financing business operations",
+correct:"b"
+},
+
+{
+question:"A channel of distribution is _______.",
+a:"The route taken by delivery vehicles",
+b:"The chain of intermediaries through which goods pass from producer to consumer",
+c:"A method of pricing products",
+d:"An advertising medium",
+correct:"b"
+},
+
+{
+question:"Which of the following is a direct channel of distribution?",
+a:"Producer → Wholesaler → Retailer → Consumer",
+b:"Producer → Agent → Wholesaler → Consumer",
+c:"Producer → Consumer",
+d:"Producer → Retailer → Consumer",
+correct:"c"
+},
+
+{
+question:"An intermediary who buys goods in bulk from producers and sells to retailers is known as a _______.",
+a:"Wholesaler",
+b:"Retailer",
+c:"Agent",
+d:"Consumer",
+correct:"a"
+},
+
+{
+question:"A retailer is a person who _______.",
+a:"Buys only in large quantities",
+b:"Sells goods directly to the final consumer",
+c:"Produces goods",
+d:"Provides loans to producers",
+correct:"b"
+},
+
+{
+question:"Which of the following is NOT an activity involved in physical distribution?",
+a:"Transportation",
+b:"Warehousing",
+c:"Advertising",
+d:"Inventory management",
+correct:"c"
+},
+
+{
+question:"One advantage of using intermediaries in distribution is that they _______.",
+a:"Increase production costs",
+b:"Reduce the producer's workload",
+c:"Eliminate transportation",
+d:"Prevent competition",
+correct:"b"
+},
+
+{
+question:"The role of a distributor in a marketing channel is to _______.",
+a:"Manufacture products",
+b:"Provide financial advice",
+c:"Buy goods from manufacturers and sell to retailers or consumers",
+d:"Design product packaging",
+correct:"c"
+},
+
+{
+question:"Physical distribution (logistics) includes _______.",
+a:"Advertising and selling",
+b:"Transportation, warehousing and order fulfilment",
+c:"Product design",
+d:"Price determination",
+correct:"b"
+},
+
+{
+question:"When choosing a distribution channel, a business should consider _______.",
+a:"The nature of the product",
+b:"The target market",
+c:"The cost of distribution",
+d:"All of the above",
+correct:"d"
+},
+{
+question:"Market research helps a business to _______.",
+a:"Increase taxes",
+b:"Understand customers' needs",
+c:"Reduce production quality",
+d:"Close down competitors",
+correct:"b"
+},
+
+{
+question:"The marketing mix consists of Product, Price, Place and _______.",
+a:"People",
+b:"Promotion",
+c:"Packaging",
+d:"Profit",
+correct:"b"
+},
+
+{
+question:"A brand is best described as a _______.",
+a:"Type of factory",
+b:"Name, symbol or design that identifies a product",
+c:"Sales promotion method",
+d:"Warehouse facility",
+correct:"b"
+},
+
+{
+question:"Packaging is important because it _______.",
+a:"Protects and promotes the product",
+b:"Increases production costs only",
+c:"Eliminates advertising",
+d:"Reduces product quality",
+correct:"a"
+},
+
+{
+question:"Which of the following is an example of direct marketing?",
+a:"Television commercial",
+b:"SMS and email messages sent directly to customers",
+c:"Billboard advertisement",
+d:"Radio programme",
+correct:"b"
+},
+
+{
+question:"Customer satisfaction is achieved when a product _______.",
+a:"Meets or exceeds customers' expectations",
+b:"Is always the cheapest",
+c:"Has the highest price",
+d:"Is produced overseas",
+correct:"a"
+},
+
+{
+question:"One benefit of branding is that it _______.",
+a:"Helps customers identify products easily",
+b:"Reduces product quality",
+c:"Prevents competition",
+d:"Stops advertising",
+correct:"a"
+},
+
+{
+question:"The main purpose of marketing is to _______.",
+a:"Produce goods only",
+b:"Satisfy customer needs profitably",
+c:"Increase government revenue",
+d:"Reduce the number of consumers",
+correct:"b"
+},
+
+{
+question:"Consumer behaviour refers to the _______.",
+a:"Way consumers select, buy and use products",
+b:"Activities of manufacturers",
+c:"Movement of goods",
+d:"Government pricing policy",
+correct:"a"
+},
+
+{
+question:"Good customer service helps to _______.",
+a:"Build customer loyalty",
+b:"Reduce sales",
+c:"Increase customer complaints",
+d:"Discourage repeat purchases",
+correct:"a"
+},
+
+],
+
 "Literature": [
 {
 question: "1. Redemption Road is a novel written by _______.",
@@ -9907,6 +13730,1033 @@ c: "Become a politician",
 d: "Avoid reading books",
 correct: "a"
 },
+],
+
+"Digital Technologies": [
+{
+question: "A mobile application (app) is a software program designed to run on ______.",
+a: "Desktop computers only",
+b: "Mobile devices such as smartphones and tablets",
+c: "Television sets only",
+d: "Mainframe computers",
+correct: "b"
+},
+{
+question: "Which of the following is an example of a mobile operating system?",
+a: "Windows XP",
+b: "Android",
+c: "Linux Mint",
+d: "Ubuntu",
+correct: "b"
+},
+{
+question: "The iOS operating system was developed by ______.",
+a: "Google",
+b: "Samsung",
+c: "Apple",
+d: "Microsoft",
+correct: "c"
+},
+{
+question: "Which company developed the Android operating system?",
+a: "Apple",
+b: "Microsoft",
+c: "Google",
+d: "Dell",
+correct: "c"
+},
+{
+question: "Which of the following is NOT a mobile application?",
+a: "WhatsApp",
+b: "Instagram",
+c: "Microsoft Word Mobile",
+d: "Windows BIOS",
+correct: "d"
+},
+{
+question: "Applications such as Facebook, Instagram and TikTok are examples of ______ apps.",
+a: "Educational",
+b: "Social media",
+c: "Banking",
+d: "Health",
+correct: "b"
+},
+{
+question: "Which of the following is an educational mobile application?",
+a: "Google Classroom",
+b: "Candy Crush",
+c: "Instagram",
+d: "Facebook",
+correct: "a"
+},
+{
+question: "The first stage in developing a mobile application is ______.",
+a: "Testing",
+b: "Planning",
+c: "Publishing",
+d: "Maintenance",
+correct: "b"
+},
+{
+question: "After coding a mobile application, the next important stage is ______.",
+a: "Deleting the program",
+b: "Testing the application",
+c: "Selling the application",
+d: "Formatting the phone",
+correct: "b"
+},
+{
+question: "Google Play Store is mainly used to download applications for ______ devices.",
+a: "Android",
+b: "iPhone",
+c: "Windows",
+d: "MacBook",
+correct: "a"
+},
+{
+question: "The Apple App Store is used for downloading applications on ______ devices.",
+a: "Android",
+b: "Linux",
+c: "iOS",
+d: "Windows",
+correct: "c"
+},
+{
+question: "One major advantage of mobile applications is that they ______.",
+a: "Can only work without electricity",
+b: "Make tasks easier and faster",
+c: "Destroy mobile phones",
+d: "Cannot connect to the internet",
+correct: "b"
+},
+{
+question: "Which of the following is a banking mobile application?",
+a: "Opay",
+b: "WhatsApp",
+c: "Zoom",
+d: "YouTube",
+correct: "a"
+},
+{
+question: "A mobile application designed to monitor physical fitness is called a ______ app.",
+a: "Gaming",
+b: "Health",
+c: "Navigation",
+d: "Shopping",
+correct: "b"
+},
+{
+question: "Mobile applications are commonly downloaded from ______.",
+a: "App stores",
+b: "Television stations",
+c: "Libraries",
+d: "Printers",
+correct: "a"
+},
+{
+question: "Word processing is the process of ______.",
+a: "Creating, editing, formatting and printing text documents",
+b: "Browsing the internet",
+c: "Designing buildings",
+d: "Editing videos",
+correct: "a"
+},
+{
+question: "Which of the following is a word processing application?",
+a: "Microsoft Word",
+b: "Microsoft Excel",
+c: "Microsoft Access",
+d: "Microsoft PowerPoint",
+correct: "a"
+},
+{
+question: "A word processor is mainly used to prepare ______.",
+a: "Videos",
+b: "Documents",
+c: "Music",
+d: "Games",
+correct: "b"
+},
+{
+question: "The shortcut key used to save a document in Microsoft Word is ______.",
+a: "Ctrl + P",
+b: "Ctrl + C",
+c: "Ctrl + S",
+d: "Ctrl + X",
+correct: "c"
+},
+{
+question: "The shortcut key for printing a document is ______.",
+a: "Ctrl + P",
+b: "Ctrl + A",
+c: "Ctrl + V",
+d: "Ctrl + Z",
+correct: "a"
+},
+
+{
+    question: "Which of the following is an example of application software?",
+    a: "Microsoft Word",
+    b: "Windows 11",
+    c: "Linux Kernel",
+    d: "BIOS",
+    correct: "a"
+},
+{
+    question: "A computer program designed to solve users' problems is called ______.",
+    a: "Firmware",
+    b: "Application software",
+    c: "System software",
+    d: "Utility hardware",
+    correct: "b"
+},
+{
+    question: "Which software is mainly used for creating and editing text documents?",
+    a: "Spreadsheet software",
+    b: "Presentation software",
+    c: "Word processing software",
+    d: "Database software",
+    correct: "c"
+},
+{
+    question: "Microsoft Word is an example of ______ software.",
+    a: "Word processing",
+    b: "Database",
+    c: "Programming",
+    d: "Graphics editing",
+    correct: "a"
+},
+{
+    question: "Which of the following is NOT a word processing application?",
+    a: "Microsoft Word",
+    b: "Google Docs",
+    c: "LibreOffice Writer",
+    d: "Microsoft Excel",
+    correct: "d"
+},
+{
+    question: "The default file extension for Microsoft Word documents in recent versions is ______.",
+    a: ".xls",
+    b: ".pptx",
+    c: ".docx",
+    d: ".pdf",
+    correct: "c"
+},
+{
+    question: "The feature that automatically corrects common typing mistakes is called ______.",
+    a: "AutoCorrect",
+    b: "AutoSave",
+    c: "Mail Merge",
+    d: "Track Changes",
+    correct: "a"
+},
+{
+    question: "Which word processing feature allows one letter to be sent to many recipients with different names and addresses?",
+    a: "Spell Check",
+    b: "Mail Merge",
+    c: "AutoCorrect",
+    d: "Print Preview",
+    correct: "b"
+},
+{
+    question: "The function used to check grammar and spelling in a document is ______.",
+    a: "Find and Replace",
+    b: "Grammar and Spell Check",
+    c: "Word Count",
+    d: "Auto Format",
+    correct: "b"
+},
+{
+    question: "Which of the following is an example of cloud storage?",
+    a: "Google Drive",
+    b: "Microsoft Paint",
+    c: "Notepad",
+    d: "VLC Media Player",
+    correct: "a"
+},
+{
+    question: "One major advantage of cloud computing is ______.",
+    a: "Files can only be accessed offline",
+    b: "Easy access from different devices connected to the internet",
+    c: "It requires no internet connection",
+    d: "It permanently deletes files after upload",
+    correct: "b"
+},
+{
+    question: "Google Docs is an example of ______.",
+    a: "IaaS",
+    b: "PaaS",
+    c: "SaaS",
+    d: "Firmware",
+    correct: "c"
+},
+{
+    question: "Which of these is classified as system software?",
+    a: "Microsoft Word",
+    b: "Windows Operating System",
+    c: "Adobe Photoshop",
+    d: "Google Chrome",
+    correct: "b"
+},
+{
+    question: "The main purpose of system software is to ______.",
+    a: "Manage computer hardware and provide a platform for applications",
+    b: "Create presentations only",
+    c: "Browse the internet",
+    d: "Design websites",
+    correct: "a"
+},
+{
+    question: "Examples of utility software include ______.",
+    a: "Antivirus programs",
+    b: "Operating systems",
+    c: "Presentation software",
+    d: "Programming languages",
+    correct: "a"
+},
+{
+    question: "Which of the following is NOT a type of application software?",
+    a: "Spreadsheet software",
+    b: "Database software",
+    c: "Operating system",
+    d: "Presentation software",
+    correct: "c"
+},
+{
+    question: "A software license gives users the legal right to ______.",
+    a: "Destroy the software",
+    b: "Use the software according to its terms",
+    c: "Hack the software",
+    d: "Sell pirated copies",
+    correct: "b"
+},
+{
+    question: "Which cloud deployment model is owned and used by a single organization?",
+    a: "Public cloud",
+    b: "Private cloud",
+    c: "Hybrid cloud",
+    d: "Community cloud",
+    correct: "b"
+},
+{
+    question: "Which type of cloud combines both public and private cloud services?",
+    a: "Private cloud",
+    b: "Public cloud",
+    c: "Hybrid cloud",
+    d: "Personal cloud",
+    correct: "c"
+},
+{
+    question: "The primary purpose of word processing software is to ______.",
+    a: "Edit videos",
+    b: "Create, edit, save and print documents",
+    c: "Browse web pages",
+    d: "Develop mobile applications",
+    correct: "b"
+},
+
+{
+    question: "Which keyboard shortcut is used to copy selected text in Microsoft Word?",
+    a: "Ctrl + X",
+    b: "Ctrl + V",
+    c: "Ctrl + C",
+    d: "Ctrl + P",
+    correct: "c"
+},
+{
+    question: "Which keyboard shortcut is used to paste copied text?",
+    a: "Ctrl + C",
+    b: "Ctrl + V",
+    c: "Ctrl + X",
+    d: "Ctrl + Z",
+    correct: "b"
+},
+{
+    question: "The keyboard shortcut Ctrl + Z is used to ______.",
+    a: "Redo an action",
+    b: "Undo the last action",
+    c: "Save a document",
+    d: "Print a document",
+    correct: "b"
+},
+{
+    question: "Which keyboard shortcut saves the current document?",
+    a: "Ctrl + P",
+    b: "Ctrl + S",
+    c: "Ctrl + N",
+    d: "Ctrl + O",
+    correct: "b"
+},
+{
+    question: "The command used to search for a word in a document is ______.",
+    a: "Replace",
+    b: "Find",
+    c: "Print",
+    d: "Format",
+    correct: "b"
+},
+{
+    question: "Which feature allows users to replace one word with another throughout a document?",
+    a: "Find and Replace",
+    b: "Mail Merge",
+    c: "Word Count",
+    d: "Track Changes",
+    correct: "a"
+},
+{
+    question: "Which type of software translates source code into machine language?",
+    a: "Compiler",
+    b: "Word processor",
+    c: "Presentation software",
+    d: "Spreadsheet software",
+    correct: "a"
+},
+{
+    question: "A web browser is an example of ______ software.",
+    a: "System",
+    b: "Application",
+    c: "Utility",
+    d: "Firmware",
+    correct: "b"
+},
+{
+    question: "Which of the following is an example of a web browser?",
+    a: "Google Chrome",
+    b: "Microsoft Word",
+    c: "Windows",
+    d: "Adobe Acrobat",
+    correct: "a"
+},
+{
+    question: "Firmware is software that is ______.",
+    a: "Stored permanently in hardware devices",
+    b: "Used only for typing documents",
+    c: "Installed from the internet only",
+    d: "Used for creating presentations",
+    correct: "a"
+},
+{
+    question: "The operating system is responsible for ______.",
+    a: "Managing computer resources",
+    b: "Creating videos",
+    c: "Editing pictures only",
+    d: "Designing websites",
+    correct: "a"
+},
+{
+    question: "Which of these is an example of open-source operating system software?",
+    a: "Windows",
+    b: "Linux",
+    c: "macOS",
+    d: "iOS",
+    correct: "b"
+},
+{
+    question: "Cloud computing allows users to ______.",
+    a: "Store and access files through the internet",
+    b: "Use a computer without electricity",
+    c: "Repair damaged hardware",
+    d: "Manufacture computer chips",
+    correct: "a"
+},
+{
+    question: "Which cloud service model provides virtual machines and storage over the internet?",
+    a: "SaaS",
+    b: "PaaS",
+    c: "IaaS",
+    d: "DaaS",
+    correct: "c"
+},
+{
+    question: "Microsoft OneDrive is an example of ______.",
+    a: "Cloud storage",
+    b: "Operating system",
+    c: "Programming software",
+    d: "Database software",
+    correct: "a"
+},
+{
+    question: "Dropbox is mainly used for ______.",
+    a: "Cloud file storage and sharing",
+    b: "Programming mobile apps",
+    c: "Editing videos",
+    d: "Creating databases",
+    correct: "a"
+},
+{
+    question: "Which of these is a benefit of using cloud storage?",
+    a: "Automatic backup of files",
+    b: "Files can only be accessed on one computer",
+    c: "Requires no internet for synchronization",
+    d: "Reduces storage capacity",
+    correct: "a"
+},
+{
+    question: "Software piracy refers to ______.",
+    a: "Using or copying software illegally",
+    b: "Updating software regularly",
+    c: "Buying licensed software",
+    d: "Developing new software",
+    correct: "a"
+},
+{
+    question: "A licensed software user is expected to ______.",
+    a: "Follow the software license agreement",
+    b: "Share unlimited copies with friends",
+    c: "Sell the software without permission",
+    d: "Remove copyright information",
+    correct: "a"
+},
+{
+    question: "The major categories of computer software are ______.",
+    a: "System software and application software",
+    b: "Hardware and firmware",
+    c: "Input and output devices",
+    d: "RAM and ROM",
+    correct: "a"
+}
+],
+
+"CHS":[
+
+{
+question:"A democratic institution is an organization that helps sustain _______.",
+a:"Democracy",
+b:"Military rule",
+c:"Dictatorship",
+d:"Monarchy",
+correct:"a"
+},
+
+{
+question:"INEC stands for _______.",
+a:"Independent National Electoral Commission",
+b:"International National Electoral Council",
+c:"Independent Nigerian Election Council",
+d:"Internal National Election Commission",
+correct:"a"
+},
+
+{
+question:"The primary responsibility of INEC is to _______.",
+a:"Conduct free and fair elections",
+b:"Make laws",
+c:"Interpret the Constitution",
+d:"Collect taxes",
+correct:"a"
+},
+
+{
+question:"INEC was established to ensure _______.",
+a:"Credible elections",
+b:"Military government",
+c:"Religious activities",
+d:"International trade",
+correct:"a"
+},
+
+{
+question:"Which democratic institution makes laws in Nigeria?",
+a:"Legislature",
+b:"Judiciary",
+c:"Executive",
+d:"INEC",
+correct:"a"
+},
+
+{
+question:"The Judiciary is responsible for _______.",
+a:"Interpreting the law",
+b:"Making laws",
+c:"Conducting elections",
+d:"Collecting revenue",
+correct:"a"
+},
+
+{
+question:"The highest court in Nigeria is the _______.",
+a:"Supreme Court",
+b:"Court of Appeal",
+c:"Federal High Court",
+d:"Magistrate Court",
+correct:"a"
+},
+
+{
+question:"Political parties mainly seek to _______.",
+a:"Win political power through elections",
+b:"Collect taxes",
+c:"Interpret laws",
+d:"Conduct examinations",
+correct:"a"
+},
+
+{
+question:"Which of the following is a registered political party in Nigeria?",
+a:"APC",
+b:"WAEC",
+c:"NLC",
+d:"NNPC",
+correct:"a"
+},
+
+{
+question:"One function of political parties is to _______.",
+a:"Present candidates for elections",
+b:"Conduct census",
+c:"Issue passports",
+d:"Collect customs duties",
+correct:"a"
+},
+
+{
+question:"Democracy is best described as government of the people, by the people and for the people as stated by _______.",
+a:"Abraham Lincoln",
+b:"Nelson Mandela",
+c:"A. V. Dicey",
+d:"John Locke",
+correct:"a"
+},
+
+{
+question:"One feature of democracy is _______.",
+a:"Periodic elections",
+b:"Military decrees",
+c:"One-man rule",
+d:"No Constitution",
+correct:"a"
+},
+
+{
+question:"The Executive arm of government is responsible for _______.",
+a:"Implementing laws",
+b:"Making laws",
+c:"Interpreting laws",
+d:"Conducting elections",
+correct:"a"
+},
+
+{
+question:"The independence of the Judiciary promotes _______.",
+a:"Justice",
+b:"Corruption",
+c:"Election violence",
+d:"Dictatorship",
+correct:"a"
+},
+
+{
+question:"The Constitution is the _______ law of Nigeria.",
+a:"Supreme",
+b:"Traditional",
+c:"Religious",
+d:"Local",
+correct:"a"
+},
+
+{
+question:"Political parties educate citizens on _______.",
+a:"Political issues",
+b:"Medical treatment",
+c:"Construction",
+d:"Engineering",
+correct:"a"
+},
+
+{
+question:"An election is the process of _______.",
+a:"Choosing leaders through voting",
+b:"Making laws",
+c:"Interpreting laws",
+d:"Collecting taxes",
+correct:"a"
+},
+
+{
+question:"A voter must be a _______ of Nigeria.",
+a:"Citizen",
+b:"Tourist",
+c:"Visitor",
+d:"Diplomat",
+correct:"a"
+},
+
+{
+question:"One importance of elections is that they _______.",
+a:"Promote democracy",
+b:"Encourage dictatorship",
+c:"Prevent participation",
+d:"Stop development",
+correct:"a"
+},
+
+{
+question:"Citizens participate in democracy mainly through _______.",
+a:"Voting",
+b:"Violence",
+c:"Bribery",
+d:"Boycott",
+correct:"a"
+},
+{
+question:"One requirement for voting in Nigeria is that a person must possess a _______.",
+a:"Permanent Voter's Card (PVC)",
+b:"Driver's licence",
+c:"National passport",
+d:"Birth certificate",
+correct:"a"
+},
+
+{
+question:"The minimum voting age in Nigeria is _______.",
+a:"16 years",
+b:"18 years",
+c:"21 years",
+d:"25 years",
+correct:"b"
+},
+
+{
+question:"The first stage in the electoral process is _______.",
+a:"Voter registration",
+b:"Campaign",
+c:"Voting",
+d:"Declaration of results",
+correct:"a"
+},
+
+{
+question:"One responsibility of a voter is to _______.",
+a:"Vote peacefully",
+b:"Fight opponents",
+c:"Destroy ballot boxes",
+d:"Buy votes",
+correct:"a"
+},
+
+{
+question:"A free and fair election is one that is _______.",
+a:"Transparent and credible",
+b:"Controlled by one party",
+c:"Violent",
+d:"Secretly conducted",
+correct:"a"
+},
+
+{
+question:"Election campaigns should be conducted _______.",
+a:"Peacefully",
+b:"Violently",
+c:"With intimidation",
+d:"Using fake results",
+correct:"a"
+},
+
+{
+question:"Electoral malpractice refers to _______.",
+a:"Illegal acts during elections",
+b:"Peaceful voting",
+c:"Campaign speeches",
+d:"Voter education",
+correct:"a"
+},
+
+{
+question:"Which of the following is an electoral malpractice?",
+a:"Ballot box snatching",
+b:"Casting a valid vote",
+c:"Voter education",
+d:"Election observation",
+correct:"a"
+},
+
+{
+question:"Vote buying is _______.",
+a:"Offering money to influence voters",
+b:"Registering to vote",
+c:"Campaigning peacefully",
+d:"Counting votes",
+correct:"a"
+},
+
+{
+question:"Rigging is the _______.",
+a:"Manipulation of election results",
+b:"Registration of voters",
+c:"Announcement of results",
+d:"Campaign process",
+correct:"a"
+},
+
+{
+question:"Multiple voting means _______.",
+a:"Voting more than once in an election",
+b:"Voting by many people",
+c:"Voting with family members",
+d:"Voting in different states legally",
+correct:"a"
+},
+
+{
+question:"One effect of electoral malpractice is _______.",
+a:"Loss of public confidence",
+b:"Peaceful elections",
+c:"Political stability",
+d:"Economic growth",
+correct:"a"
+},
+
+{
+question:"Electoral violence often leads to _______.",
+a:"Loss of lives and property",
+b:"National unity",
+c:"Peaceful coexistence",
+d:"Economic prosperity",
+correct:"a"
+},
+
+{
+question:"One way to reduce electoral malpractice is through _______.",
+a:"Strict enforcement of electoral laws",
+b:"Vote buying",
+c:"Violence",
+d:"Rigging",
+correct:"a"
+},
+
+{
+question:"Election observers help to ensure _______.",
+a:"Credibility of elections",
+b:"Election violence",
+c:"Vote buying",
+d:"Rigging",
+correct:"a"
+},
+
+{
+question:"Security agencies during elections should _______.",
+a:"Maintain law and order",
+b:"Rig elections",
+c:"Support one political party",
+d:"Prevent voting",
+correct:"a"
+},
+
+{
+question:"A transparent election promotes _______.",
+a:"Public trust",
+b:"Political violence",
+c:"Corruption",
+d:"Rigging",
+correct:"a"
+},
+
+{
+question:"The announcement of election results is carried out by _______.",
+a:"INEC",
+b:"The President",
+c:"The Police",
+d:"The Judiciary",
+correct:"a"
+},
+
+{
+question:"Citizens should report electoral offences to _______.",
+a:"INEC and security agencies",
+b:"Friends only",
+c:"Political thugs",
+d:"Foreign countries",
+correct:"a"
+},
+
+{
+question:"The success of democracy depends largely on _______.",
+a:"Free, fair and credible elections",
+b:"Military intervention",
+c:"Political violence",
+d:"Election fraud",
+correct:"a"
+},
+{
+question:"The mass media includes _______.",
+a:"Radio, television and newspapers",
+b:"Hospitals and banks",
+c:"Markets and churches",
+d:"Roads and bridges",
+correct:"a"
+},
+
+{
+question:"One major function of the press is to _______.",
+a:"Inform and educate the public",
+b:"Collect taxes",
+c:"Conduct elections",
+d:"Interpret laws",
+correct:"a"
+},
+
+{
+question:"Freedom of expression means the right to _______.",
+a:"Express opinions without fear, within the law",
+b:"Break the law",
+c:"Spread false information",
+d:"Insult others",
+correct:"a"
+},
+
+{
+question:"Freedom of the press is guaranteed by the _______.",
+a:"Constitution",
+b:"Political parties",
+c:"Traditional rulers",
+d:"Police",
+correct:"a"
+},
+
+{
+question:"Social media is mainly used for _______.",
+a:"Communication and sharing information",
+b:"Collecting taxes",
+c:"Making laws",
+d:"Issuing passports",
+correct:"a"
+},
+
+{
+question:"Which of the following is a social media platform?",
+a:"Facebook",
+b:"WAEC",
+c:"INEC",
+d:"NCC",
+correct:"a"
+},
+
+{
+question:"One advantage of social media is that it _______.",
+a:"Spreads information quickly",
+b:"Prevents communication",
+c:"Stops education",
+d:"Discourages participation",
+correct:"a"
+},
+
+{
+question:"A disadvantage of social media is the spread of _______.",
+a:"Fake news",
+b:"Education",
+c:"Unity",
+d:"Peace",
+correct:"a"
+},
+
+{
+question:"Responsible use of social media requires users to _______.",
+a:"Verify information before sharing",
+b:"Spread rumours",
+c:"Encourage violence",
+d:"Share false news",
+correct:"a"
+},
+
+{
+question:"The media promotes democracy by _______.",
+a:"Keeping citizens informed",
+b:"Rigging elections",
+c:"Making court judgments",
+d:"Collecting taxes",
+correct:"a"
+},
+
+{
+question:"Freedom of expression does not include the right to _______.",
+a:"Incite violence",
+b:"Express opinions peacefully",
+c:"Ask questions",
+d:"Share lawful ideas",
+correct:"a"
+},
+
+{
+question:"Journalists are expected to report news _______.",
+a:"Accurately and fairly",
+b:"With bias",
+c:"Without evidence",
+d:"For personal gain",
+correct:"a"
+},
+
+{
+question:"One civic responsibility of citizens is to _______.",
+a:"Respect the rights of others",
+b:"Destroy public property",
+c:"Promote violence",
+d:"Refuse to obey laws",
+correct:"a"
+},
+
+{
+question:"Citizens strengthen democracy by _______.",
+a:"Participating in elections",
+b:"Boycotting every election",
+c:"Promoting electoral fraud",
+d:"Using violence",
+correct:"a"
+},
+
+{
+question:"An informed citizen is one who _______.",
+a:"Keeps up with current affairs",
+b:"Avoids all news",
+c:"Ignores national issues",
+d:"Refuses education",
+correct:"a"
+},
+
+{
+question:"Democracy thrives where citizens _______.",
+a:"Participate actively in governance",
+b:"Promote corruption",
+c:"Reject elections",
+d:"Ignore public affairs",
+correct:"a"
+},
+
+{
+question:"The abuse of freedom of expression may result in _______.",
+a:"Legal punishment",
+b:"Automatic promotion",
+c:"Election victory",
+d:"National award",
+correct:"a"
+},
+
+{
+question:"A credible election increases _______.",
+a:"Public confidence in government",
+b:"Political violence",
+c:"Electoral fraud",
+d:"Corruption",
+correct:"a"
+},
+
+{
+question:"Citizens should use the media to promote _______.",
+a:"Peace and national unity",
+b:"Hatred",
+c:"Violence",
+d:"Ethnic conflict",
+correct:"a"
+},
+
+{
+question:"The overall aim of Citizenship and Heritage Studies is to produce _______.",
+a:"Responsible, informed and patriotic citizens",
+b:"Military rulers",
+c:"Professional athletes",
+d:"Business owners only",
+correct:"a"
+},
+
 ],
 
 },
