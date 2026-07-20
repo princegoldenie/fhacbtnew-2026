@@ -1,6 +1,494 @@
 const questionBank = {
 
 "JSS 1":{
+    "Mathematics": [
+
+{
+    question: "A plane shape with four equal sides and four right angles is called a _____.",
+    a: "Rectangle",
+    b: "Square",
+    c: "Rhombus",
+    d: "Trapezium",
+    correct: "b"
+},
+{
+    question: "A triangle with all three sides equal is called a _____ triangle.",
+    a: "Isosceles",
+    b: "Scalene",
+    c: "Equilateral",
+    d: "Right-angled",
+    correct: "c"
+},
+{
+    question: "The sum of the interior angles of a triangle is _____.",
+    a: "90°",
+    b: "180°",
+    c: "270°",
+    d: "360°",
+    correct: "b"
+},
+{
+    question: "A quadrilateral with only one pair of parallel sides is a _____.",
+    a: "Parallelogram",
+    b: "Rhombus",
+    c: "Trapezium",
+    d: "Kite",
+    correct: "c"
+},
+{
+    question: "A plane shape that has no straight sides and no corners is a _____.",
+    a: "Oval",
+    b: "Circle",
+    c: "Ellipse",
+    d: "Semicircle",
+    correct: "b"
+},
+{
+    question: "The distance around a plane shape is called its _____.",
+    a: "Area",
+    b: "Volume",
+    c: "Perimeter",
+    d: "Diameter",
+    correct: "c"
+},
+{
+    question: "A parallelogram with four right angles is a _____.",
+    a: "Rhombus",
+    b: "Square or Rectangle",
+    c: "Trapezium",
+    d: "Kite",
+    correct: "b"
+},
+{
+    question: "A triangle with two equal sides is called a _____ triangle.",
+    a: "Equilateral",
+    b: "Scalene",
+    c: "Isosceles",
+    d: "Obtuse",
+    correct: "c"
+},
+{
+    question: "The space enclosed by a plane shape is called its _____.",
+    a: "Perimeter",
+    b: "Circumference",
+    c: "Area",
+    d: "Diagonal",
+    correct: "c"
+},
+{
+    question: "A quadrilateral with opposite sides parallel and equal but no right angles is a _____.",
+    a: "Rectangle",
+    b: "Square",
+    c: "Rhombus",
+    d: "Parallelogram",
+    correct: "d"
+},
+{
+    question: "A shape with five sides is called a _____.",
+    a: "Hexagon",
+    b: "Pentagon",
+    c: "Heptagon",
+    d: "Octagon",
+    correct: "b"
+},
+{
+    question: "A shape with eight sides is called a _____.",
+    a: "Hexagon",
+    b: "Pentagon",
+    c: "Heptagon",
+    d: "Octagon",
+    correct: "d"
+},
+{
+    question: "The formula for the area of a rectangle is _____.",
+    a: "Length × Breadth",
+    b: "½ × Base × Height",
+    c: "Side × Side",
+    d: "πr²",
+    correct: "a"
+},
+{
+    question: "The formula for the area of a triangle is _____.",
+    a: "Length × Breadth",
+    b: "½ × Base × Height",
+    c: "πr²",
+    d: "2(L + B)",
+    correct: "b"
+},
+{
+    question: "A kite has _____ pairs of equal adjacent sides.",
+    a: "One",
+    b: "Two",
+    c: "Three",
+    d: "Four",
+    correct: "b"
+},
+{
+    question: "An angle that measures exactly 90° is called a _____ angle.",
+    a: "Acute",
+    b: "Obtuse",
+    c: "Right",
+    d: "Reflex",
+    correct: "c"
+},
+{
+    question: "An angle that measures less than 90° is called a _____ angle.",
+    a: "Acute",
+    b: "Obtuse",
+    c: "Right",
+    d: "Straight",
+    correct: "a"
+},
+{
+    question: "An angle that measures between 90° and 180° is called a _____ angle.",
+    a: "Acute",
+    b: "Obtuse",
+    c: "Reflex",
+    d: "Complete",
+    correct: "b"
+},
+{
+    question: "An angle that measures exactly 180° is called a _____ angle.",
+    a: "Right",
+    b: "Obtuse",
+    c: "Reflex",
+    d: "Straight",
+    correct: "d"
+},
+{
+    question: "The sum of angles on a straight line is _____.",
+    a: "90°",
+    b: "180°",
+    c: "270°",
+    d: "360°",
+    correct: "b"
+},
+{
+    question: "The sum of angles at a point is _____.",
+    a: "90°",
+    b: "180°",
+    c: "270°",
+    d: "360°",
+    correct: "d"
+},
+{
+    question: "Two angles that add up to 90° are called _____ angles.",
+    a: "Supplementary",
+    b: "Complementary",
+    c: "Reflex",
+    d: "Vertical",
+    correct: "b"
+},
+{
+    question: "Two angles that add up to 180° are called _____ angles.",
+    a: "Supplementary",
+    b: "Complementary",
+    c: "Acute",
+    d: "Reflex",
+    correct: "a"
+},
+{
+    question: "A tool used to measure angles is called a _____.",
+    a: "Ruler",
+    b: "Compass",
+    c: "Protractor",
+    d: "Set square",
+    correct: "c"
+},
+{
+    question: "Vertically opposite angles are always _____.",
+    a: "Equal",
+    b: "Supplementary",
+    c: "Complementary",
+    d: "Different",
+    correct: "a"
+},
+{
+    question: "An angle that measures between 180° and 360° is called a _____ angle.",
+    a: "Obtuse",
+    b: "Reflex",
+    c: "Acute",
+    d: "Right",
+    correct: "b"
+},
+{
+    question: "An angle that measures exactly 360° is called a _____ angle.",
+    a: "Straight",
+    b: "Reflex",
+    c: "Complete",
+    d: "Obtuse",
+    correct: "c"
+},
+{
+    question: "In a right-angled triangle, the other two angles are _____.",
+    a: "Obtuse",
+    b: "Acute and sum to 90°",
+    c: "Reflex",
+    d: "Each 90°",
+    correct: "b"
+},
+{
+    question: "The angle between the hour and minute hands of a clock at 6:00 is _____.",
+    a: "90°",
+    b: "180°",
+    c: "270°",
+    d: "360°",
+    correct: "b"
+},
+{
+    question: "If two angles are supplementary and one is 70°, the other is _____.",
+    a: "20°",
+    b: "90°",
+    c: "110°",
+    d: "180°",
+    correct: "c"
+},
+{
+    question: "A solid shape with six square faces is a _____.",
+    a: "Cuboid",
+    b: "Cube",
+    c: "Cylinder",
+    d: "Sphere",
+    correct: "b"
+},
+{
+    question: "A solid shape with one circular base and one vertex is a _____.",
+    a: "Cylinder",
+    b: "Cone",
+    c: "Sphere",
+    d: "Pyramid",
+    correct: "b"
+},
+{
+    question: "A solid shape with two parallel circular faces is a _____.",
+    a: "Cone",
+    b: "Sphere",
+    c: "Cylinder",
+    d: "Prism",
+    correct: "c"
+},
+{
+    question: "A solid shape with no edges and no vertices is a _____.",
+    a: "Cone",
+    b: "Cylinder",
+    c: "Sphere",
+    d: "Cube",
+    correct: "c"
+},
+{
+    question: "A square-based pyramid has _____ triangular faces.",
+    a: "3",
+    b: "4",
+    c: "5",
+    d: "6",
+    correct: "b"
+},
+{
+    question: "The number of faces on a cuboid is _____.",
+    a: "4",
+    b: "6",
+    c: "8",
+    d: "12",
+    correct: "b"
+},
+{
+    question: "The number of vertices on a cube is _____.",
+    a: "4",
+    b: "6",
+    c: "8",
+    d: "12",
+    correct: "c"
+},
+{
+    question: "A triangular prism has _____ edges.",
+    a: "6",
+    b: "8",
+    c: "9",
+    d: "12",
+    correct: "c"
+},
+{
+    question: "A solid shape with a polygonal base and triangular sides meeting at one point is a _____.",
+    a: "Prism",
+    b: "Pyramid",
+    c: "Cylinder",
+    d: "Cone",
+    correct: "b"
+},
+{
+    question: "The formula for the volume of a cuboid is _____.",
+    a: "Length × Breadth × Height",
+    b: "Side × Side × Side",
+    c: "πr²h",
+    d: "½ × Base × Height × Length",
+    correct: "a"
+},
+{
+    question: "The formula for the volume of a cube is _____.",
+    a: "Length × Breadth × Height",
+    b: "Side³",
+    c: "πr³",
+    d: "⅓πr²h",
+    correct: "b"
+},
+{
+    question: "A triangular prism has _____ rectangular faces.",
+    a: "2",
+    b: "3",
+    c: "4",
+    d: "5",
+    correct: "b"
+},
+{
+    question: "The total surface area of a cube with side 5 cm is _____.",
+    a: "25 cm²",
+    b: "100 cm²",
+    c: "125 cm²",
+    d: "150 cm²",
+    correct: "d"
+},
+{
+    question: "A sphere has _____ line(s) of symmetry.",
+    a: "0",
+    b: "1",
+    c: "2",
+    d: "Infinite",
+    correct: "d"
+},
+{
+    question: "The point where two or more edges meet is called a _____.",
+    a: "Face",
+    b: "Vertex",
+    c: "Edge",
+    d: "Base",
+    correct: "b"
+},
+{
+    question: "The instrument used to draw circles is a _____.",
+    a: "Ruler",
+    b: "Protractor",
+    c: "Compass",
+    d: "Set square",
+    correct: "c"
+},
+{
+    question: "The line that divides an angle into two equal parts is called an _____.",
+    a: "Arc",
+    b: "Angle bisector",
+    c: "Perpendicular",
+    d: "Tangent",
+    correct: "b"
+},
+{
+    question: "A line that meets another line at 90° is called a _____ line.",
+    a: "Parallel",
+    b: "Intersecting",
+    c: "Perpendicular",
+    d: "Transversal",
+    correct: "c"
+},
+{
+    question: "The perpendicular bisector divides a line segment into _____ equal parts.",
+    a: "1",
+    b: "2",
+    c: "3",
+    d: "4",
+    correct: "b"
+},
+{
+    question: "To construct a 60° angle, you use a compass to draw an _____.",
+    a: "Arc",
+    b: "Circle",
+    c: "Straight line",
+    d: "Triangle",
+    correct: "a"
+},
+
+// JSS 2 MATHEMATICS – Questions 51–60
+
+{
+    question: "51. Which of the following is NOT a plane shape?",
+    a: "Square",
+    b: "Triangle",
+    c: "Cube",
+    d: "Circle",
+    correct: "c"
+},
+{
+    question: "52. A line that never meets another line, no matter how far they are extended, is called _______.",
+    a: "Intersecting line",
+    b: "Perpendicular line",
+    c: "Parallel line",
+    d: "Curved line",
+    correct: "c"
+},
+{
+    question: "53. What is the perimeter of a square with side 9 cm?",
+    a: "18 cm",
+    b: "27 cm",
+    c: "36 cm",
+    d: "81 cm",
+    correct: "c"
+},
+{
+    question: "54. Find the area of a rectangle with length 12 cm and breadth 5 cm.",
+    a: "17 cm²",
+    b: "34 cm²",
+    c: "60 cm²",
+    d: "120 cm²",
+    correct: "c"
+},
+{
+    question: "55. The sum of the angles in a quadrilateral is _______.",
+    a: "180°",
+    b: "270°",
+    c: "360°",
+    d: "540°",
+    correct: "c"
+},
+{
+    question: "56. A cube has _______ equal faces.",
+    a: "4",
+    b: "5",
+    c: "6",
+    d: "8",
+    correct: "c"
+},
+{
+    question: "57. Which instrument is used together with a ruler when constructing angles?",
+    a: "Calculator",
+    b: "Compass",
+    c: "Thermometer",
+    d: "Divider",
+    correct: "b"
+},
+{
+    question: "58. The volume of a cube with side 4 cm is _______.",
+    a: "16 cm³",
+    b: "32 cm³",
+    c: "48 cm³",
+    d: "64 cm³",
+    correct: "d"
+},
+{
+    question: "59. Which of the following shapes has exactly one curved surface and one circular base?",
+    a: "Cone",
+    b: "Cylinder",
+    c: "Sphere",
+    d: "Cube",
+    correct: "a"
+},
+{
+    question: "60. Mathematics helps us to develop _______.",
+    a: "Guesswork only",
+    b: "Logical thinking and problem-solving skills",
+    c: "Drawing skills only",
+    d: "Singing ability",
+    correct: "b"
+},
+    ],
+
+
     "CCA": [
 {
 question: "A motif is a _______.",
@@ -4287,6 +4775,493 @@ correct:"a"
 
 ],
 
+"Agric Science": [
+
+    {
+    question: "Agriculture is the practice of _____.",
+    a: "Mining minerals",
+    b: "Growing crops and rearing animals",
+    c: "Building roads",
+    d: "Fishing in the sea only",
+    correct: "b"
+},
+{
+    question: "One major importance of agriculture is that it provides _____.",
+    a: "Entertainment",
+    b: "Food for people",
+    c: "Electricity",
+    d: "Computers",
+    correct: "b"
+},
+{
+    question: "Agriculture provides raw materials for _____.",
+    a: "Industries",
+    b: "Airports",
+    c: "Banks",
+    d: "Schools only",
+    correct: "a"
+},
+{
+    question: "Which of the following is a product of agriculture?",
+    a: "Rice",
+    b: "Television",
+    c: "Motorcycle",
+    d: "Laptop",
+    correct: "a"
+},
+{
+    question: "Agriculture helps to reduce _____.",
+    a: "Employment",
+    b: "Unemployment",
+    c: "Education",
+    d: "Rainfall",
+    correct: "b"
+},
+{
+    question: "Farming contributes to the economic development of a country through _____.",
+    a: "Food production and income generation",
+    b: "Noise pollution",
+    c: "Traffic congestion",
+    d: "Sports",
+    correct: "a"
+},
+{
+    question: "The branch of agriculture that deals with fish production is called _____.",
+    a: "Forestry",
+    b: "Fishery",
+    c: "Horticulture",
+    d: "Apiculture",
+    correct: "b"
+},
+{
+    question: "Fish are important because they provide _____.",
+    a: "Protein",
+    b: "Plastic",
+    c: "Fuel",
+    d: "Sand",
+    correct: "a"
+},
+{
+    question: "Fish can be obtained from _____.",
+    a: "Rivers and ponds",
+    b: "Roads",
+    c: "Mountains only",
+    d: "Factories",
+    correct: "a"
+},
+{
+    question: "Aquaculture is the _____.",
+    a: "Breeding and rearing of fish and other aquatic organisms",
+    b: "Planting of maize",
+    c: "Keeping poultry",
+    d: "Growing trees only",
+    correct: "a"
+},
+{
+    question: "A place where fish are reared is called a _____.",
+    a: "Fish pond",
+    b: "Barn",
+    c: "Pen",
+    d: "Stable",
+    correct: "a"
+},
+{
+    question: "Which of these is commonly reared in fish farming in Nigeria?",
+    a: "Catfish",
+    b: "Lion",
+    c: "Goat",
+    d: "Rabbit",
+    correct: "a"
+},
+{
+    question: "Fish farming helps to increase the supply of _____.",
+    a: "Fuel",
+    b: "Food",
+    c: "Furniture",
+    d: "Books",
+    correct: "b"
+},
+{
+    question: "One advantage of aquaculture is _____.",
+    a: "Regular supply of fish",
+    b: "Reduction of rainfall",
+    c: "Increase in pollution",
+    d: "Destruction of rivers",
+    correct: "a"
+},
+{
+    question: "Fish require _____ to survive.",
+    a: "Water",
+    b: "Sand",
+    c: "Fire",
+    d: "Cement",
+    correct: "a"
+},
+{
+    question: "Which of these is a simple farm tool?",
+    a: "Cutlass",
+    b: "Airplane",
+    c: "Television",
+    d: "Generator",
+    correct: "a"
+},
+{
+    question: "A cutlass is mainly used for _____.",
+    a: "Clearing bushes",
+    b: "Harvesting fish",
+    c: "Driving vehicles",
+    d: "Building houses",
+    correct: "a"
+},
+{
+    question: "A hoe is mainly used for _____.",
+    a: "Digging and weeding",
+    b: "Fishing",
+    c: "Cooking",
+    d: "Painting",
+    correct: "a"
+},
+{
+    question: "A rake is used for _____.",
+    a: "Gathering leaves and leveling soil",
+    b: "Harvesting maize",
+    c: "Milking cows",
+    d: "Feeding fish",
+    correct: "a"
+},
+{
+    question: "A shovel is mainly used for _____.",
+    a: "Scooping and moving soil",
+    b: "Cutting grass",
+    c: "Planting seeds",
+    d: "Watering crops",
+    correct: "a"
+},
+{
+    question: "Which farm tool is used for watering crops?",
+    a: "Watering can",
+    b: "Cutlass",
+    c: "Hoe",
+    d: "Spade",
+    correct: "a"
+},
+{
+    question: "A wheelbarrow is used for _____.",
+    a: "Transporting farm materials",
+    b: "Harvesting fish",
+    c: "Planting seeds",
+    d: "Watering crops",
+    correct: "a"
+},
+{
+    question: "A spade is mainly used for _____.",
+    a: "Digging and turning the soil",
+    b: "Pruning trees",
+    c: "Harvesting fish",
+    d: "Spraying chemicals",
+    correct: "a"
+},
+{
+    question: "Which of these farm tools has a long wooden handle and a flat metal blade?",
+    a: "Hoe",
+    b: "Rake",
+    c: "Cutlass",
+    d: "Watering can",
+    correct: "a"
+},
+{
+    question: "Farm tools should be cleaned after use to _____.",
+    a: "Prevent rust and increase their lifespan",
+    b: "Make them heavier",
+    c: "Reduce their usefulness",
+    d: "Change their colour",
+    correct: "a"
+},
+{
+    question: "The proper place to keep farm tools after use is the _____.",
+    a: "Tool shed",
+    b: "Bedroom",
+    c: "Kitchen",
+    d: "Classroom",
+    correct: "a"
+},
+{
+    question: "One safety rule when using farm tools is to _____.",
+    a: "Handle them carefully",
+    b: "Throw them around",
+    c: "Play with them",
+    d: "Leave them on the pathway",
+    correct: "a"
+},
+{
+    question: "Which of these is NOT a farm tool?",
+    a: "Television",
+    b: "Hoe",
+    c: "Cutlass",
+    d: "Rake",
+    correct: "a"
+},
+{
+    question: "Fish farming is another name for _____.",
+    a: "Aquaculture",
+    b: "Forestry",
+    c: "Apiculture",
+    d: "Horticulture",
+    correct: "a"
+},
+{
+    question: "Fish farming helps to create _____.",
+    a: "Employment opportunities",
+    b: "Pollution",
+    c: "Traffic jams",
+    d: "Flooding",
+    correct: "a"
+},
+{
+    question: "Fish feed is given to fish mainly for _____.",
+    a: "Growth",
+    b: "Decoration",
+    c: "Entertainment",
+    d: "Transportation",
+    correct: "a"
+},
+{
+    question: "A fish pond should contain clean _____.",
+    a: "Water",
+    b: "Oil",
+    c: "Sand",
+    d: "Dust",
+    correct: "a"
+},
+{
+    question: "Which of these is a type of fish pond?",
+    a: "Earthen pond",
+    b: "Football field",
+    c: "Classroom",
+    d: "Warehouse",
+    correct: "a"
+},
+{
+    question: "Concrete fish ponds are made from _____.",
+    a: "Cement and concrete",
+    b: "Wood only",
+    c: "Plastic only",
+    d: "Iron sheets",
+    correct: "a"
+},
+{
+    question: "The process of giving fish food regularly is called _____.",
+    a: "Feeding",
+    b: "Harvesting",
+    c: "Weeding",
+    d: "Ploughing",
+    correct: "a"
+},
+{
+    question: "One way of preserving fish is by _____.",
+    a: "Smoking",
+    b: "Burning",
+    c: "Painting",
+    d: "Freezing in mud",
+    correct: "a"
+},
+{
+    question: "Another common method of preserving fish is _____.",
+    a: "Drying",
+    b: "Cutting grass",
+    c: "Planting",
+    d: "Spraying",
+    correct: "a"
+},
+{
+    question: "Agriculture provides materials for making clothes such as _____.",
+    a: "Cotton",
+    b: "Plastic",
+    c: "Glass",
+    d: "Steel",
+    correct: "a"
+},
+{
+    question: "People who rear fish for commercial purposes are called _____.",
+    a: "Fish farmers",
+    b: "Doctors",
+    c: "Teachers",
+    d: "Engineers",
+    correct: "a"
+},
+{
+    question: "One importance of agriculture is that it provides _____.",
+    a: "Employment",
+    b: "Crime",
+    c: "Pollution",
+    d: "Traffic",
+    correct: "a"
+},
+// JSS 1 AGRICULTURAL SCIENCE – THIRD TERM (Questions 41–60)
+
+{
+  question: "41. Which of these fish is commonly reared in Nigeria?",
+  a: "Catfish",
+  b: "Shark",
+  c: "Whale",
+  d: "Dolphin",
+  correct: "a"
+},
+{
+  question: "42. A fish pond should always contain _______.",
+  a: "Dirty water",
+  b: "Clean water",
+  c: "Hot water",
+  d: "Salt only",
+  correct: "b"
+},
+{
+  question: "43. Fingerlings are _______.",
+  a: "Adult fish",
+  b: "Young fish used for stocking ponds",
+  c: "Dead fish",
+  d: "Fish eggs",
+  correct: "b"
+},
+{
+  question: "44. Fish farming helps to reduce _______.",
+  a: "Employment",
+  b: "Food shortage",
+  c: "Rainfall",
+  d: "Education",
+  correct: "b"
+},
+{
+  question: "45. Which farm tool is used for watering crops?",
+  a: "Wheelbarrow",
+  b: "Watering can",
+  c: "Rake",
+  d: "Hoe",
+  correct: "b"
+},
+{
+  question: "46. The main purpose of a rake is to _______.",
+  a: "Cut trees",
+  b: "Gather leaves and level soil",
+  c: "Carry water",
+  d: "Dig holes",
+  correct: "b"
+},
+{
+  question: "47. A wheelbarrow is mainly used for _______.",
+  a: "Harvesting fish",
+  b: "Transporting farm materials",
+  c: "Watering crops",
+  d: "Planting seeds",
+  correct: "b"
+},
+{
+  question: "48. Which of these is a hand tool used for digging soil?",
+  a: "Hoe",
+  b: "Basket",
+  c: "Rope",
+  d: "Bucket",
+  correct: "a"
+},
+{
+  question: "49. Aquaculture helps to provide _______.",
+  a: "Fish for food",
+  b: "Plastic products",
+  c: "Motor vehicles",
+  d: "Furniture",
+  correct: "a"
+},
+{
+  question: "50. Fish obtain oxygen from water through their _______.",
+  a: "Eyes",
+  b: "Fins",
+  c: "Gills",
+  d: "Scales",
+  correct: "c"
+},
+{
+  question: "51. Which of these is NOT a farm tool?",
+  a: "Cutlass",
+  b: "Hoe",
+  c: "Television",
+  d: "Rake",
+  correct: "c"
+},
+{
+  question: "52. Agriculture provides raw materials for _______.",
+  a: "Industries",
+  b: "Football clubs",
+  c: "Airports",
+  d: "Banks only",
+  correct: "a"
+},
+{
+  question: "53. Fish farming can be practiced in _______.",
+  a: "Fish ponds",
+  b: "Classrooms",
+  c: "Libraries",
+  d: "Garages",
+  correct: "a"
+},
+{
+  question: "54. A healthy fish pond should be protected from _______.",
+  a: "Predators",
+  b: "Fresh water",
+  c: "Sunlight",
+  d: "Fish feed",
+  correct: "a"
+},
+{
+  question: "55. Which of these helps fish grow faster?",
+  a: "Good feeding",
+  b: "Keeping them hungry",
+  c: "Removing water",
+  d: "Keeping the pond dirty",
+  correct: "a"
+},
+{
+  question: "56. One importance of agriculture is that it provides _______.",
+  a: "Employment opportunities",
+  b: "Crime",
+  c: "Pollution",
+  d: "Diseases",
+  correct: "a"
+},
+{
+  question: "57. The best time to maintain farm tools is _______.",
+  a: "After use",
+  b: "Before buying them",
+  c: "Once every ten years",
+  d: "Never",
+  correct: "a"
+},
+{
+  question: "58. Farm tools should be stored in a _______.",
+  a: "Dry and safe place",
+  b: "River",
+  c: "Kitchen",
+  d: "Roadside",
+  correct: "a"
+},
+{
+  question: "59. Which of these is an advantage of fish farming?",
+  a: "Provides income",
+  b: "Causes hunger",
+  c: "Destroys crops",
+  d: "Pollutes drinking water",
+  correct: "a"
+},
+{
+  question: "60. Agriculture is important because it helps improve the _______ of a nation.",
+  a: "Economy",
+  b: "Noise level",
+  c: "Traffic",
+  d: "Pollution",
+  correct: "a"
+},
+
+], 
+
 "Nigerian History": [
 { 
 question: "The study of history helps us to _______.",
@@ -5659,6 +6634,975 @@ correct: "b"
 
 "JSS 2":{
 
+"Agric Science": [
+
+    {
+    question: "Agriculture is the practice of _____.",
+    a: "Mining minerals",
+    b: "Growing crops and rearing animals",
+    c: "Building roads",
+    d: "Fishing in the sea only",
+    correct: "b"
+},
+{
+    question: "One major importance of agriculture is that it provides _____.",
+    a: "Entertainment",
+    b: "Food for people",
+    c: "Electricity",
+    d: "Computers",
+    correct: "b"
+},
+{
+    question: "Agriculture provides raw materials for _____.",
+    a: "Industries",
+    b: "Airports",
+    c: "Banks",
+    d: "Schools only",
+    correct: "a"
+},
+{
+    question: "Which of the following is a product of agriculture?",
+    a: "Rice",
+    b: "Television",
+    c: "Motorcycle",
+    d: "Laptop",
+    correct: "a"
+},
+{
+    question: "Agriculture helps to reduce _____.",
+    a: "Employment",
+    b: "Unemployment",
+    c: "Education",
+    d: "Rainfall",
+    correct: "b"
+},
+{
+    question: "Farming contributes to the economic development of a country through _____.",
+    a: "Food production and income generation",
+    b: "Noise pollution",
+    c: "Traffic congestion",
+    d: "Sports",
+    correct: "a"
+},
+{
+    question: "The branch of agriculture that deals with fish production is called _____.",
+    a: "Forestry",
+    b: "Fishery",
+    c: "Horticulture",
+    d: "Apiculture",
+    correct: "b"
+},
+{
+    question: "Fish are important because they provide _____.",
+    a: "Protein",
+    b: "Plastic",
+    c: "Fuel",
+    d: "Sand",
+    correct: "a"
+},
+{
+    question: "Fish can be obtained from _____.",
+    a: "Rivers and ponds",
+    b: "Roads",
+    c: "Mountains only",
+    d: "Factories",
+    correct: "a"
+},
+{
+    question: "Aquaculture is the _____.",
+    a: "Breeding and rearing of fish and other aquatic organisms",
+    b: "Planting of maize",
+    c: "Keeping poultry",
+    d: "Growing trees only",
+    correct: "a"
+},
+{
+    question: "A place where fish are reared is called a _____.",
+    a: "Fish pond",
+    b: "Barn",
+    c: "Pen",
+    d: "Stable",
+    correct: "a"
+},
+{
+    question: "Which of these is commonly reared in fish farming in Nigeria?",
+    a: "Catfish",
+    b: "Lion",
+    c: "Goat",
+    d: "Rabbit",
+    correct: "a"
+},
+{
+    question: "Fish farming helps to increase the supply of _____.",
+    a: "Fuel",
+    b: "Food",
+    c: "Furniture",
+    d: "Books",
+    correct: "b"
+},
+{
+    question: "One advantage of aquaculture is _____.",
+    a: "Regular supply of fish",
+    b: "Reduction of rainfall",
+    c: "Increase in pollution",
+    d: "Destruction of rivers",
+    correct: "a"
+},
+{
+    question: "Fish require _____ to survive.",
+    a: "Water",
+    b: "Sand",
+    c: "Fire",
+    d: "Cement",
+    correct: "a"
+},
+{
+    question: "Which of these is a simple farm tool?",
+    a: "Cutlass",
+    b: "Airplane",
+    c: "Television",
+    d: "Generator",
+    correct: "a"
+},
+{
+    question: "A cutlass is mainly used for _____.",
+    a: "Clearing bushes",
+    b: "Harvesting fish",
+    c: "Driving vehicles",
+    d: "Building houses",
+    correct: "a"
+},
+{
+    question: "A hoe is mainly used for _____.",
+    a: "Digging and weeding",
+    b: "Fishing",
+    c: "Cooking",
+    d: "Painting",
+    correct: "a"
+},
+{
+    question: "A rake is used for _____.",
+    a: "Gathering leaves and leveling soil",
+    b: "Harvesting maize",
+    c: "Milking cows",
+    d: "Feeding fish",
+    correct: "a"
+},
+{
+    question: "A shovel is mainly used for _____.",
+    a: "Scooping and moving soil",
+    b: "Cutting grass",
+    c: "Planting seeds",
+    d: "Watering crops",
+    correct: "a"
+},
+{
+    question: "Which farm tool is used for watering crops?",
+    a: "Watering can",
+    b: "Cutlass",
+    c: "Hoe",
+    d: "Spade",
+    correct: "a"
+},
+{
+    question: "A wheelbarrow is used for _____.",
+    a: "Transporting farm materials",
+    b: "Harvesting fish",
+    c: "Planting seeds",
+    d: "Watering crops",
+    correct: "a"
+},
+{
+    question: "A spade is mainly used for _____.",
+    a: "Digging and turning the soil",
+    b: "Pruning trees",
+    c: "Harvesting fish",
+    d: "Spraying chemicals",
+    correct: "a"
+},
+{
+    question: "Which of these farm tools has a long wooden handle and a flat metal blade?",
+    a: "Hoe",
+    b: "Rake",
+    c: "Cutlass",
+    d: "Watering can",
+    correct: "a"
+},
+{
+    question: "Farm tools should be cleaned after use to _____.",
+    a: "Prevent rust and increase their lifespan",
+    b: "Make them heavier",
+    c: "Reduce their usefulness",
+    d: "Change their colour",
+    correct: "a"
+},
+{
+    question: "The proper place to keep farm tools after use is the _____.",
+    a: "Tool shed",
+    b: "Bedroom",
+    c: "Kitchen",
+    d: "Classroom",
+    correct: "a"
+},
+{
+    question: "One safety rule when using farm tools is to _____.",
+    a: "Handle them carefully",
+    b: "Throw them around",
+    c: "Play with them",
+    d: "Leave them on the pathway",
+    correct: "a"
+},
+{
+    question: "Which of these is NOT a farm tool?",
+    a: "Television",
+    b: "Hoe",
+    c: "Cutlass",
+    d: "Rake",
+    correct: "a"
+},
+{
+    question: "Fish farming is another name for _____.",
+    a: "Aquaculture",
+    b: "Forestry",
+    c: "Apiculture",
+    d: "Horticulture",
+    correct: "a"
+},
+{
+    question: "Fish farming helps to create _____.",
+    a: "Employment opportunities",
+    b: "Pollution",
+    c: "Traffic jams",
+    d: "Flooding",
+    correct: "a"
+},
+{
+    question: "Fish feed is given to fish mainly for _____.",
+    a: "Growth",
+    b: "Decoration",
+    c: "Entertainment",
+    d: "Transportation",
+    correct: "a"
+},
+{
+    question: "A fish pond should contain clean _____.",
+    a: "Water",
+    b: "Oil",
+    c: "Sand",
+    d: "Dust",
+    correct: "a"
+},
+{
+    question: "Which of these is a type of fish pond?",
+    a: "Earthen pond",
+    b: "Football field",
+    c: "Classroom",
+    d: "Warehouse",
+    correct: "a"
+},
+{
+    question: "Concrete fish ponds are made from _____.",
+    a: "Cement and concrete",
+    b: "Wood only",
+    c: "Plastic only",
+    d: "Iron sheets",
+    correct: "a"
+},
+{
+    question: "The process of giving fish food regularly is called _____.",
+    a: "Feeding",
+    b: "Harvesting",
+    c: "Weeding",
+    d: "Ploughing",
+    correct: "a"
+},
+{
+    question: "One way of preserving fish is by _____.",
+    a: "Smoking",
+    b: "Burning",
+    c: "Painting",
+    d: "Freezing in mud",
+    correct: "a"
+},
+{
+    question: "Another common method of preserving fish is _____.",
+    a: "Drying",
+    b: "Cutting grass",
+    c: "Planting",
+    d: "Spraying",
+    correct: "a"
+},
+{
+    question: "Agriculture provides materials for making clothes such as _____.",
+    a: "Cotton",
+    b: "Plastic",
+    c: "Glass",
+    d: "Steel",
+    correct: "a"
+},
+{
+    question: "People who rear fish for commercial purposes are called _____.",
+    a: "Fish farmers",
+    b: "Doctors",
+    c: "Teachers",
+    d: "Engineers",
+    correct: "a"
+},
+{
+    question: "One importance of agriculture is that it provides _____.",
+    a: "Employment",
+    b: "Crime",
+    c: "Pollution",
+    d: "Traffic",
+    correct: "a"
+},
+// JSS 1 AGRICULTURAL SCIENCE – THIRD TERM (Questions 41–60)
+
+{
+  question: "41. Which of these fish is commonly reared in Nigeria?",
+  a: "Catfish",
+  b: "Shark",
+  c: "Whale",
+  d: "Dolphin",
+  correct: "a"
+},
+{
+  question: "42. A fish pond should always contain _______.",
+  a: "Dirty water",
+  b: "Clean water",
+  c: "Hot water",
+  d: "Salt only",
+  correct: "b"
+},
+{
+  question: "43. Fingerlings are _______.",
+  a: "Adult fish",
+  b: "Young fish used for stocking ponds",
+  c: "Dead fish",
+  d: "Fish eggs",
+  correct: "b"
+},
+{
+  question: "44. Fish farming helps to reduce _______.",
+  a: "Employment",
+  b: "Food shortage",
+  c: "Rainfall",
+  d: "Education",
+  correct: "b"
+},
+{
+  question: "45. Which farm tool is used for watering crops?",
+  a: "Wheelbarrow",
+  b: "Watering can",
+  c: "Rake",
+  d: "Hoe",
+  correct: "b"
+},
+{
+  question: "46. The main purpose of a rake is to _______.",
+  a: "Cut trees",
+  b: "Gather leaves and level soil",
+  c: "Carry water",
+  d: "Dig holes",
+  correct: "b"
+},
+{
+  question: "47. A wheelbarrow is mainly used for _______.",
+  a: "Harvesting fish",
+  b: "Transporting farm materials",
+  c: "Watering crops",
+  d: "Planting seeds",
+  correct: "b"
+},
+{
+  question: "48. Which of these is a hand tool used for digging soil?",
+  a: "Hoe",
+  b: "Basket",
+  c: "Rope",
+  d: "Bucket",
+  correct: "a"
+},
+{
+  question: "49. Aquaculture helps to provide _______.",
+  a: "Fish for food",
+  b: "Plastic products",
+  c: "Motor vehicles",
+  d: "Furniture",
+  correct: "a"
+},
+{
+  question: "50. Fish obtain oxygen from water through their _______.",
+  a: "Eyes",
+  b: "Fins",
+  c: "Gills",
+  d: "Scales",
+  correct: "c"
+},
+{
+  question: "51. Which of these is NOT a farm tool?",
+  a: "Cutlass",
+  b: "Hoe",
+  c: "Television",
+  d: "Rake",
+  correct: "c"
+},
+{
+  question: "52. Agriculture provides raw materials for _______.",
+  a: "Industries",
+  b: "Football clubs",
+  c: "Airports",
+  d: "Banks only",
+  correct: "a"
+},
+{
+  question: "53. Fish farming can be practiced in _______.",
+  a: "Fish ponds",
+  b: "Classrooms",
+  c: "Libraries",
+  d: "Garages",
+  correct: "a"
+},
+{
+  question: "54. A healthy fish pond should be protected from _______.",
+  a: "Predators",
+  b: "Fresh water",
+  c: "Sunlight",
+  d: "Fish feed",
+  correct: "a"
+},
+{
+  question: "55. Which of these helps fish grow faster?",
+  a: "Good feeding",
+  b: "Keeping them hungry",
+  c: "Removing water",
+  d: "Keeping the pond dirty",
+  correct: "a"
+},
+{
+  question: "56. One importance of agriculture is that it provides _______.",
+  a: "Employment opportunities",
+  b: "Crime",
+  c: "Pollution",
+  d: "Diseases",
+  correct: "a"
+},
+{
+  question: "57. The best time to maintain farm tools is _______.",
+  a: "After use",
+  b: "Before buying them",
+  c: "Once every ten years",
+  d: "Never",
+  correct: "a"
+},
+{
+  question: "58. Farm tools should be stored in a _______.",
+  a: "Dry and safe place",
+  b: "River",
+  c: "Kitchen",
+  d: "Roadside",
+  correct: "a"
+},
+{
+  question: "59. Which of these is an advantage of fish farming?",
+  a: "Provides income",
+  b: "Causes hunger",
+  c: "Destroys crops",
+  d: "Pollutes drinking water",
+  correct: "a"
+},
+{
+  question: "60. Agriculture is important because it helps improve the _______ of a nation.",
+  a: "Economy",
+  b: "Noise level",
+  c: "Traffic",
+  d: "Pollution",
+  correct: "a"
+},
+
+],
+    "English Studies": [
+
+{
+    question: "A modal verb is a helping verb that expresses _____.",
+    a: "Tense only",
+    b: "Mood or attitude (obligation, permission, ability, etc.)",
+    c: "Singular or plural",
+    d: "Action only",
+    correct: "b"
+},
+{
+    question: "You _____ finish your homework before watching TV. (obligation)",
+    a: "Can",
+    b: "Must",
+    c: "May",
+    d: "Could",
+    correct: "b"
+},
+{
+    question: "Students _____ bring their textbooks to class. (necessity)",
+    a: "Must",
+    b: "May",
+    c: "Can",
+    d: "Could",
+    correct: "a"
+},
+{
+    question: "_____ I come in? (permission)",
+    a: "Must",
+    b: "May",
+    c: "Need",
+    d: "Should",
+    correct: "b"
+},
+{
+    question: "She _____ play the piano very well. (ability)",
+    a: "Must",
+    b: "Can",
+    c: "May",
+    d: "Should",
+    correct: "b"
+},
+{
+    question: "You _____ smoke here. It's prohibited.",
+    a: "May",
+    b: "Cannot",
+    c: "Mustn't",
+    d: "Shouldn't",
+    correct: "c"
+},
+{
+    question: "He _____ be at work by now. (possibility)",
+    a: "Must",
+    b: "May",
+    c: "Can",
+    d: "Need",
+    correct: "b"
+},
+{
+    question: "We _____ leave early to catch the train. (obligation)",
+    a: "Can",
+    b: "Must",
+    c: "May",
+    d: "Could",
+    correct: "b"
+},
+{
+    question: "Comprehension involves understanding and interpreting _____.",
+    a: "Written text",
+    b: "Spoken words",
+    c: "Images",
+    d: "All of the above",
+    correct: "a"
+},
+{
+    question: "A speech outline is a _____.",
+    a: "Full written speech",
+    b: "Summary of main points",
+    c: "Poem",
+    d: "Story",
+    correct: "b"
+},
+{
+    question: "The introduction of a speech should _____.",
+    a: "Capture the audience's attention",
+    b: "Present the conclusion",
+    c: "End the speech",
+    d: "Ignore the audience",
+    correct: "a"
+},
+{
+    question: "The body of a speech contains _____.",
+    a: "Main ideas and supporting details",
+    b: "The closing remarks",
+    c: "The greeting",
+    d: "The title only",
+    correct: "a"
+},
+{
+    question: "The conclusion of a speech should _____.",
+    a: "Introduce a new topic",
+    b: "Summarize and end the speech",
+    c: "Ask many questions",
+    d: "Be very long",
+    correct: "b"
+},
+{
+    question: "A farewell speech is delivered when someone is _____.",
+    a: "Starting a new job",
+    b: "Leaving a place or position",
+    c: "Getting married",
+    d: "Winning an award",
+    correct: "b"
+},
+{
+    question: "The tone of a farewell speech is often _____.",
+    a: "Angry and harsh",
+    b: "Appreciative and emotional",
+    c: "Humorous only",
+    d: "Cold and distant",
+    correct: "b"
+},
+{
+    question: "Question tags are used to _____.",
+    a: "Ask for confirmation or agreement",
+    b: "Start a conversation",
+    c: "End a speech",
+    d: "Introduce a topic",
+    correct: "a"
+},
+{
+    question: "You are coming to the party, _____?",
+    a: "Are you",
+    b: "Aren't you",
+    c: "Isn't you",
+    d: "Was you",
+    correct: "b"
+},
+{
+    question: "She doesn't eat meat, _____?",
+    a: "Does she",
+    b: "Doesn't she",
+    c: "Is she",
+    d: "Was she",
+    correct: "a"
+},
+{
+    question: "A conditional sentence contains an 'if' clause and a _____ clause.",
+    a: "Main",
+    b: "Noun",
+    c: "Verb",
+    d: "Adjective",
+    correct: "a"
+},
+{
+    question: "If it rains, we _____ cancel the trip.",
+    a: "Will",
+    b: "Would",
+    c: "Would have",
+    d: "Shall",
+    correct: "a"
+},
+{
+    question: "If I were rich, I _____ travel the world.",
+    a: "Will",
+    b: "Would",
+    c: "Would have",
+    d: "Shall",
+    correct: "b"
+},
+{
+    question: "If I had known, I _____ helped you.",
+    a: "Will",
+    b: "Would",
+    c: "Would have",
+    d: "Shall",
+    correct: "c"
+},
+{
+    question: "Direct speech reports the exact words of a speaker using _____.",
+    a: "Quotation marks",
+    b: "No punctuation",
+    c: "Full stops only",
+    d: "Commas",
+    correct: "a"
+},
+{
+    question: "\"I am hungry,\" she said. This is an example of _____.",
+    a: "Indirect speech",
+    b: "Direct speech",
+    c: "Conditional sentence",
+    d: "Question tag",
+    correct: "b"
+},
+{
+    question: "Indirect speech reports what someone said without using _____.",
+    a: "Verbs",
+    b: "Quotation marks",
+    c: "Pronouns",
+    d: "Nouns",
+    correct: "b"
+},
+{
+    question: "She said that she was tired. This is an example of _____.",
+    a: "Direct speech",
+    b: "Indirect speech",
+    c: "Conditional sentence",
+    d: "Question tag",
+    correct: "b"
+},
+{
+    question: "He said, 'I will call you tomorrow.' In indirect speech, this becomes _____.",
+    a: "He said he will call me tomorrow",
+    b: "He said that he would call me the next day",
+    c: "He said he calls me tomorrow",
+    d: "He said he called me tomorrow",
+    correct: "b"
+},
+{
+    question: "They are playing football, he said. In indirect speech, this becomes _____.",
+    a: "He said they are playing football",
+    b: "He said that they were playing football",
+    c: "He said they play football",
+    d: "He said they played football",
+    correct: "b"
+},
+{
+    question: "A speech mind map is used to _____.",
+    a: "Write the full speech",
+    b: "Organize ideas visually",
+    c: "Memorize the speech",
+    d: "Replace the speech",
+    correct: "b"
+},
+{
+    question: "In speech writing, the introduction should _____.",
+    a: "Introduce the topic and engage the audience",
+    b: "Present all the facts",
+    c: "Conclude the speech",
+    d: "Ignore the audience",
+    correct: "a"
+},
+{
+    question: "The modal verb 'should' is used to express _____.",
+    a: "Ability",
+    b: "Advice or recommendation",
+    c: "Certainty",
+    d: "Prohibition",
+    correct: "b"
+},
+{
+    question: "You _____ take an umbrella. It might rain.",
+    a: "Must",
+    b: "Should",
+    c: "May",
+    d: "Can",
+    correct: "b"
+},
+{
+    question: "She _____ be at the library now.",
+    a: "Must",
+    b: "May",
+    c: "Will",
+    d: "Shall",
+    correct: "b"
+},
+{
+    question: "We _____ not forget to submit our assignments.",
+    a: "Can",
+    b: "Must",
+    c: "May",
+    d: "Could",
+    correct: "b"
+},
+{
+    question: "The zero conditional is used to express _____.",
+    a: "General truths or facts",
+    b: "Unreal situations",
+    c: "Past actions",
+    d: "Future plans",
+    correct: "a"
+},
+{
+    question: "If you heat water, it _____.",
+    a: "Boils",
+    b: "Boiled",
+    c: "Will boil",
+    d: "Would boil",
+    correct: "a"
+},
+{
+    question: "A farewell speech should express _____.",
+    a: "Anger and frustration",
+    b: "Gratitude and good wishes",
+    c: "Disappointment",
+    d: "Confusion",
+    correct: "b"
+},
+{
+    question: "The term 'reported speech' is another name for _____.",
+    a: "Direct speech",
+    b: "Indirect speech",
+    c: "Conditional speech",
+    d: "Question speech",
+    correct: "b"
+},
+{
+    question: "She said, 'I love this book.' In indirect speech, this becomes _____.",
+    a: "She said that she loves this book",
+    b: "She said that she loved that book",
+    c: "She said she loves this book",
+    d: "She said she loved this book",
+    correct: "b"
+},
+{
+    question: "Question tags usually have the _____ verb from the main sentence.",
+    a: "Same",
+    b: "Opposite",
+    c: "Different",
+    d: "No",
+    correct: "a"
+},
+{
+    question: "You have finished your homework, _____?",
+    a: "Have you",
+    b: "Haven't you",
+    c: "Did you",
+    d: "Didn't you",
+    correct: "b"
+},
+{
+    question: "Listening for details involves _____.",
+    a: "Ignoring the speaker",
+    b: "Paying attention to specific information",
+    c: "Only hearing the main idea",
+    d: "Writing nothing",
+    correct: "b"
+},
+{
+    question: "Listening for the main idea involves _____.",
+    a: "Ignoring the speaker",
+    b: "Understanding the general message",
+    c: "Writing everything down",
+    d: "Memorizing every word",
+    correct: "b"
+},
+{
+    question: "A good speech has a clear introduction, body, and _____.",
+    a: "Conclusion",
+    b: "Question",
+    c: "Poem",
+    d: "Song",
+    correct: "a"
+},
+{
+    question: "The modal verb 'can' is used to express _____.",
+    a: "Ability or possibility",
+    b: "Obligation",
+    c: "Necessity",
+    d: "Prohibition",
+    correct: "a"
+},
+{
+    question: "_____ I go to the restroom?",
+    a: "Must",
+    b: "May",
+    c: "Need",
+    d: "Should",
+    correct: "b"
+},
+{
+    question: "He _____ run very fast when he was young.",
+    a: "Must",
+    b: "Could",
+    c: "May",
+    d: "Should",
+    correct: "b"
+},
+{
+    question: "A speech outline helps the speaker to _____.",
+    a: "Memorize the speech",
+    b: "Stay organized",
+    c: "Avoid speaking",
+    d: "Write a poem",
+    correct: "b"
+},
+{
+    question: "In conditional sentences, the 'if' clause can come at the _____ of the sentence.",
+    a: "Beginning or end",
+    b: "Middle only",
+    c: "End only",
+    d: "None of the above",
+    correct: "a"
+},
+{
+    question: "If I see her, I _____ tell her.",
+    a: "Will",
+    b: "Would",
+    c: "Would have",
+    d: "Shall",
+    correct: "a"
+},
+{
+    question: "If I had known, I _____ done it differently.",
+    a: "Will",
+    b: "Would",
+    c: "Would have",
+    d: "Shall",
+    correct: "c"
+},
+{
+    question: "Question tags are used to make a statement into a _____.",
+    a: "Question",
+    b: "Command",
+    c: "Exclamation",
+    d: "Request",
+    correct: "a"
+},
+{
+    question: "You don't like spicy food, _____?",
+    a: "Do you",
+    b: "Don't you",
+    c: "Does you",
+    d: "Doesn't you",
+    correct: "a"
+},
+{
+    question: "In speech writing, the conclusion should _____.",
+    a: "Introduce new ideas",
+    b: "Summarize and leave a strong impression",
+    c: "Ask many questions",
+    d: "Be very long",
+    correct: "b"
+},
+{
+    question: "A comprehension passage is usually followed by _____.",
+    a: "Questions to test understanding",
+    b: "A poem",
+    c: "A song",
+    d: "A picture",
+    correct: "a"
+},
+{
+    question: "The modal verb 'must' expresses _____.",
+    a: "Strong obligation or necessity",
+    b: "Ability",
+    c: "Permission",
+    d: "Possibility",
+    correct: "a"
+},
+{
+    question: "You _____ leave your luggage unattended.",
+    a: "May",
+    b: "Must not",
+    c: "Can",
+    d: "Should",
+    correct: "b"
+},
+{
+    question: "Indirect speech often requires changes in _____.",
+    a: "Pronouns and tenses",
+    b: "Only pronouns",
+    c: "Only tenses",
+    d: "None of the above",
+    correct: "a"
+},
+{
+    question: "He told me, 'Sit down.' In indirect speech, this becomes _____.",
+    a: "He told me sit down",
+    b: "He told me to sit down",
+    c: "He told me that sit down",
+    d: "He told me sitting down",
+    correct: "b"
+},
+{
+    question: "A mind map helps in speech preparation by _____.",
+    a: "Showing connections between ideas",
+    b: "Writing the full speech",
+    c: "Memorizing the speech",
+    d: "Replacing the speech",
+    correct: "a"
+},
+    ],
 "SCS":[
 
 {
@@ -10629,6 +12573,893 @@ c: "Hide the soldiers",
 d: "Keep people from praying",
 correct: "b"
 },
+],
+
+"Mathematics": [
+
+{
+
+    question: "A plane shape with four equal sides and four right angles is called a _____.",
+
+    a: "Rectangle",
+
+    b: "Square",
+
+    c: "Rhombus",
+
+    d: "Trapezium",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A triangle with all three sides equal is called a _____ triangle.",
+
+    a: "Isosceles",
+
+    b: "Scalene",
+
+    c: "Equilateral",
+
+    d: "Right-angled",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "The sum of the interior angles of a triangle is _____.",
+
+    a: "90°",
+
+    b: "180°",
+
+    c: "270°",
+
+    d: "360°",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A quadrilateral with only one pair of parallel sides is a _____.",
+
+    a: "Parallelogram",
+
+    b: "Rhombus",
+
+    c: "Trapezium",
+
+    d: "Kite",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A plane shape that has no straight sides and no corners is a _____.",
+
+    a: "Oval",
+
+    b: "Circle",
+
+    c: "Ellipse",
+
+    d: "Semicircle",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The distance around a plane shape is called its _____.",
+
+    a: "Area",
+
+    b: "Volume",
+
+    c: "Perimeter",
+
+    d: "Diameter",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A parallelogram with four right angles is a _____.",
+
+    a: "Rhombus",
+
+    b: "Square or Rectangle",
+
+    c: "Trapezium",
+
+    d: "Kite",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A triangle with two equal sides is called a _____ triangle.",
+
+    a: "Equilateral",
+
+    b: "Scalene",
+
+    c: "Isosceles",
+
+    d: "Obtuse",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "The space enclosed by a plane shape is called its _____.",
+
+    a: "Perimeter",
+
+    b: "Circumference",
+
+    c: "Area",
+
+    d: "Diagonal",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A quadrilateral with opposite sides parallel and equal but no right angles is a _____.",
+
+    a: "Rectangle",
+
+    b: "Square",
+
+    c: "Rhombus",
+
+    d: "Parallelogram",
+
+    correct: "d"
+
+},
+
+{
+
+    question: "A shape with five sides is called a _____.",
+
+    a: "Hexagon",
+
+    b: "Pentagon",
+
+    c: "Heptagon",
+
+    d: "Octagon",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A shape with eight sides is called a _____.",
+
+    a: "Hexagon",
+
+    b: "Pentagon",
+
+    c: "Heptagon",
+
+    d: "Octagon",
+
+    correct: "d"
+
+},
+
+{
+
+    question: "The formula for the area of a rectangle is _____.",
+
+    a: "Length × Breadth",
+
+    b: "½ × Base × Height",
+
+    c: "Side × Side",
+
+    d: "πr²",
+
+    correct: "a"
+
+},
+
+{
+
+    question: "The formula for the area of a triangle is _____.",
+
+    a: "Length × Breadth",
+
+    b: "½ × Base × Height",
+
+    c: "πr²",
+
+    d: "2(L + B)",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A kite has _____ pairs of equal adjacent sides.",
+
+    a: "One",
+
+    b: "Two",
+
+    c: "Three",
+
+    d: "Four",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "An angle that measures exactly 90° is called a _____ angle.",
+
+    a: "Acute",
+
+    b: "Obtuse",
+
+    c: "Right",
+
+    d: "Reflex",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "An angle that measures less than 90° is called a _____ angle.",
+
+    a: "Acute",
+
+    b: "Obtuse",
+
+    c: "Right",
+
+    d: "Straight",
+
+    correct: "a"
+
+},
+
+{
+
+    question: "An angle that measures between 90° and 180° is called a _____ angle.",
+
+    a: "Acute",
+
+    b: "Obtuse",
+
+    c: "Reflex",
+
+    d: "Complete",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "An angle that measures exactly 180° is called a _____ angle.",
+
+    a: "Right",
+
+    b: "Obtuse",
+
+    c: "Reflex",
+
+    d: "Straight",
+
+    correct: "d"
+
+},
+
+{
+
+    question: "The sum of angles on a straight line is _____.",
+
+    a: "90°",
+
+    b: "180°",
+
+    c: "270°",
+
+    d: "360°",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The sum of angles at a point is _____.",
+
+    a: "90°",
+
+    b: "180°",
+
+    c: "270°",
+
+    d: "360°",
+
+    correct: "d"
+
+},
+
+{
+
+    question: "Two angles that add up to 90° are called _____ angles.",
+
+    a: "Supplementary",
+
+    b: "Complementary",
+
+    c: "Reflex",
+
+    d: "Vertical",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "Two angles that add up to 180° are called _____ angles.",
+
+    a: "Supplementary",
+
+    b: "Complementary",
+
+    c: "Acute",
+
+    d: "Reflex",
+
+    correct: "a"
+
+},
+
+{
+
+    question: "A tool used to measure angles is called a _____.",
+
+    a: "Ruler",
+
+    b: "Compass",
+
+    c: "Protractor",
+
+    d: "Set square",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "Vertically opposite angles are always _____.",
+
+    a: "Equal",
+
+    b: "Supplementary",
+
+    c: "Complementary",
+
+    d: "Different",
+
+    correct: "a"
+
+},
+
+{
+
+    question: "An angle that measures between 180° and 360° is called a _____ angle.",
+
+    a: "Obtuse",
+
+    b: "Reflex",
+
+    c: "Acute",
+
+    d: "Right",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "An angle that measures exactly 360° is called a _____ angle.",
+
+    a: "Straight",
+
+    b: "Reflex",
+
+    c: "Complete",
+
+    d: "Obtuse",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "In a right-angled triangle, the other two angles are _____.",
+
+    a: "Obtuse",
+
+    b: "Acute and sum to 90°",
+
+    c: "Reflex",
+
+    d: "Each 90°",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The angle between the hour and minute hands of a clock at 6:00 is _____.",
+
+    a: "90°",
+
+    b: "180°",
+
+    c: "270°",
+
+    d: "360°",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "If two angles are supplementary and one is 70°, the other is _____.",
+
+    a: "20°",
+
+    b: "90°",
+
+    c: "110°",
+
+    d: "180°",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A solid shape with six square faces is a _____.",
+
+    a: "Cuboid",
+
+    b: "Cube",
+
+    c: "Cylinder",
+
+    d: "Sphere",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A solid shape with one circular base and one vertex is a _____.",
+
+    a: "Cylinder",
+
+    b: "Cone",
+
+    c: "Sphere",
+
+    d: "Pyramid",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A solid shape with two parallel circular faces is a _____.",
+
+    a: "Cone",
+
+    b: "Sphere",
+
+    c: "Cylinder",
+
+    d: "Prism",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A solid shape with no edges and no vertices is a _____.",
+
+    a: "Cone",
+
+    b: "Cylinder",
+
+    c: "Sphere",
+
+    d: "Cube",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A square-based pyramid has _____ triangular faces.",
+
+    a: "3",
+
+    b: "4",
+
+    c: "5",
+
+    d: "6",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The number of faces on a cuboid is _____.",
+
+    a: "4",
+
+    b: "6",
+
+    c: "8",
+
+    d: "12",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The number of vertices on a cube is _____.",
+
+    a: "4",
+
+    b: "6",
+
+    c: "8",
+
+    d: "12",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A triangular prism has _____ edges.",
+
+    a: "6",
+
+    b: "8",
+
+    c: "9",
+
+    d: "12",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "A solid shape with a polygonal base and triangular sides meeting at one point is a _____.",
+
+    a: "Prism",
+
+    b: "Pyramid",
+
+    c: "Cylinder",
+
+    d: "Cone",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The formula for the volume of a cuboid is _____.",
+
+    a: "Length × Breadth × Height",
+
+    b: "Side × Side × Side",
+
+    c: "πr²h",
+
+    d: "½ × Base × Height × Length",
+
+    correct: "a"
+
+},
+
+{
+
+    question: "The formula for the volume of a cube is _____.",
+
+    a: "Length × Breadth × Height",
+
+    b: "Side³",
+
+    c: "πr³",
+
+    d: "⅓πr²h",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A triangular prism has _____ rectangular faces.",
+
+    a: "2",
+
+    b: "3",
+
+    c: "4",
+
+    d: "5",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The total surface area of a cube with side 5 cm is _____.",
+
+    a: "25 cm²",
+
+    b: "100 cm²",
+
+    c: "125 cm²",
+
+    d: "150 cm²",
+
+    correct: "d"
+
+},
+
+{
+
+    question: "A sphere has _____ line(s) of symmetry.",
+
+    a: "0",
+
+    b: "1",
+
+    c: "2",
+
+    d: "Infinite",
+
+    correct: "d"
+
+},
+
+{
+
+    question: "The point where two or more edges meet is called a _____.",
+
+    a: "Face",
+
+    b: "Vertex",
+
+    c: "Edge",
+
+    d: "Base",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "The instrument used to draw circles is a _____.",
+
+    a: "Ruler",
+
+    b: "Protractor",
+
+    c: "Compass",
+
+    d: "Set square",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "The line that divides an angle into two equal parts is called an _____.",
+
+    a: "Arc",
+
+    b: "Angle bisector",
+
+    c: "Perpendicular",
+
+    d: "Tangent",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "A line that meets another line at 90° is called a _____ line.",
+
+    a: "Parallel",
+
+    b: "Intersecting",
+
+    c: "Perpendicular",
+
+    d: "Transversal",
+
+    correct: "c"
+
+},
+
+{
+
+    question: "The perpendicular bisector divides a line segment into _____ equal parts.",
+
+    a: "1",
+
+    b: "2",
+
+    c: "3",
+
+    d: "4",
+
+    correct: "b"
+
+},
+
+{
+
+    question: "To construct a 60° angle, you use a compass to draw an _____.",
+
+    a: "Arc",
+
+    b: "Circle",
+
+    c: "Straight line",
+
+    d: "Triangle",
+
+    correct: "a"
+
+},
+
+// JSS 2 MATHEMATICS – Questions 51–60
+
+{
+    question: "51. Which of the following is NOT a plane shape?",
+    a: "Square",
+    b: "Triangle",
+    c: "Cube",
+    d: "Circle",
+    correct: "c"
+},
+{
+    question: "52. A line that never meets another line, no matter how far they are extended, is called _______.",
+    a: "Intersecting line",
+    b: "Perpendicular line",
+    c: "Parallel line",
+    d: "Curved line",
+    correct: "c"
+},
+{
+    question: "53. What is the perimeter of a square with side 9 cm?",
+    a: "18 cm",
+    b: "27 cm",
+    c: "36 cm",
+    d: "81 cm",
+    correct: "c"
+},
+{
+    question: "54. Find the area of a rectangle with length 12 cm and breadth 5 cm.",
+    a: "17 cm²",
+    b: "34 cm²",
+    c: "60 cm²",
+    d: "120 cm²",
+    correct: "c"
+},
+{
+    question: "55. The sum of the angles in a quadrilateral is _______.",
+    a: "180°",
+    b: "270°",
+    c: "360°",
+    d: "540°",
+    correct: "c"
+},
+{
+    question: "56. A cube has _______ equal faces.",
+    a: "4",
+    b: "5",
+    c: "6",
+    d: "8",
+    correct: "c"
+},
+{
+    question: "57. Which instrument is used together with a ruler when constructing angles?",
+    a: "Calculator",
+    b: "Compass",
+    c: "Thermometer",
+    d: "Divider",
+    correct: "b"
+},
+{
+    question: "58. The volume of a cube with side 4 cm is _______.",
+    a: "16 cm³",
+    b: "32 cm³",
+    c: "48 cm³",
+    d: "64 cm³",
+    correct: "d"
+},
+{
+    question: "59. Which of the following shapes has exactly one curved surface and one circular base?",
+    a: "Cone",
+    b: "Cylinder",
+    c: "Sphere",
+    d: "Cube",
+    correct: "a"
+},
+{
+    question: "60. Mathematics helps us to develop _______.",
+    a: "Guesswork only",
+    b: "Logical thinking and problem-solving skills",
+    c: "Drawing skills only",
+    d: "Singing ability",
+    correct: "b"
+},
+    
 ],
 
 },
