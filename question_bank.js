@@ -14491,6 +14491,490 @@ correct:"a"
 },
 
 ],
+"Biology": [
+
+    {
+    question: "Which of the following groups of organisms consists entirely of photoautotrophs?",
+    a: "Nitrifying bacteria and Fungi",
+    b: "Green plants, Algae, and Phytoplankton",
+    c: "Zooplankton and Grasshoppers",
+    d: "Yeasts and Amoeba",
+    correct: "b"
+},
+{
+    question: "Organisms that utilize chemical energy released from inorganic compounds to synthesize food are described as:",
+    a: "Photoautotrophs",
+    b: "Chemoautotrophs",
+    c: "Saprophytic heterotrophs",
+    d: "Holozoic consumers",
+    correct: "b"
+},
+{
+    question: "In a standard ecosystem, primary consumers always occupy which of the following trophic levels?",
+    a: "First Trophic Level",
+    b: "Second Trophic Level",
+    c: "Third Trophic Level",
+    d: "Fourth Trophic Level",
+    correct: "b"
+},
+{
+    question: "The non-cyclic (unidirectional) movement of chemical energy within an ecosystem occurs from:",
+    a: "Decomposers to Producers",
+    b: "Carnivores to Herbivores",
+    c: "Producers to Consumers",
+    d: "Tertiary consumers to Primary producers",
+    correct: "c"
+},
+{
+    question: "Which of the following is a representative terrestrial food chain?",
+    a: "Grass → Lizard → Grasshopper → Hawk",
+    b: "Grass → Grasshopper → Lizard → Hawk",
+    c: "Hawk → Lizard → Grasshopper → Grass",
+    d: "Grasshopper → Grass → Hawk → Lizard",
+    correct: "b"
+},
+{
+    question: "Why is a food web more stable and beneficial to an ecosystem than a single food chain?",
+    a: "It allows energy to cycle backward to producers.",
+    b: "It provides alternative feeding choices for consumers.",
+    c: "It contains fewer trophic levels.",
+    d: "It completely eliminates the role of decomposers.",
+    correct: "b"
+},
+{
+    question: "In an aquatic food chain, which organism represents the primary producer?",
+    a: "Zooplankton",
+    b: "Phytoplankton",
+    c: "Tilapia fish",
+    d: "Water snail",
+    correct: "b"
+},
+{
+    question: "Which pyramid is ALWAYS upright in any functioning ecosystem?",
+    a: "Pyramid of Numbers",
+    b: "Pyramid of Biomass",
+    c: "Pyramid of Energy",
+    d: "Pyramid of Species",
+    correct: "c"
+},
+{
+    question: "What percentage of energy is typically transferred from one trophic level to the next higher level?",
+    a: "1%",
+    b: "10%",
+    c: "50%",
+    d: "90%",
+    correct: "b"
+},
+{
+    question: "An inverted Pyramid of Numbers can occur in which of the following ecological scenarios?",
+    a: "Many phytoplanktons being eaten by a whale",
+    b: "Many insects feeding on a single large tree",
+    c: "A hawk feeding on several small lizards",
+    d: "Grasshoppers feeding on a lawn of grass",
+    correct: "b"
+},
+{
+    question: "Heterotrophs that feed exclusively on dead organic matter are called:",
+    a: "Herbivores",
+    b: "Omnivores",
+    c: "Saprophytes",
+    d: "Parasites",
+    correct: "c"
+},
+{
+    question: "The structural arrangement of organisms based on their feeding relationships is known as:",
+    a: "Ecological Niche",
+    b: "Trophic Level",
+    c: "Biosphere",
+    d: "Pyramidal hierarchy",
+    correct: "b"
+},
+{
+    question: "Which organism serves as the secondary consumer in this food chain: Phytoplankton → Zooplankton → Tilapia → Kingfisher?",
+    a: "Phytoplankton",
+    b: "Zooplankton",
+    c: "Tilapia",
+    d: "Kingfisher",
+    correct: "c"
+},
+{
+    question: "What proportion of total solar radiation reaching the earth is captured by green plants for photosynthesis?",
+    a: "1–2%",
+    b: "10%",
+    c: "50%",
+    d: "90%",
+    correct: "a"
+},
+{
+    question: "The total amount of solar energy bound and stored as chemical energy by producers per unit area is called:",
+    a: "Net Primary Productivity (NPP)",
+    b: "Gross Primary Productivity (GPP)",
+    c: "Total Secondary Productivity",
+    d: "Cellular Respiration Rate",
+    correct: "b"
+},
+{
+    question: "The relationship between NPP, GPP, and Respiration (R) is represented by which formula?",
+    a: "NPP = GPP + R",
+    b: "GPP = NPP - R",
+    c: "NPP = GPP - R",
+    d: "R = NPP - GPP",
+    correct: "c"
+},
+{
+    question: "According to the First Law of Thermodynamics:",
+    a: "Energy conversions are 100% efficient.",
+    b: "Energy can be created from nothing by green plants.",
+    c: "Energy can be transformed but not created or destroyed.",
+    d: "Heat energy represents high-quality structured energy.",
+    correct: "c"
+},
+{
+    question: "The Second Law of Thermodynamics states that in any energy conversion:",
+    a: "Energy is completely saved and conserved.",
+    b: "Energy is lost to the surroundings as heat.",
+    c: "System entropy (disorder) always decreases.",
+    d: "The net energy remains entirely unchanged.",
+    correct: "b"
+},
+{
+    question: "The progressive decrease of available energy along a food chain is a direct consequence of:",
+    a: "The First Law of Thermodynamics",
+    b: "The law of limiting factors",
+    c: "The Second Law of Thermodynamics",
+    d: "Biotic competition",
+    correct: "c"
+},
+{
+    question: "Which of the following is the main form of energy lost from biological systems?",
+    a: "Light energy",
+    b: "Chemical energy",
+    c: "Heat energy",
+    d: "Mechanical energy",
+    correct: "c"
+},
+{
+    question: "Why are food chains in nature usually limited to 4 or 5 trophic levels?",
+    a: "Predators are too lazy to hunt",
+    b: "The energy remaining at higher levels is too small to support life",
+    c: "Decomposers eat higher-level carnivores",
+    d: "Herbivores multiply faster than plants",
+    correct: "b"
+},
+{
+    question: "Which process transforms mechanical energy back into chemical energy in an ecosystem?",
+    a: "Photosynthesis",
+    b: "Respiration",
+    c: "None, energy transformation is one-way",
+    d: "Decomposition",
+    correct: "c"
+},
+{
+    question: "In an agricultural ecosystem, planting crops with high photosynthetic efficiency aims to directly increase _______.",
+    a: "Transpiration rate",
+    b: "Gross Primary Productivity",
+    c: "Wind velocity",
+    d: "Soil acidity",
+    correct: "b"
+},
+{
+    question: "The state of biological disorder and energy dissipation in a system is referred to as _______.",
+    a: "Synergy",
+    b: "Homeostasis",
+    c: "Entropy",
+    d: "Symbiosis",
+    correct: "c"
+},
+{
+    question: "Which biological activity represents the transformation of chemical energy into mechanical energy?",
+    a: "Absorption of sunlight by chlorophyll",
+    b: "Muscle contraction during locomotion",
+    c: "Excretion of urea by the kidneys",
+    d: "Protein synthesis on ribosomes",
+    correct: "b"
+},
+{
+    question: "Simple, non-vascular plants that are mostly aquatic and lack true roots, stems, and leaves are _______.",
+    a: "Pteridophytes",
+    b: "Thallophytes (Algae)",
+    c: "Bryophytes",
+    d: "Gymnosperms",
+    correct: "b"
+},
+{
+    question: "Mosses and liverworts belong to the group known as _______.",
+    a: "Thallophytes",
+    b: "Bryophytes",
+    c: "Pteridophytes",
+    d: "Spermatophytes",
+    correct: "b"
+},
+{
+    question: "Which group represents vascular, seedless plants that reproduce by spores?",
+    a: "Bryophytes",
+    b: "Pteridophytes (Ferns)",
+    c: "Gymnosperms",
+    d: "Angiosperms",
+    correct: "b"
+},
+{
+    question: "Gymnosperms differ from angiosperms because they _______.",
+    a: "Lack vascular tissues",
+    b: "Reproduce by spores only",
+    c: "Produce naked seeds on cones",
+    d: "Have flowers and fruits",
+    correct: "c"
+},
+{
+    question: "A monocotyledonous plant is characterized by having _______.",
+    a: "Two cotyledons and a taproot",
+    b: "Net-like leaf venation",
+    c: "One cotyledon and parallel leaf venation",
+    d: "Vascular bundles arranged in a ring",
+    correct: "c"
+},
+{
+    question: "Which of the following crops is a dicotyledonous plant?",
+    a: "Maize",
+    b: "Rice",
+    c: "Cowpea",
+    d: "Millet",
+    correct: "c"
+},
+{
+    question: "Guinea corn (Sorghum) and maize are classified as _______.",
+    a: "Legumes",
+    b: "Cereals",
+    c: "Tuber crops",
+    d: "Oil crops",
+    correct: "b"
+},
+{
+    question: "Legumes are valuable in crop rotation because they _______.",
+    a: "Absorb more water",
+    b: "Produce underground tubers",
+    c: "Enrich the soil with nitrogen through root nodules",
+    d: "Prevent erosion with fibrous roots",
+    correct: "c"
+},
+{
+    question: "Yam, cassava, and cocoyam belong to which crop class?",
+    a: "Legumes",
+    b: "Roots and Tubers",
+    c: "Cereals",
+    d: "Latex crops",
+    correct: "b"
+},
+{
+    question: "Crops that complete their life cycle within one year are called _______.",
+    a: "Annuals",
+    b: "Biennials",
+    c: "Perennials",
+    d: "Ephemerals",
+    correct: "a"
+},
+{
+    question: "Which of the following is a biennial plant?",
+    a: "Cowpea",
+    b: "Carrot",
+    c: "Cocoa",
+    d: "Mango",
+    correct: "b"
+},
+{
+    question: "Mango, oil palm, and cashew are classified as _______.",
+    a: "Annuals",
+    b: "Biennials",
+    c: "Perennials",
+    d: "Deciduous crops",
+    correct: "c"
+},
+{
+    question: "A direct ecological consequence of heavy bush burning is _______.",
+    a: "Increase in soil humus",
+    b: "Destruction of beneficial soil decomposers",
+    c: "Improved water retention",
+    d: "Creation of deep topsoil",
+    correct: "b"
+},
+{
+    question: "Continuous monocropping usually leads to _______.",
+    a: "Balanced soil nutrients",
+    b: "Higher crop yields",
+    c: "High accumulation of specific crop pests",
+    d: "Reduced soil erosion",
+    correct: "c"
+},
+{
+    question: "Excessive runoff of chemical fertilizers into rivers and lakes causes _______.",
+    a: "Salination",
+    b: "Eutrophication",
+    c: "Bioaccumulation",
+    d: "Nitrification",
+    correct: "b"
+},
+{
+    question: "Grasshoppers, locusts, and termites are pests classified as _______.",
+    a: "Piercing and sucking pests",
+    b: "Biting and chewing pests",
+    c: "Boring pests",
+    d: "Lapping pests",
+    correct: "b"
+},
+{
+    question: "Aphids and whiteflies damage crops by _______.",
+    a: "Cutting off leaf margins",
+    b: "Piercing plant tissues and sucking out phloem sap",
+    c: "Boring tunnels inside tree trunks",
+    d: "Chewing seedlings",
+    correct: "b"
+},
+{
+    question: "Which of the following is a representative boring insect pest?",
+    a: "Locust",
+    b: "Maize weevil",
+    c: "Aphid",
+    d: "Grasshopper",
+    correct: "b"
+},
+{
+    question: "In insects undergoing complete metamorphosis, which developmental stage causes the most crop damage?",
+    a: "Egg",
+    b: "Larva",
+    c: "Pupa",
+    d: "Adult",
+    correct: "b"
+},
+{
+    question: "Incomplete metamorphosis consists of which stages?",
+    a: "Egg → Larva → Adult",
+    b: "Egg → Nymph → Adult",
+    c: "Egg → Larva → Pupa → Adult",
+    d: "Nymph → Pupa → Adult",
+    correct: "b"
+},
+{
+    question: "Introducing ducks to feed on snails in rice farms is an example of _______ control.",
+    a: "Mechanical",
+    b: "Cultural",
+    c: "Biological",
+    d: "Chemical",
+    correct: "c"
+},
+{
+    question: "Practicing timely planting and harvesting to avoid peak pest populations is an example of _______ control.",
+    a: "Mechanical",
+    b: "Chemical",
+    c: "Biological",
+    d: "Cultural",
+    correct: "d"
+},
+{
+    question: "The buildup of non-biodegradable chemicals along a food chain is known as _______.",
+    a: "Biomagnification (Bioaccumulation)",
+    b: "Eutrophication",
+    c: "Ammonification",
+    d: "Denitrification",
+    correct: "a"
+},
+{
+    question: "Crossing two different crop varieties to combine desirable traits is called _______.",
+    a: "Monocropping",
+    b: "Hybridization (Selective breeding)",
+    c: "Tillage",
+    d: "Irradiation",
+    correct: "b"
+},
+{
+    question: "Preserving food by salting prevents microbial spoilage because it _______.",
+    a: "Breaks down food proteins",
+    b: "Creates a hypotonic environment",
+    c: "Causes exosmosis and dehydrates microbial cells",
+    d: "Locks oxygen out of the food",
+    correct: "c"
+},
+{
+    question: "According to Malthus, while the human population increases geometrically, food production increases _______.",
+    a: "Geometrically",
+    b: "Arithmetically",
+    c: "Exponentially",
+    d: "Logarithmically",
+    correct: "b"
+},
+{
+    question: "Which modern storage facility is used for storing grains by controlling moisture and oxygen?",
+    a: "Open-air cribs",
+    b: "Clay pots",
+    c: "Silos",
+    d: "Jute bags",
+    correct: "c"
+},
+{
+    question: "Which group of microorganisms is non-cellular and reproduces only inside living host cells?",
+    a: "Bacteria",
+    b: "Protozoa",
+    c: "Viruses",
+    d: "Fungi",
+    correct: "c"
+},
+{
+    question: "Heating nutrient media under pressure to destroy microorganisms is known as _______.",
+    a: "Inoculation",
+    b: "Sterilization",
+    c: "Incubation",
+    d: "Culturing",
+    correct: "b"
+},
+{
+    question: "An insect vector that supports the reproduction of a pathogen is called a _______.",
+    a: "Mechanical vector",
+    b: "Biological vector",
+    c: "Physical carrier",
+    d: "Saprophytic vector",
+    correct: "b"
+},
+{
+    question: "The housefly (Musca domestica) transmits cholera and typhoid as a _______.",
+    a: "Biological vector",
+    b: "Mechanical vector",
+    c: "Intracellular vector",
+    d: "Symbiotic vector",
+    correct: "b"
+},
+{
+    question: "Penicillin is obtained from which organism?",
+    a: "Streptomyces",
+    b: "Penicillium notatum",
+    c: "Bacteriophage",
+    d: "Spirogyra",
+    correct: "b"
+},
+{
+    question: "Yeast (Saccharomyces cerevisiae) is used in baking because it _______.",
+    a: "Produces oxygen",
+    b: "Ferments sugars into carbon dioxide and ethanol",
+    c: "Breaks down proteins",
+    d: "Fixes nitrogen",
+    correct: "b"
+},
+{
+    question: "Chemical agents that are safe to apply directly on living tissues are called _______.",
+    a: "Disinfectants",
+    b: "Antiseptics",
+    c: "Antibiotics",
+    d: "Pesticides",
+    correct: "b"
+},
+{
+    question: "Introducing weakened or killed pathogens into the body to stimulate antibody production is known as _______.",
+    a: "Sterilization",
+    b: "Disinfection",
+    c: "Immunization (Vaccination)",
+    d: "Chemotherapy",
+    correct: "c"
+},
+
+],
 
 "Government": [
 
