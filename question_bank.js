@@ -13464,330 +13464,9 @@ correct: "b"
 
 },
 
-"SS 1": {
+
+"SS 1":{
 "Digital Technologies": [
-{
-    question: "A word processor is software used for ______.",
-    a: "Creating, editing and formatting text documents",
-    b: "Creating databases",
-    c: "Designing websites",
-    d: "Playing games",
-    correct: "a"
-},
-{
-    question: "Which of the following is an example of a word processing application?",
-    a: "Microsoft Word",
-    b: "Microsoft Excel",
-    c: "Microsoft Access",
-    d: "Microsoft PowerPoint",
-    correct: "a"
-},
-{
-    question: "Google Docs is an example of a ______ word processor.",
-    a: "Cloud-based",
-    b: "Offline-only",
-    c: "Database",
-    d: "Programming",
-    correct: "a"
-},
-{
-    question: "Which feature checks spelling mistakes in a document?",
-    a: "Spell Check",
-    b: "Mail Merge",
-    c: "Word Count",
-    d: "Track Changes",
-    correct: "a"
-},
-{
-    question: "Which Microsoft Word feature allows one letter to be sent to many recipients?",
-    a: "Mail Merge",
-    b: "AutoCorrect",
-    c: "Print Preview",
-    d: "Header and Footer",
-    correct: "a"
-},
-{
-    question: "The shortcut key for saving a document is ______.",
-    a: "Ctrl + S",
-    b: "Ctrl + P",
-    c: "Ctrl + C",
-    d: "Ctrl + X",
-    correct: "a"
-},
-{
-    question: "The shortcut key for copying selected text is ______.",
-    a: "Ctrl + C",
-    b: "Ctrl + V",
-    c: "Ctrl + Z",
-    d: "Ctrl + X",
-    correct: "a"
-},
-{
-    question: "The default file extension for Microsoft Word documents is ______.",
-    a: ".docx",
-    b: ".xlsx",
-    c: ".pptx",
-    d: ".accdb",
-    correct: "a"
-},
-{
-    question: "Which of these is NOT a feature of Microsoft Word?",
-    a: "Spell Check",
-    b: "Mail Merge",
-    c: "Slide Transition",
-    d: "Find and Replace",
-    correct: "c"
-},
-{
-    question: "The Ribbon in Microsoft Word contains ______.",
-    a: "Tabs and commands",
-    b: "Rows and columns",
-    c: "Slides",
-    d: "Records",
-    correct: "a"
-},
-{
-    question: "A spreadsheet is mainly used for ______.",
-    a: "Organizing and analyzing numerical data",
-    b: "Typing letters",
-    c: "Editing videos",
-    d: "Creating databases",
-    correct: "a"
-},
-{
-    question: "Which application is commonly used for spreadsheets?",
-    a: "Microsoft Excel",
-    b: "Microsoft Word",
-    c: "Microsoft Access",
-    d: "Paint",
-    correct: "a"
-},
-{
-    question: "A cell is formed by the intersection of a ______.",
-    a: "Row and column",
-    b: "Page and margin",
-    c: "Slide and layout",
-    d: "Field and record",
-    correct: "a"
-},
-{
-    question: "Every formula in Microsoft Excel begins with a ______.",
-    a: "=",
-    b: "+",
-    c: "-",
-    d: "*",
-    correct: "a"
-},
-{
-    question: "Cell B5 refers to ______.",
-    a: "Column B and Row 5",
-    b: "Row B and Column 5",
-    c: "Book 5",
-    d: "Block 5",
-    correct: "a"
-},
-{
-    question: "Which Excel function adds a range of numbers together?",
-    a: "SUM",
-    b: "COUNT",
-    c: "IF",
-    d: "MAX",
-    correct: "a"
-},
-{
-    question: "Which function calculates the average of selected numbers?",
-    a: "AVERAGE",
-    b: "SUM",
-    c: "COUNT",
-    d: "MIN",
-    correct: "a"
-},
-{
-    question: "Which Excel function counts the number of cells containing numbers?",
-    a: "COUNT",
-    b: "SUM",
-    c: "AVERAGE",
-    d: "IF",
-    correct: "a"
-},
-{
-    question: "Charts in Excel are used to ______.",
-    a: "Present data graphically",
-    b: "Type documents",
-    c: "Create databases",
-    d: "Browse the internet",
-    correct: "a"
-},
-{
-    question: "Which of the following is a type of chart in Microsoft Excel?",
-    a: "Pie Chart",
-    b: "Circle Sheet",
-    c: "Data Slide",
-    d: "Ribbon Chart",
-    correct: "a"
-},
-
-{
-    question: "Presentation software is mainly used to ______.",
-    a: "Create slide presentations",
-    b: "Prepare spreadsheets",
-    c: "Create databases",
-    d: "Browse the internet",
-    correct: "a"
-},
-{
-    question: "Which of the following is a presentation software?",
-    a: "Microsoft PowerPoint",
-    b: "Microsoft Word",
-    c: "Microsoft Excel",
-    d: "Microsoft Access",
-    correct: "a"
-},
-{
-    question: "Google Slides is an example of a ______ presentation application.",
-    a: "Cloud-based",
-    b: "Database",
-    c: "Spreadsheet",
-    d: "Programming",
-    correct: "a"
-},
-{
-    question: "A single page in a PowerPoint presentation is called a ______.",
-    a: "Slide",
-    b: "Worksheet",
-    c: "Document",
-    d: "Record",
-    correct: "a"
-},
-{
-    question: "Slide transitions are used to ______.",
-    a: "Control how one slide changes to another",
-    b: "Correct spelling errors",
-    c: "Create formulas",
-    d: "Store records",
-    correct: "a"
-},
-{
-    question: "Animations in PowerPoint are used to ______.",
-    a: "Add movement to text and objects",
-    b: "Calculate figures",
-    c: "Create databases",
-    d: "Print documents",
-    correct: "a"
-},
-{
-    question: "Which view is commonly used when presenting a slide show to an audience?",
-    a: "Slide Show View",
-    b: "Outline View",
-    c: "Normal View",
-    d: "Notes View",
-    correct: "a"
-},
-{
-    question: "The default file extension for Microsoft PowerPoint is ______.",
-    a: ".pptx",
-    b: ".docx",
-    c: ".xlsx",
-    d: ".accdb",
-    correct: "a"
-},
-{
-    question: "A presentation template is ______.",
-    a: "A pre-designed slide layout",
-    b: "A spreadsheet formula",
-    c: "A database table",
-    d: "A word processing tool",
-    correct: "a"
-},
-{
-    question: "Which of the following can be inserted into a PowerPoint slide?",
-    a: "Pictures, audio and videos",
-    b: "Only text",
-    c: "Only charts",
-    d: "Only tables",
-    correct: "a"
-},
-{
-    question: "A database is ______.",
-    a: "An organized collection of related data",
-    b: "A type of spreadsheet",
-    c: "A presentation program",
-    d: "A graphics editor",
-    correct: "a"
-},
-{
-    question: "DBMS stands for ______.",
-    a: "Database Management System",
-    b: "Digital Business Management System",
-    c: "Data Backup Management Software",
-    d: "Database Basic Machine System",
-    correct: "a"
-},
-{
-    question: "Which of the following is an example of database software?",
-    a: "Microsoft Access",
-    b: "Microsoft Word",
-    c: "Microsoft Excel",
-    d: "Microsoft Paint",
-    correct: "a"
-},
-{
-    question: "A table in a database is made up of ______.",
-    a: "Rows and columns",
-    b: "Slides and pages",
-    c: "Pictures and videos",
-    d: "Files and folders",
-    correct: "a"
-},
-{
-    question: "A row in a database table is called a ______.",
-    a: "Record",
-    b: "Field",
-    c: "Cell",
-    d: "Worksheet",
-    correct: "a"
-},
-{
-    question: "A column in a database table is called a ______.",
-    a: "Field",
-    b: "Record",
-    c: "Page",
-    d: "Slide",
-    correct: "a"
-},
-{
-    question: "A query in a database is used to ______.",
-    a: "Retrieve specific information",
-    b: "Delete the operating system",
-    c: "Print slides",
-    d: "Create spreadsheets",
-    correct: "a"
-},
-{
-    question: "A form in Microsoft Access is mainly used for ______.",
-    a: "Entering and viewing records",
-    b: "Creating presentations",
-    c: "Performing calculations",
-    d: "Browsing websites",
-    correct: "a"
-},
-{
-    question: "A report in a database is used to ______.",
-    a: "Display and print information in an organized format",
-    b: "Store videos",
-    c: "Create formulas",
-    d: "Edit pictures",
-    correct: "a"
-},
-{
-    question: "Which of the following is the default file extension for Microsoft Access?",
-    a: ".accdb",
-    b: ".docx",
-    c: ".xlsx",
-    d: ".pptx",
-    correct: "a"
-},
-
 {
     question: "Which Microsoft Office application is best used for typing letters and reports?",
     a: "Microsoft Word",
@@ -17045,6 +16724,972 @@ correct: "a"
 
 "SS 2": {
 
+"Biology": [
+
+     {
+    question: "Which of the following groups of organisms consists entirely of photoautotrophs?",
+    a: "Nitrifying bacteria and Fungi",
+    b: "Green plants, Algae, and Phytoplankton",
+    c: "Zooplankton and Grasshoppers",
+    d: "Yeasts and Amoeba",
+    correct: "b"
+},
+{
+    question: "Organisms that utilize chemical energy released from inorganic compounds to synthesize food are described as:",
+    a: "Photoautotrophs",
+    b: "Chemoautotrophs",
+    c: "Saprophytic heterotrophs",
+    d: "Holozoic consumers",
+    correct: "b"
+},
+{
+    question: "In a standard ecosystem, primary consumers always occupy which of the following trophic levels?",
+    a: "First Trophic Level",
+    b: "Second Trophic Level",
+    c: "Third Trophic Level",
+    d: "Fourth Trophic Level",
+    correct: "b"
+},
+{
+    question: "The non-cyclic (unidirectional) movement of chemical energy within an ecosystem occurs from:",
+    a: "Decomposers to Producers",
+    b: "Carnivores to Herbivores",
+    c: "Producers to Consumers",
+    d: "Tertiary consumers to Primary producers",
+    correct: "c"
+},
+{
+    question: "Which of the following is a representative terrestrial food chain?",
+    a: "Grass → Lizard → Grasshopper → Hawk",
+    b: "Grass → Grasshopper → Lizard → Hawk",
+    c: "Hawk → Lizard → Grasshopper → Grass",
+    d: "Grasshopper → Grass → Hawk → Lizard",
+    correct: "b"
+},
+{
+    question: "Why is a food web more stable and beneficial to an ecosystem than a single food chain?",
+    a: "It allows energy to cycle backward to producers.",
+    b: "It provides alternative feeding choices for consumers.",
+    c: "It contains fewer trophic levels.",
+    d: "It completely eliminates the role of decomposers.",
+    correct: "b"
+},
+{
+    question: "In an aquatic food chain, which organism represents the primary producer?",
+    a: "Zooplankton",
+    b: "Phytoplankton",
+    c: "Tilapia fish",
+    d: "Water snail",
+    correct: "b"
+},
+{
+    question: "Which pyramid is ALWAYS upright in any functioning ecosystem?",
+    a: "Pyramid of Numbers",
+    b: "Pyramid of Biomass",
+    c: "Pyramid of Energy",
+    d: "Pyramid of Species",
+    correct: "c"
+},
+{
+    question: "What percentage of energy is typically transferred from one trophic level to the next higher level?",
+    a: "1%",
+    b: "10%",
+    c: "50%",
+    d: "90%",
+    correct: "b"
+},
+{
+    question: "An inverted Pyramid of Numbers can occur in which of the following ecological scenarios?",
+    a: "Many phytoplanktons being eaten by a whale",
+    b: "Many insects feeding on a single large tree",
+    c: "A hawk feeding on several small lizards",
+    d: "Grasshoppers feeding on a lawn of grass",
+    correct: "b"
+},
+{
+    question: "Heterotrophs that feed exclusively on dead organic matter are called:",
+    a: "Herbivores",
+    b: "Omnivores",
+    c: "Saprophytes",
+    d: "Parasites",
+    correct: "c"
+},
+{
+    question: "The structural arrangement of organisms based on their feeding relationships is known as:",
+    a: "Ecological Niche",
+    b: "Trophic Level",
+    c: "Biosphere",
+    d: "Pyramidal hierarchy",
+    correct: "b"
+},
+{
+    question: "Which organism serves as the secondary consumer in this food chain: Phytoplankton → Zooplankton → Tilapia → Kingfisher?",
+    a: "Phytoplankton",
+    b: "Zooplankton",
+    c: "Tilapia",
+    d: "Kingfisher",
+    correct: "c"
+},
+{
+    question: "What proportion of total solar radiation reaching the earth is captured by green plants for photosynthesis?",
+    a: "1–2%",
+    b: "10%",
+    c: "50%",
+    d: "90%",
+    correct: "a"
+},
+{
+    question: "The total amount of solar energy bound and stored as chemical energy by producers per unit area is called:",
+    a: "Net Primary Productivity (NPP)",
+    b: "Gross Primary Productivity (GPP)",
+    c: "Total Secondary Productivity",
+    d: "Cellular Respiration Rate",
+    correct: "b"
+},
+{
+    question: "The relationship between NPP, GPP, and Respiration (R) is represented by which formula?",
+    a: "NPP = GPP + R",
+    b: "GPP = NPP - R",
+    c: "NPP = GPP - R",
+    d: "R = NPP - GPP",
+    correct: "c"
+},
+{
+    question: "According to the First Law of Thermodynamics:",
+    a: "Energy conversions are 100% efficient.",
+    b: "Energy can be created from nothing by green plants.",
+    c: "Energy can be transformed but not created or destroyed.",
+    d: "Heat energy represents high-quality structured energy.",
+    correct: "c"
+},
+{
+    question: "The Second Law of Thermodynamics states that in any energy conversion:",
+    a: "Energy is completely saved and conserved.",
+    b: "Energy is lost to the surroundings as heat.",
+    c: "System entropy (disorder) always decreases.",
+    d: "The net energy remains entirely unchanged.",
+    correct: "b"
+},
+{
+    question: "The progressive decrease of available energy along a food chain is a direct consequence of:",
+    a: "The First Law of Thermodynamics",
+    b: "The law of limiting factors",
+    c: "The Second Law of Thermodynamics",
+    d: "Biotic competition",
+    correct: "c"
+},
+{
+    question: "Which of the following is the main form of energy lost from biological systems?",
+    a: "Light energy",
+    b: "Chemical energy",
+    c: "Heat energy",
+    d: "Mechanical energy",
+    correct: "c"
+},
+   {
+    question: "Grasshoppers, locusts, and termites are pests classified as _______.",
+    a: "Piercing and sucking pests",
+    b: "Biting and chewing pests",
+    c: "Boring pests",
+    d: "Lapping pests",
+    correct: "b"
+},
+{
+    question: "Aphids and whiteflies damage crops by _______.",
+    a: "Cutting off leaf margins",
+    b: "Piercing plant tissues and sucking out phloem sap",
+    c: "Boring tunnels inside tree trunks",
+    d: "Chewing seedlings",
+    correct: "b"
+},
+{
+    question: "Which of the following is a representative boring insect pest?",
+    a: "Locust",
+    b: "Maize weevil",
+    c: "Aphid",
+    d: "Grasshopper",
+    correct: "b"
+},
+{
+    question: "In insects undergoing complete metamorphosis, which developmental stage causes the most crop damage?",
+    a: "Egg",
+    b: "Larva",
+    c: "Pupa",
+    d: "Adult",
+    correct: "b"
+},
+{
+    question: "Incomplete metamorphosis consists of which stages?",
+    a: "Egg → Larva → Adult",
+    b: "Egg → Nymph → Adult",
+    c: "Egg → Larva → Pupa → Adult",
+    d: "Nymph → Pupa → Adult",
+    correct: "b"
+},
+{
+    question: "Introducing ducks to feed on snails in rice farms is an example of _______ control.",
+    a: "Mechanical",
+    b: "Cultural",
+    c: "Biological",
+    d: "Chemical",
+    correct: "c"
+},
+{
+    question: "Practicing timely planting and harvesting to avoid peak pest populations is an example of _______ control.",
+    a: "Mechanical",
+    b: "Chemical",
+    c: "Biological",
+    d: "Cultural",
+    correct: "d"
+},
+{
+    question: "The buildup of non-biodegradable chemicals along a food chain is known as _______.",
+    a: "Biomagnification (Bioaccumulation)",
+    b: "Eutrophication",
+    c: "Ammonification",
+    d: "Denitrification",
+    correct: "a"
+},
+{
+    question: "Crossing two different crop varieties to combine desirable traits is called _______.",
+    a: "Monocropping",
+    b: "Hybridization (Selective breeding)",
+    c: "Tillage",
+    d: "Irradiation",
+    correct: "b"
+},
+{
+    question: "Preserving food by salting prevents microbial spoilage because it _______.",
+    a: "Breaks down food proteins",
+    b: "Creates a hypotonic environment",
+    c: "Causes exosmosis and dehydrates microbial cells",
+    d: "Locks oxygen out of the food",
+    correct: "c"
+},
+{
+    question: "According to Malthus, while the human population increases geometrically, food production increases _______.",
+    a: "Geometrically",
+    b: "Arithmetically",
+    c: "Exponentially",
+    d: "Logarithmically",
+    correct: "b"
+},
+{
+    question: "Which modern storage facility is used for storing grains by controlling moisture and oxygen?",
+    a: "Open-air cribs",
+    b: "Clay pots",
+    c: "Silos",
+    d: "Jute bags",
+    correct: "c"
+},
+{
+    question: "Which group of microorganisms is non-cellular and reproduces only inside living host cells?",
+    a: "Bacteria",
+    b: "Protozoa",
+    c: "Viruses",
+    d: "Fungi",
+    correct: "c"
+},
+{
+    question: "Heating nutrient media under pressure to destroy microorganisms is known as _______.",
+    a: "Inoculation",
+    b: "Sterilization",
+    c: "Incubation",
+    d: "Culturing",
+    correct: "b"
+},
+{
+    question: "An insect vector that supports the reproduction of a pathogen is called a _______.",
+    a: "Mechanical vector",
+    b: "Biological vector",
+    c: "Physical carrier",
+    d: "Saprophytic vector",
+    correct: "b"
+},
+{
+    question: "The housefly (Musca domestica) transmits cholera and typhoid as a _______.",
+    a: "Biological vector",
+    b: "Mechanical vector",
+    c: "Intracellular vector",
+    d: "Symbiotic vector",
+    correct: "b"
+},
+{
+    question: "Penicillin is obtained from which organism?",
+    a: "Streptomyces",
+    b: "Penicillium notatum",
+    c: "Bacteriophage",
+    d: "Spirogyra",
+    correct: "b"
+},
+{
+    question: "Yeast (Saccharomyces cerevisiae) is used in baking because it _______.",
+    a: "Produces oxygen",
+    b: "Ferments sugars into carbon dioxide and ethanol",
+    c: "Breaks down proteins",
+    d: "Fixes nitrogen",
+    correct: "b"
+},
+{
+    question: "Chemical agents that are safe to apply directly on living tissues are called _______.",
+    a: "Disinfectants",
+    b: "Antiseptics",
+    c: "Antibiotics",
+    d: "Pesticides",
+    correct: "b"
+},
+{
+    question: "Introducing weakened or killed pathogens into the body to stimulate antibody production is known as _______.",
+    a: "Sterilization",
+    b: "Disinfection",
+    c: "Immunization (Vaccination)",
+    d: "Chemotherapy",
+    correct: "c"
+},
+{
+    question: "Why are food chains in nature usually limited to 4 or 5 trophic levels?",
+    a: "Predators are too lazy to hunt",
+    b: "The energy remaining at higher levels is too small to support life",
+    c: "Decomposers eat higher-level carnivores",
+    d: "Herbivores multiply faster than plants",
+    correct: "b"
+},
+{
+    question: "Which process transforms mechanical energy back into chemical energy in an ecosystem?",
+    a: "Photosynthesis",
+    b: "Respiration",
+    c: "None, energy transformation is one-way",
+    d: "Decomposition",
+    correct: "c"
+},
+{
+    question: "In an agricultural ecosystem, planting crops with high photosynthetic efficiency aims to directly increase _______.",
+    a: "Transpiration rate",
+    b: "Gross Primary Productivity",
+    c: "Wind velocity",
+    d: "Soil acidity",
+    correct: "b"
+},
+{
+    question: "The state of biological disorder and energy dissipation in a system is referred to as _______.",
+    a: "Synergy",
+    b: "Homeostasis",
+    c: "Entropy",
+    d: "Symbiosis",
+    correct: "c"
+},
+{
+    question: "Which biological activity represents the transformation of chemical energy into mechanical energy?",
+    a: "Absorption of sunlight by chlorophyll",
+    b: "Muscle contraction during locomotion",
+    c: "Excretion of urea by the kidneys",
+    d: "Protein synthesis on ribosomes",
+    correct: "b"
+},
+{
+    question: "Simple, non-vascular plants that are mostly aquatic and lack true roots, stems, and leaves are _______.",
+    a: "Pteridophytes",
+    b: "Thallophytes (Algae)",
+    c: "Bryophytes",
+    d: "Gymnosperms",
+    correct: "b"
+},
+{
+    question: "Mosses and liverworts belong to the group known as _______.",
+    a: "Thallophytes",
+    b: "Bryophytes",
+    c: "Pteridophytes",
+    d: "Spermatophytes",
+    correct: "b"
+},
+{
+    question: "Which group represents vascular, seedless plants that reproduce by spores?",
+    a: "Bryophytes",
+    b: "Pteridophytes (Ferns)",
+    c: "Gymnosperms",
+    d: "Angiosperms",
+    correct: "b"
+},
+{
+    question: "Gymnosperms differ from angiosperms because they _______.",
+    a: "Lack vascular tissues",
+    b: "Reproduce by spores only",
+    c: "Produce naked seeds on cones",
+    d: "Have flowers and fruits",
+    correct: "c"
+},
+{
+    question: "A monocotyledonous plant is characterized by having _______.",
+    a: "Two cotyledons and a taproot",
+    b: "Net-like leaf venation",
+    c: "One cotyledon and parallel leaf venation",
+    d: "Vascular bundles arranged in a ring",
+    correct: "c"
+},
+{
+    question: "Which of the following crops is a dicotyledonous plant?",
+    a: "Maize",
+    b: "Rice",
+    c: "Cowpea",
+    d: "Millet",
+    correct: "c"
+},
+{
+    question: "Guinea corn (Sorghum) and maize are classified as _______.",
+    a: "Legumes",
+    b: "Cereals",
+    c: "Tuber crops",
+    d: "Oil crops",
+    correct: "b"
+},
+{
+    question: "Legumes are valuable in crop rotation because they _______.",
+    a: "Absorb more water",
+    b: "Produce underground tubers",
+    c: "Enrich the soil with nitrogen through root nodules",
+    d: "Prevent erosion with fibrous roots",
+    correct: "c"
+},
+{
+    question: "Yam, cassava, and cocoyam belong to which crop class?",
+    a: "Legumes",
+    b: "Roots and Tubers",
+    c: "Cereals",
+    d: "Latex crops",
+    correct: "b"
+},
+{
+    question: "Crops that complete their life cycle within one year are called _______.",
+    a: "Annuals",
+    b: "Biennials",
+    c: "Perennials",
+    d: "Ephemerals",
+    correct: "a"
+},
+{
+    question: "Which of the following is a biennial plant?",
+    a: "Cowpea",
+    b: "Carrot",
+    c: "Cocoa",
+    d: "Mango",
+    correct: "b"
+},
+{
+    question: "Mango, oil palm, and cashew are classified as _______.",
+    a: "Annuals",
+    b: "Biennials",
+    c: "Perennials",
+    d: "Deciduous crops",
+    correct: "c"
+},
+{
+    question: "A direct ecological consequence of heavy bush burning is _______.",
+    a: "Increase in soil humus",
+    b: "Destruction of beneficial soil decomposers",
+    c: "Improved water retention",
+    d: "Creation of deep topsoil",
+    correct: "b"
+},
+{
+    question: "Continuous monocropping usually leads to _______.",
+    a: "Balanced soil nutrients",
+    b: "Higher crop yields",
+    c: "High accumulation of specific crop pests",
+    d: "Reduced soil erosion",
+    correct: "c"
+},
+{
+    question: "Excessive runoff of chemical fertilizers into rivers and lakes causes _______.",
+    a: "Salination",
+    b: "Eutrophication",
+    c: "Bioaccumulation",
+    d: "Nitrification",
+    correct: "b"
+},
+
+    ],
+    "CRS": [
+{
+    question: "Who was thrown into the lions' den because he continued to pray to God?",
+    a: "Jeremiah",
+    b: "Daniel",
+    c: "Ezekiel",
+    d: "Isaiah",
+    correct: "b"
+},
+{
+    question: "Daniel prayed ______ times each day.",
+    a: "One",
+    b: "Two",
+    c: "Three",
+    d: "Seven",
+    correct: "c"
+},
+{
+    question: "King Darius signed a law that no one should pray to anyone except ______.",
+    a: "The chief priest",
+    b: "The king",
+    c: "The governor",
+    d: "The army commander",
+    correct: "b"
+},
+{
+    question: "God protected Daniel by sending ______.",
+    a: "A prophet",
+    b: "An angel",
+    c: "A soldier",
+    d: "A priest",
+    correct: "b"
+},
+{
+    question: "The miracle in the lions' den teaches believers to ______.",
+    a: "Fear people",
+    b: "Remain faithful to God",
+    c: "Avoid prayer",
+    d: "Break God's commandments",
+    correct: "b"
+},
+{
+    question: "King Nebuchadnezzar built a golden image on the plain of ______.",
+    a: "Jericho",
+    b: "Dura",
+    c: "Jerusalem",
+    d: "Babylon Gate",
+    correct: "b"
+},
+{
+    question: "Who refused to bow before the golden image?",
+    a: "Daniel, Jeremiah and Ezekiel",
+    b: "Shadrach, Meshach and Abednego",
+    c: "Peter, James and John",
+    d: "Saul, David and Jonathan",
+    correct: "b"
+},
+{
+    question: "Shadrach, Meshach and Abednego were thrown into a ______.",
+    a: "River",
+    b: "Prison",
+    c: "Fiery furnace",
+    d: "Cave",
+    correct: "c"
+},
+{
+    question: "The king saw ______ men walking unharmed in the furnace.",
+    a: "Three",
+    b: "Four",
+    c: "Five",
+    d: "Six",
+    correct: "b"
+},
+{
+    question: "The fourth person in the furnace looked like ______.",
+    a: "A soldier",
+    b: "An angel or the Son of God",
+    c: "Daniel",
+    d: "The king",
+    correct: "b"
+},
+{
+    question: "The faith of Shadrach, Meshach and Abednego teaches Christians to ______.",
+    a: "Compromise their faith",
+    b: "Trust God in difficult times",
+    c: "Fear fire",
+    d: "Avoid worship",
+    correct: "b"
+},
+{
+    question: "Jesus began His public ministry at about the age of ______.",
+    a: "20",
+    b: "25",
+    c: "30",
+    d: "40",
+    correct: "c"
+},
+{
+    question: "Jesus was baptized by ______.",
+    a: "Peter",
+    b: "John the Baptist",
+    c: "James",
+    d: "Andrew",
+    correct: "b"
+},
+{
+    question: "After His baptism, Jesus was led into the wilderness by the ______.",
+    a: "Priests",
+    b: "Holy Spirit",
+    c: "Disciples",
+    d: "Crowd",
+    correct: "b"
+},
+{
+    question: "Jesus fasted for ______ days and nights.",
+    a: "7",
+    b: "21",
+    c: "30",
+    d: "40",
+    correct: "d"
+},
+{
+    question: "The first temptation of Jesus was to turn stones into ______.",
+    a: "Gold",
+    b: "Bread",
+    c: "Fish",
+    d: "Water",
+    correct: "b"
+},
+{
+    question: "Jesus replied, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of ______.'",
+    a: "The priest",
+    b: "God",
+    c: "The king",
+    d: "The prophet",
+    correct: "b"
+},
+{
+    question: "In the second temptation, Satan asked Jesus to throw Himself down from the ______.",
+    a: "Temple",
+    b: "Mountain",
+    c: "Boat",
+    d: "City wall",
+    correct: "a"
+},
+{
+    question: "Jesus answered, 'You shall not ______ the Lord your God.'",
+    a: "Follow",
+    b: "Serve",
+    c: "Tempt",
+    d: "Praise",
+    correct: "c"
+},
+{
+    question: "During the third temptation, Satan offered Jesus ______.",
+    a: "Food",
+    b: "The kingdoms of the world",
+    c: "A palace",
+    d: "A crown",
+    correct: "b"
+},
+{
+    question: "Jesus defeated Satan mainly by ______.",
+    a: "Using miracles",
+    b: "Quoting the Scriptures",
+    c: "Calling soldiers",
+    d: "Running away",
+    correct: "b"
+},
+{
+    question: "After the temptations, angels came and ______ Jesus.",
+    a: "Ignored",
+    b: "Ministered to",
+    c: "Arrested",
+    d: "Questioned",
+    correct: "b"
+},
+{
+    question: "The temptation of Jesus teaches believers to rely on ______.",
+    a: "Wealth",
+    b: "God's Word",
+    c: "Human wisdom",
+    d: "Strength alone",
+    correct: "b"
+},
+{
+    question: "One lesson from Daniel's life is ______.",
+    a: "Disobedience",
+    b: "Faithfulness and prayer",
+    c: "Dishonesty",
+    d: "Pride",
+    correct: "b"
+},
+{
+    question: "Shadrach, Meshach and Abednego refused to worship the golden image because ______.",
+    a: "They hated the king",
+    b: "Only God deserves worship",
+    c: "They were afraid",
+    d: "Daniel told them not to",
+    correct: "b"
+},
+{
+    question: "Jesus was tempted by ______.",
+    a: "Pilate",
+    b: "The Pharisees",
+    c: "Satan",
+    d: "John the Baptist",
+    correct: "c"
+},
+{
+    question: "The book that records the story of Shadrach, Meshach and Abednego is ______.",
+    a: "Isaiah",
+    b: "Daniel",
+    c: "Jeremiah",
+    d: "Ezekiel",
+    correct: "b"
+},
+{
+    question: "The book that records the temptation of Jesus includes ______.",
+    a: "Matthew",
+    b: "Genesis",
+    c: "Exodus",
+    d: "Judges",
+    correct: "a"
+},
+{
+    question: "The greatest commandment is to love ______.",
+    a: "Money",
+    b: "God with all your heart",
+    c: "Your enemies only",
+    d: "Your friends only",
+    correct: "b"
+},
+{
+    question: "Christians overcome temptation through ______.",
+    a: "Prayer and God's Word",
+    b: "Magic",
+    c: "Fear",
+    d: "Luck",
+    correct: "a"
+},
+{
+    question: "Daniel continued praying despite the king's decree because he valued ______.",
+    a: "Popularity",
+    b: "Obedience to God",
+    c: "Wealth",
+    d: "Power",
+    correct: "b"
+},
+{
+    question: "God delivered Shadrach, Meshach and Abednego to show His ______.",
+    a: "Anger",
+    b: "Power and faithfulness",
+    c: "Weakness",
+    d: "Silence",
+    correct: "b"
+},
+{
+    question: "Jesus' victory over temptation shows that believers should ______.",
+    a: "Give in to temptation",
+    b: "Stand firm in faith",
+    c: "Avoid reading the Bible",
+    d: "Trust only themselves",
+    correct: "b"
+},
+{
+    question: "Which king later praised the God of Daniel?",
+    a: "Saul",
+    b: "Darius",
+    c: "Ahab",
+    d: "Herod",
+    correct: "b"
+},
+{
+    question: "Who interpreted King Nebuchadnezzar's dreams?",
+    a: "Isaiah",
+    b: "Daniel",
+    c: "Jeremiah",
+    d: "Elijah",
+    correct: "b"
+},
+{
+    question: "Jesus used the phrase 'It is written' because ______.",
+    a: "He trusted God's Word",
+    b: "He feared Satan",
+    c: "He forgot the answer",
+    d: "He wanted to argue",
+    correct: "a"
+},
+{
+    question: "The story of Daniel teaches Christians to remain faithful even under ______.",
+    a: "Comfort",
+    b: "Pressure and persecution",
+    c: "Celebration",
+    d: "Prosperity",
+    correct: "b"
+},
+{
+    question: "The refusal of Shadrach, Meshach and Abednego to bow to the image demonstrates ______.",
+    a: "Idolatry",
+    b: "Courage and loyalty to God",
+    c: "Fear",
+    d: "Disobedience to God",
+    correct: "b"
+},
+{
+    question: "A Christian should respond to temptation by ______.",
+    a: "Yielding immediately",
+    b: "Praying and resisting it",
+    c: "Ignoring God",
+    d: "Following friends",
+    correct: "b"
+},
+{
+    question: "The central lesson from the lives of Daniel and his friends is ______.",
+    a: "Success comes through wealth",
+    b: "Faithfulness to God brings His help and protection",
+    c: "Kings should always be obeyed above God",
+    d: "Miracles no longer happen",
+    correct: "b"
+},
+{
+    question: "Jesus was born in the town of _______.",
+    a: "Nazareth",
+    b: "Jerusalem",
+    c: "Bethlehem",
+    d: "Bethany",
+    correct: "c"
+},
+{
+    question: "Who announced the birth of Jesus to Mary?",
+    a: "Angel Gabriel",
+    b: "Angel Michael",
+    c: "John the Baptist",
+    d: "Joseph",
+    correct: "a"
+},
+{
+    question: "Jesus was baptized in the River _______.",
+    a: "Nile",
+    b: "Jordan",
+    c: "Euphrates",
+    d: "Tigris",
+    correct: "b"
+},
+{
+    question: "Who baptized Jesus?",
+    a: "Peter",
+    b: "John the Baptist",
+    c: "Andrew",
+    d: "James",
+    correct: "b"
+},
+{
+    question: "Immediately after His baptism, Jesus was led into the wilderness by the _______.",
+    a: "Disciples",
+    b: "Holy Spirit",
+    c: "Pharisees",
+    d: "Crowd",
+    correct: "b"
+},
+{
+    question: "Jesus fasted in the wilderness for _______ days and nights.",
+    a: "7",
+    b: "21",
+    c: "30",
+    d: "40",
+    correct: "d"
+},
+{
+    question: "Who tempted Jesus in the wilderness?",
+    a: "Herod",
+    b: "Pilate",
+    c: "Satan",
+    d: "The Pharisees",
+    correct: "c"
+},
+{
+    question: "The first temptation of Jesus was to turn stones into _______.",
+    a: "Gold",
+    b: "Bread",
+    c: "Fish",
+    d: "Water",
+    correct: "b"
+},
+{
+    question: "Jesus replied to the first temptation by saying, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of _______.'",
+    a: "Moses",
+    b: "God",
+    c: "The prophet",
+    d: "The priest",
+    correct: "b"
+},
+{
+    question: "During the second temptation, Satan took Jesus to the highest point of the _______.",
+    a: "Temple",
+    b: "Mountain",
+    c: "Synagogue",
+    d: "City wall",
+    correct: "a"
+},
+{
+    question: "Jesus answered the second temptation by saying, 'You shall not _______ the Lord your God.'",
+    a: "Serve",
+    b: "Love",
+    c: "Tempt",
+    d: "Follow",
+    correct: "c"
+},
+{
+    question: "In the third temptation, Satan offered Jesus _______.",
+    a: "Food",
+    b: "The kingdoms of the world",
+    c: "A crown",
+    d: "A palace",
+    correct: "b"
+},
+{
+    question: "Jesus defeated every temptation by quoting _______.",
+    a: "The Roman law",
+    b: "The Scriptures",
+    c: "The king's decree",
+    d: "The prophets only",
+    correct: "b"
+},
+{
+    question: "After the temptations, _______ came and ministered to Jesus.",
+    a: "His disciples",
+    b: "Angels",
+    c: "The priests",
+    d: "The crowd",
+    correct: "b"
+},
+{
+    question: "Daniel was taken captive to _______.",
+    a: "Egypt",
+    b: "Babylon",
+    c: "Rome",
+    d: "Assyria",
+    correct: "b"
+},
+{
+    question: "Daniel was known for his life of _______.",
+    a: "Dishonesty",
+    b: "Prayer and faithfulness",
+    c: "Violence",
+    d: "Pride",
+    correct: "b"
+},
+{
+    question: "Daniel refused to stop praying even after the king signed a decree because he remained _______.",
+    a: "Fearful",
+    b: "Faithful to God",
+    c: "Silent",
+    d: "Confused",
+    correct: "b"
+},
+{
+    question: "Daniel was thrown into the lions' den during the reign of King _______.",
+    a: "Nebuchadnezzar",
+    b: "Darius",
+    c: "Saul",
+    d: "David",
+    correct: "b"
+},
+{
+    question: "God protected Daniel by sending _______ to shut the lions' mouths.",
+    a: "A prophet",
+    b: "An angel",
+    c: "A priest",
+    d: "A soldier",
+    correct: "b"
+},
+{
+    question: "The story of Daniel in the lions' den teaches Christians to _______.",
+    a: "Compromise their faith",
+    b: "Trust and obey God at all times",
+    c: "Fear difficult situations",
+    d: "Depend only on human help",
+    correct: "b"
+},
+    ],
 "Literature": [
 {
 question: "1. Redemption Road is a novel written by _______.",
