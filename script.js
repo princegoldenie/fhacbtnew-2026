@@ -27,6 +27,7 @@ const seniorSubjects = [
 "Marketing",
 "Agriculture",
 "Mathematics",
+"Further Maths",
 "English Language"
 
 ];

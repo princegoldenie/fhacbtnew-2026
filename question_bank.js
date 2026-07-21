@@ -16716,6 +16716,896 @@ correct:"a"
     d: "Miracles no longer happen",
     correct: "b"
 },
+],
+
+"Further Maths": [
+
+    {
+    question: "What is the mean of the numbers 5, 7, 9, 11 and 13?",
+    a: "8",
+    b: "9",
+    c: "10",
+    d: "11",
+    correct: "b"
+},
+{
+    question: "Find the median of 4, 8, 6, 10, 12.",
+    a: "6",
+    b: "8",
+    c: "10",
+    d: "12",
+    correct: "b"
+},
+{
+    question: "Find the mode of the data: 2, 4, 4, 5, 6, 4, 7.",
+    a: "2",
+    b: "4",
+    c: "5",
+    d: "7",
+    correct: "b"
+},
+{
+    question: "The probability of getting a head when a fair coin is tossed once is:",
+    a: "0",
+    b: "1/4",
+    c: "1/2",
+    d: "1",
+    correct: "c"
+},
+{
+    question: "A fair die is thrown once. What is the probability of getting an even number?",
+    a: "1/6",
+    b: "1/3",
+    c: "1/2",
+    d: "2/3",
+    correct: "c"
+},
+{
+    question: "Which of the following is the sample space when a coin is tossed once?",
+    a: "{1,2}",
+    b: "{Head, Tail}",
+    c: "{Yes, No}",
+    d: "{True, False}",
+    correct: "b"
+},
+{
+    question: "Find the 5th term of the arithmetic progression 3, 6, 9, ...",
+    a: "12",
+    b: "15",
+    c: "18",
+    d: "21",
+    correct: "b"
+},
+{
+    question: "What is the common difference of the sequence 8, 12, 16, 20, ...?",
+    a: "2",
+    b: "3",
+    c: "4",
+    d: "5",
+    correct: "c"
+},
+{
+    question: "Find the next term in the sequence 7, 11, 15, 19, ...",
+    a: "21",
+    b: "22",
+    c: "23",
+    d: "24",
+    correct: "c"
+},
+{
+    question: "Find the sum of the first 10 natural numbers.",
+    a: "45",
+    b: "50",
+    c: "55",
+    d: "60",
+    correct: "c"
+},
+{
+    question: "The first term of an arithmetic progression is 5 and the common difference is 3. Find the 4th term.",
+    a: "11",
+    b: "12",
+    c: "13",
+    d: "14",
+    correct: "d"
+},
+{
+    question: "The sequence 2, 6, 18, 54, ... is an example of:",
+    a: "Arithmetic progression",
+    b: "Geometric progression",
+    c: "Harmonic progression",
+    d: "Quadratic sequence",
+    correct: "b"
+},
+{
+    question: "What is the common ratio of the sequence 5, 15, 45, 135, ...?",
+    a: "2",
+    b: "3",
+    c: "4",
+    d: "5",
+    correct: "b"
+},
+{
+    question: "Find the 4th term of the geometric progression 2, 4, 8, ...",
+    a: "12",
+    b: "14",
+    c: "16",
+    d: "18",
+    correct: "c"
+},
+{
+    question: "If A = {1,2,3,4} and B = {3,4,5,6}, then A ∩ B is:",
+    a: "{1,2}",
+    b: "{3,4}",
+    c: "{5,6}",
+    d: "{1,2,3,4}",
+    correct: "b"
+},
+{
+    question: "If A = {2,4,6} and B = {1,2,3}, then A ∪ B is:",
+    a: "{2,4,6}",
+    b: "{1,2,3,4,6}",
+    c: "{1,3,5}",
+    d: "{2,3,4}",
+    correct: "b"
+},
+{
+    question: "How many subsets does a set containing 3 elements have?",
+    a: "4",
+    b: "6",
+    c: "8",
+    d: "9",
+    correct: "c"
+},
+{
+    question: "The universal set contains:",
+    a: "Only odd numbers",
+    b: "Only even numbers",
+    c: "All elements under discussion",
+    d: "No element",
+    correct: "c"
+},
+{
+    question: "Which of the following symbols represents 'belongs to'?",
+    a: "∩",
+    b: "∪",
+    c: "∈",
+    d: "⊂",
+    correct: "c"
+},
+{
+    question: "If n(A)=8, n(B)=6 and n(A∩B)=2, find n(A∪B).",
+    a: "10",
+    b: "12",
+    c: "14",
+    d: "16",
+    correct: "b"
+},
+{
+    question: "Which of the following statements is a proposition?",
+    a: "Close the door.",
+    b: "What is your name?",
+    c: "2 + 3 = 5",
+    d: "Please sit down.",
+    correct: "c"
+},
+{
+    question: "The negation of the statement 'All students passed' is:",
+    a: "No student passed",
+    b: "Some students did not pass",
+    c: "Some students passed",
+    d: "Every student failed",
+    correct: "b"
+},
+{
+    question: "If P is true and Q is false, then P AND Q is:",
+    a: "True",
+    b: "False",
+    c: "Both",
+    d: "Cannot be determined",
+    correct: "b"
+},
+{
+    question: "If P is false and Q is true, then P OR Q is:",
+    a: "True",
+    b: "False",
+    c: "Both",
+    d: "Neither",
+    correct: "a"
+},
+{
+    question: "A matrix with only one row is called a:",
+    a: "Column matrix",
+    b: "Square matrix",
+    c: "Row matrix",
+    d: "Identity matrix",
+    correct: "c"
+},
+{
+    question: "A matrix with the same number of rows and columns is called a:",
+    a: "Column matrix",
+    b: "Square matrix",
+    c: "Rectangular matrix",
+    d: "Zero matrix",
+    correct: "b"
+},
+{
+    question: "How many elements are in a 2 × 3 matrix?",
+    a: "5",
+    b: "6",
+    c: "7",
+    d: "8",
+    correct: "b"
+},
+{
+    question: "The identity matrix of order 2 is:",
+    a: "[[1,0],[0,1]]",
+    b: "[[0,0],[0,0]]",
+    c: "[[1,1],[1,1]]",
+    d: "[[2,0],[0,2]]",
+    correct: "a"
+},
+{
+    question: "Expand (x + 2)².",
+    a: "x² + 2x + 4",
+    b: "x² + 4x + 4",
+    c: "x² + 4",
+    d: "x² + 2x",
+    correct: "b"
+},
+{
+    question: "Expand (a + b)².",
+    a: "a² + b²",
+    b: "a² + 2ab + b²",
+    c: "2a² + b²",
+    d: "a² + ab + b²",
+    correct: "b"
+},
+{
+    question: "Evaluate (2x + 3)(x + 4).",
+    a: "2x² + 11x + 12",
+    b: "2x² + 8x + 3",
+    c: "2x² + 7x + 12",
+    d: "x² + 11x + 12",
+    correct: "a"
+},
+{
+    question: "The midpoint of the points (2,4) and (6,8) is:",
+    a: "(3,6)",
+    b: "(4,5)",
+    c: "(4,6)",
+    d: "(5,6)",
+    correct: "c"
+},
+{
+    question: "Find the gradient of the line joining (1,2) and (3,6).",
+    a: "1",
+    b: "2",
+    c: "3",
+    d: "4",
+    correct: "b"
+},
+{
+    question: "The gradient of a horizontal line is:",
+    a: "0",
+    b: "1",
+    c: "Undefined",
+    d: "-1",
+    correct: "a"
+},
+{
+    question: "The gradient of a vertical line is:",
+    a: "0",
+    b: "1",
+    c: "Undefined",
+    d: "-1",
+    correct: "c"
+},
+{
+    question: "Differentiate x² with respect to x.",
+    a: "x",
+    b: "2x",
+    c: "x²",
+    d: "2",
+    correct: "b"
+},
+{
+    question: "Differentiate 5x with respect to x.",
+    a: "0",
+    b: "1",
+    c: "5",
+    d: "5x",
+    correct: "c"
+},
+{
+    question: "Differentiate the constant 9 with respect to x.",
+    a: "9",
+    b: "1",
+    c: "0",
+    d: "-9",
+    correct: "c"
+},
+{
+    question: "Differentiate 4x³ with respect to x.",
+    a: "12x²",
+    b: "4x²",
+    c: "3x²",
+    d: "12x³",
+    correct: "a"
+},
+{
+    question: "If y = 7x² + 5, find dy/dx.",
+    a: "7x",
+    b: "14x",
+    c: "12x",
+    d: "14",
+    correct: "b"
+},
+{
+    question: "The gradient of a horizontal line is:",
+    a: "1",
+    b: "0",
+    c: "Undefined",
+    d: "-1",
+    correct: "b"
+},
+{
+    question: "The gradient of a vertical line is:",
+    a: "0",
+    b: "1",
+    c: "Undefined",
+    d: "-1",
+    correct: "c"
+},
+{
+    question: "Find the gradient of the line joining the points (2,3) and (6,11).",
+    a: "1",
+    b: "2",
+    c: "3",
+    d: "4",
+    correct: "b"
+},
+{
+    question: "The distance between the points (1,2) and (1,8) is:",
+    a: "5",
+    b: "6",
+    c: "7",
+    d: "8",
+    correct: "b"
+},
+{
+    question: "The midpoint of the line joining (2,4) and (6,8) is:",
+    a: "(2,6)",
+    b: "(4,6)",
+    c: "(6,4)",
+    d: "(8,6)",
+    correct: "b"
+},
+{
+    question: "Differentiate y = 5x.",
+    a: "5",
+    b: "x",
+    c: "10x",
+    d: "0",
+    correct: "a"
+},
+{
+    question: "Differentiate y = x².",
+    a: "x",
+    b: "2x",
+    c: "x²",
+    d: "2",
+    correct: "b"
+},
+{
+    question: "Differentiate y = 4x³.",
+    a: "12x²",
+    b: "8x²",
+    c: "4x²",
+    d: "3x²",
+    correct: "a"
+},
+{
+    question: "The derivative of a constant is:",
+    a: "1",
+    b: "The constant itself",
+    c: "0",
+    d: "Undefined",
+    correct: "c"
+},
+{
+    question: "Differentiate y = 7x² + 5.",
+    a: "14x",
+    b: "7x",
+    c: "14",
+    d: "7",
+    correct: "a"
+},
+{
+    question: "If P → Q is true and P is true, then Q is true. This rule is called:",
+    a: "Contradiction",
+    b: "Modus Ponens",
+    c: "Converse",
+    d: "Inverse",
+    correct: "b"
+},
+{
+    question: "Which of the following is a logical conjunction?",
+    a: "P ∨ Q",
+    b: "P → Q",
+    c: "P ∧ Q",
+    d: "~P",
+    correct: "c"
+},
+{
+    question: "The symbol ∨ in logic means:",
+    a: "AND",
+    b: "OR",
+    c: "NOT",
+    d: "IF",
+    correct: "b"
+},
+{
+    question: "The negation of the statement 'It is raining' is:",
+    a: "It is sunny",
+    b: "It is cloudy",
+    c: "It is not raining",
+    d: "It was raining",
+    correct: "c"
+},
+{
+    question: "A matrix with the same number of rows and columns is called:",
+    a: "Rectangular matrix",
+    b: "Row matrix",
+    c: "Square matrix",
+    d: "Column matrix",
+    correct: "c"
+},
+{
+    question: "The order of the matrix [[2,3],[4,5]] is:",
+    a: "1 × 2",
+    b: "2 × 1",
+    c: "2 × 2",
+    d: "3 × 3",
+    correct: "c"
+},
+{
+    question: "The identity matrix of order 2 is:",
+    a: "[[1,0],[0,1]]",
+    b: "[[0,0],[0,0]]",
+    c: "[[1,1],[1,1]]",
+    d: "[[2,0],[0,2]]",
+    correct: "a"
+},
+{
+    question: "The coefficient of x² in the expansion of (x + 2)² is:",
+    a: "1",
+    b: "2",
+    c: "4",
+    d: "8",
+    correct: "a"
+},
+{
+    question: "How many terms are there in the expansion of (a + b)⁵?",
+    a: "5",
+    b: "6",
+    c: "7",
+    d: "8",
+    correct: "b"
+},
+{
+    question: "Further Mathematics is mainly designed to prepare students for:",
+    a: "Agricultural Science only",
+    b: "Advanced studies in Mathematics, Engineering and related fields",
+    c: "Music only",
+    d: "Literature only",
+    correct: "b"
+},
+
+],
+
+"Chemistry": [
+
+
+{
+    question: "Chemistry is the study of ______.",
+    a: "living things",
+    b: "matter and the changes it undergoes",
+    c: "stars and planets",
+    d: "the weather",
+    correct: "b"
+},
+{
+    question: "Matter is anything that has ______.",
+    a: "colour only",
+    b: "smell only",
+    c: "mass and occupies space",
+    d: "weight only",
+    correct: "c"
+},
+{
+    question: "Which of the following is not matter?",
+    a: "Water",
+    b: "Air",
+    c: "Heat",
+    d: "Sand",
+    correct: "c"
+},
+{
+    question: "Which state of matter has a definite shape and definite volume?",
+    a: "Solid",
+    b: "Liquid",
+    c: "Gas",
+    d: "Plasma",
+    correct: "a"
+},
+{
+    question: "Which state of matter has a definite volume but no definite shape?",
+    a: "Solid",
+    b: "Liquid",
+    c: "Gas",
+    d: "Vapour",
+    correct: "b"
+},
+{
+    question: "Which state of matter has neither definite shape nor definite volume?",
+    a: "Solid",
+    b: "Liquid",
+    c: "Gas",
+    d: "Ice",
+    correct: "c"
+},
+{
+    question: "The particles in a solid are ______.",
+    a: "far apart",
+    b: "closely packed",
+    c: "moving freely",
+    d: "absent",
+    correct: "b"
+},
+{
+    question: "Which of the following is a gas?",
+    a: "Iron",
+    b: "Water",
+    c: "Oxygen",
+    d: "Wood",
+    correct: "c"
+},
+{
+    question: "Which of the following is a liquid?",
+    a: "Milk",
+    b: "Stone",
+    c: "Salt",
+    d: "Oxygen",
+    correct: "a"
+},
+{
+    question: "Which of the following is a solid?",
+    a: "Air",
+    b: "Kerosene",
+    c: "Sugar",
+    d: "Petrol",
+    correct: "c"
+},
+{
+    question: "The process by which a solid changes directly to a gas is called ______.",
+    a: "Melting",
+    b: "Freezing",
+    c: "Sublimation",
+    d: "Condensation",
+    correct: "c"
+},
+{
+    question: "The change of a liquid to a gas is called ______.",
+    a: "Evaporation",
+    b: "Freezing",
+    c: "Condensation",
+    d: "Sublimation",
+    correct: "a"
+},
+{
+    question: "The change of a gas to a liquid is called ______.",
+    a: "Melting",
+    b: "Condensation",
+    c: "Boiling",
+    d: "Freezing",
+    correct: "b"
+},
+{
+    question: "The change of a liquid to a solid is called ______.",
+    a: "Melting",
+    b: "Evaporation",
+    c: "Freezing",
+    d: "Boiling",
+    correct: "c"
+},
+{
+    question: "The change of a solid to a liquid is called ______.",
+    a: "Condensation",
+    b: "Melting",
+    c: "Sublimation",
+    d: "Freezing",
+    correct: "b"
+},
+{
+    question: "Which of the following is an example of matter?",
+    a: "Sound",
+    b: "Light",
+    c: "Smoke",
+    d: "Heat",
+    correct: "c"
+},
+{
+    question: "Which instrument is commonly used to measure mass?",
+    a: "Thermometer",
+    b: "Beam balance",
+    c: "Stopwatch",
+    d: "Meter rule",
+    correct: "b"
+},
+{
+    question: "Which property is common to all matter?",
+    a: "It shines",
+    b: "It has mass",
+    c: "It is coloured",
+    d: "It is edible",
+    correct: "b"
+},
+{
+    question: "Which branch of chemistry deals with carbon compounds?",
+    a: "Organic chemistry",
+    b: "Physical chemistry",
+    c: "Analytical chemistry",
+    d: "Nuclear chemistry",
+    correct: "a"
+},
+{
+    question: "Which branch of chemistry deals with substances that do not contain carbon?",
+    a: "Organic chemistry",
+    b: "Inorganic chemistry",
+    c: "Biochemistry",
+    d: "Industrial chemistry",
+    correct: "b"
+},
+{
+    question: "Chemistry is important because it helps in the production of ______.",
+    a: "Medicines",
+    b: "Clothing only",
+    c: "Mountains",
+    d: "Rivers",
+    correct: "a"
+},
+{
+    question: "Which of the following is a physical change?",
+    a: "Burning paper",
+    b: "Rusting iron",
+    c: "Melting ice",
+    d: "Cooking food",
+    correct: "c"
+},
+{
+    question: "Which of the following is a chemical change?",
+    a: "Freezing water",
+    b: "Boiling water",
+    c: "Rusting iron",
+    d: "Melting wax",
+    correct: "c"
+},
+{
+    question: "Which of these is an example of a pure substance?",
+    a: "Air",
+    b: "Salt",
+    c: "Soil",
+    d: "Milk",
+    correct: "b"
+},
+{
+    question: "Air is a ______.",
+    a: "Compound",
+    b: "Mixture",
+    c: "Element",
+    d: "Solid",
+    correct: "b"
+},
+{
+    question: "Water exists naturally in ______ states.",
+    a: "One",
+    b: "Two",
+    c: "Three",
+    d: "Four",
+    correct: "c"
+},
+{
+    question: "Which of these occupies space?",
+    a: "Heat",
+    b: "Sound",
+    c: "Air",
+    d: "Light",
+    correct: "c"
+},
+{
+    question: "Which of these is an example of a chemical property?",
+    a: "Colour",
+    b: "Density",
+    c: "Rusting",
+    d: "Shape",
+    correct: "c"
+},
+{
+    question: "Which of these is an example of a physical property?",
+    a: "Flammability",
+    b: "Colour",
+    c: "Burning",
+    d: "Rusting",
+    correct: "b"
+},
+{
+    question: "The smallest particle of an element that can take part in a chemical reaction is an ______.",
+    a: "Molecule",
+    b: "Atom",
+    c: "Cell",
+    d: "Electron pair",
+    correct: "b"
+},
+{
+    question: "A molecule is made up of ______.",
+    a: "Atoms",
+    b: "Cells",
+    c: "Rocks",
+    d: "Ions only",
+    correct: "a"
+},
+{
+    question: "The kinetic theory states that matter is made up of tiny ______.",
+    a: "Stones",
+    b: "Particles",
+    c: "Plants",
+    d: "Crystals",
+    correct: "b"
+},
+{
+    question: "According to the kinetic theory, particles of matter are in ______.",
+    a: "Rest",
+    b: "Continuous motion",
+    c: "Straight lines only",
+    d: "Fixed positions",
+    correct: "b"
+},
+{
+    question: "Which state of matter has the fastest moving particles?",
+    a: "Solid",
+    b: "Liquid",
+    c: "Gas",
+    d: "Ice",
+    correct: "c"
+},
+{
+    question: "An empirical formula shows the ______.",
+    a: "Actual number of atoms",
+    b: "Simplest whole-number ratio of atoms",
+    c: "Molecular mass",
+    d: "Shape of molecules",
+    correct: "b"
+},
+{
+    question: "A molecular formula shows the ______.",
+    a: "Simplest ratio of atoms",
+    b: "Actual number of atoms in a molecule",
+    c: "Colour of a compound",
+    d: "State of matter",
+    correct: "b"
+},
+{
+    question: "Which formula gives the simplest ratio of atoms?",
+    a: "Structural formula",
+    b: "Empirical formula",
+    c: "Molecular formula",
+    d: "Chemical equation",
+    correct: "b"
+},
+{
+    question: "Which formula gives the actual number of atoms in a molecule?",
+    a: "Empirical formula",
+    b: "Molecular formula",
+    c: "Chemical equation",
+    d: "Ionic formula",
+    correct: "b"
+},
+{
+    question: "Which of these is an example of matter?",
+    a: "Smoke",
+    b: "Light",
+    c: "Sound",
+    d: "Heat",
+    correct: "a"
+},
+{
+    question: "Which state of matter can easily be compressed?",
+    a: "Solid",
+    b: "Liquid",
+    c: "Gas",
+    d: "Ice",
+    correct: "c"
+},
+{
+    question: "Which of the following is not a branch of chemistry?",
+    a: "Organic chemistry",
+    b: "Inorganic chemistry",
+    c: "Physical chemistry",
+    d: "Mechanical chemistry",
+    correct: "d"
+},
+{
+    question: "Which branch of chemistry deals with the composition of substances?",
+    a: "Analytical chemistry",
+    b: "Organic chemistry",
+    c: "Biochemistry",
+    d: "Industrial chemistry",
+    correct: "a"
+},
+{
+    question: "Chemistry is useful in the manufacture of ______.",
+    a: "Fertilizers",
+    b: "Medicines",
+    c: "Soap",
+    d: "All of the above",
+    correct: "d"
+},
+{
+    question: "Which state of matter flows easily?",
+    a: "Solids only",
+    b: "Liquids and gases",
+    c: "Solids and liquids",
+    d: "Solids and gases",
+    correct: "b"
+},
+{
+    question: "Which of these has a fixed shape?",
+    a: "Gas",
+    b: "Liquid",
+    c: "Solid",
+    d: "Vapour",
+    correct: "c"
+},
+{
+    question: "Which of the following has no fixed volume?",
+    a: "Solid",
+    b: "Liquid",
+    c: "Gas",
+    d: "Ice",
+    correct: "c"
+},
+{
+    question: "Which of the following is an example of condensation?",
+    a: "Water vapour forming droplets on a cold bottle",
+    b: "Ice melting",
+    c: "Water boiling",
+    d: "Dry ice disappearing",
+    correct: "a"
+},
+{
+    question: "The scientific study of matter helps us to understand ______.",
+    a: "How substances behave",
+    b: "Only living things",
+    c: "Only planets",
+    d: "Only weather",
+    correct: "a"
+},
+{
+    question: "Which of the following best describes gases?",
+    a: "They have fixed shape.",
+    b: "They have fixed volume.",
+    c: "They fill any container.",
+    d: "They cannot move.",
+    correct: "c"
+},
+{
+    question: "The study of chemistry is important because it improves our ______.",
+    a: "Daily life",
+    b: "Health",
+    c: "Technology",
+    d: "All of the above",
+    correct: "d"
+}
 
 ],
 "Literature": [
