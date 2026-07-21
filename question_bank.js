@@ -16234,6 +16234,490 @@ correct:"a"
 
 ],
 
+"CRS": [
+
+    {
+    question: "Jesus was born in the town of _______.",
+    a: "Nazareth",
+    b: "Jerusalem",
+    c: "Bethlehem",
+    d: "Bethany",
+    correct: "c"
+},
+{
+    question: "Who announced the birth of Jesus to Mary?",
+    a: "Angel Gabriel",
+    b: "Angel Michael",
+    c: "John the Baptist",
+    d: "Joseph",
+    correct: "a"
+},
+{
+    question: "Jesus was baptized in the River _______.",
+    a: "Nile",
+    b: "Jordan",
+    c: "Euphrates",
+    d: "Tigris",
+    correct: "b"
+},
+{
+    question: "Who baptized Jesus?",
+    a: "Peter",
+    b: "John the Baptist",
+    c: "Andrew",
+    d: "James",
+    correct: "b"
+},
+{
+    question: "Immediately after His baptism, Jesus was led into the wilderness by the _______.",
+    a: "Disciples",
+    b: "Holy Spirit",
+    c: "Pharisees",
+    d: "Crowd",
+    correct: "b"
+},
+{
+    question: "Jesus fasted in the wilderness for _______ days and nights.",
+    a: "7",
+    b: "21",
+    c: "30",
+    d: "40",
+    correct: "d"
+},
+{
+    question: "Who tempted Jesus in the wilderness?",
+    a: "Herod",
+    b: "Pilate",
+    c: "Satan",
+    d: "The Pharisees",
+    correct: "c"
+},
+{
+    question: "The first temptation of Jesus was to turn stones into _______.",
+    a: "Gold",
+    b: "Bread",
+    c: "Fish",
+    d: "Water",
+    correct: "b"
+},
+{
+    question: "Jesus replied to the first temptation by saying, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of _______.'",
+    a: "Moses",
+    b: "God",
+    c: "The prophet",
+    d: "The priest",
+    correct: "b"
+},
+{
+    question: "During the second temptation, Satan took Jesus to the highest point of the _______.",
+    a: "Temple",
+    b: "Mountain",
+    c: "Synagogue",
+    d: "City wall",
+    correct: "a"
+},
+{
+    question: "Jesus answered the second temptation by saying, 'You shall not _______ the Lord your God.'",
+    a: "Serve",
+    b: "Love",
+    c: "Tempt",
+    d: "Follow",
+    correct: "c"
+},
+{
+    question: "In the third temptation, Satan offered Jesus _______.",
+    a: "Food",
+    b: "The kingdoms of the world",
+    c: "A crown",
+    d: "A palace",
+    correct: "b"
+},
+{
+    question: "Jesus defeated every temptation by quoting _______.",
+    a: "The Roman law",
+    b: "The Scriptures",
+    c: "The king's decree",
+    d: "The prophets only",
+    correct: "b"
+},
+{
+    question: "After the temptations, _______ came and ministered to Jesus.",
+    a: "His disciples",
+    b: "Angels",
+    c: "The priests",
+    d: "The crowd",
+    correct: "b"
+},
+{
+    question: "Daniel was taken captive to _______.",
+    a: "Egypt",
+    b: "Babylon",
+    c: "Rome",
+    d: "Assyria",
+    correct: "b"
+},
+{
+    question: "Daniel was known for his life of _______.",
+    a: "Dishonesty",
+    b: "Prayer and faithfulness",
+    c: "Violence",
+    d: "Pride",
+    correct: "b"
+},
+{
+    question: "Daniel refused to stop praying even after the king signed a decree because he remained _______.",
+    a: "Fearful",
+    b: "Faithful to God",
+    c: "Silent",
+    d: "Confused",
+    correct: "b"
+},
+{
+    question: "Daniel was thrown into the lions' den during the reign of King _______.",
+    a: "Nebuchadnezzar",
+    b: "Darius",
+    c: "Saul",
+    d: "David",
+    correct: "b"
+},
+{
+    question: "God protected Daniel by sending _______ to shut the lions' mouths.",
+    a: "A prophet",
+    b: "An angel",
+    c: "A priest",
+    d: "A soldier",
+    correct: "b"
+},
+{
+    question: "The story of Daniel in the lions' den teaches Christians to _______.",
+    a: "Compromise their faith",
+    b: "Trust and obey God at all times",
+    c: "Fear difficult situations",
+    d: "Depend only on human help",
+    correct: "b"
+},
+{
+    question: "Who was thrown into the lions' den because he continued to pray to God?",
+    a: "Jeremiah",
+    b: "Daniel",
+    c: "Ezekiel",
+    d: "Isaiah",
+    correct: "b"
+},
+{
+    question: "Daniel prayed ______ times each day.",
+    a: "One",
+    b: "Two",
+    c: "Three",
+    d: "Seven",
+    correct: "c"
+},
+{
+    question: "King Darius signed a law that no one should pray to anyone except ______.",
+    a: "The chief priest",
+    b: "The king",
+    c: "The governor",
+    d: "The army commander",
+    correct: "b"
+},
+{
+    question: "God protected Daniel by sending ______.",
+    a: "A prophet",
+    b: "An angel",
+    c: "A soldier",
+    d: "A priest",
+    correct: "b"
+},
+{
+    question: "The miracle in the lions' den teaches believers to ______.",
+    a: "Fear people",
+    b: "Remain faithful to God",
+    c: "Avoid prayer",
+    d: "Break God's commandments",
+    correct: "b"
+},
+{
+    question: "King Nebuchadnezzar built a golden image on the plain of ______.",
+    a: "Jericho",
+    b: "Dura",
+    c: "Jerusalem",
+    d: "Babylon Gate",
+    correct: "b"
+},
+{
+    question: "Who refused to bow before the golden image?",
+    a: "Daniel, Jeremiah and Ezekiel",
+    b: "Shadrach, Meshach and Abednego",
+    c: "Peter, James and John",
+    d: "Saul, David and Jonathan",
+    correct: "b"
+},
+{
+    question: "Shadrach, Meshach and Abednego were thrown into a ______.",
+    a: "River",
+    b: "Prison",
+    c: "Fiery furnace",
+    d: "Cave",
+    correct: "c"
+},
+{
+    question: "The king saw ______ men walking unharmed in the furnace.",
+    a: "Three",
+    b: "Four",
+    c: "Five",
+    d: "Six",
+    correct: "b"
+},
+{
+    question: "The fourth person in the furnace looked like ______.",
+    a: "A soldier",
+    b: "An angel or the Son of God",
+    c: "Daniel",
+    d: "The king",
+    correct: "b"
+},
+{
+    question: "The faith of Shadrach, Meshach and Abednego teaches Christians to ______.",
+    a: "Compromise their faith",
+    b: "Trust God in difficult times",
+    c: "Fear fire",
+    d: "Avoid worship",
+    correct: "b"
+},
+{
+    question: "Jesus began His public ministry at about the age of ______.",
+    a: "20",
+    b: "25",
+    c: "30",
+    d: "40",
+    correct: "c"
+},
+{
+    question: "Jesus was baptized by ______.",
+    a: "Peter",
+    b: "John the Baptist",
+    c: "James",
+    d: "Andrew",
+    correct: "b"
+},
+{
+    question: "After His baptism, Jesus was led into the wilderness by the ______.",
+    a: "Priests",
+    b: "Holy Spirit",
+    c: "Disciples",
+    d: "Crowd",
+    correct: "b"
+},
+{
+    question: "Jesus fasted for ______ days and nights.",
+    a: "7",
+    b: "21",
+    c: "30",
+    d: "40",
+    correct: "d"
+},
+{
+    question: "The first temptation of Jesus was to turn stones into ______.",
+    a: "Gold",
+    b: "Bread",
+    c: "Fish",
+    d: "Water",
+    correct: "b"
+},
+{
+    question: "Jesus replied, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of ______.'",
+    a: "The priest",
+    b: "God",
+    c: "The king",
+    d: "The prophet",
+    correct: "b"
+},
+{
+    question: "In the second temptation, Satan asked Jesus to throw Himself down from the ______.",
+    a: "Temple",
+    b: "Mountain",
+    c: "Boat",
+    d: "City wall",
+    correct: "a"
+},
+{
+    question: "Jesus answered, 'You shall not ______ the Lord your God.'",
+    a: "Follow",
+    b: "Serve",
+    c: "Tempt",
+    d: "Praise",
+    correct: "c"
+},
+{
+    question: "During the third temptation, Satan offered Jesus ______.",
+    a: "Food",
+    b: "The kingdoms of the world",
+    c: "A palace",
+    d: "A crown",
+    correct: "b"
+},
+{
+    question: "Jesus defeated Satan mainly by ______.",
+    a: "Using miracles",
+    b: "Quoting the Scriptures",
+    c: "Calling soldiers",
+    d: "Running away",
+    correct: "b"
+},
+{
+    question: "After the temptations, angels came and ______ Jesus.",
+    a: "Ignored",
+    b: "Ministered to",
+    c: "Arrested",
+    d: "Questioned",
+    correct: "b"
+},
+{
+    question: "The temptation of Jesus teaches believers to rely on ______.",
+    a: "Wealth",
+    b: "God's Word",
+    c: "Human wisdom",
+    d: "Strength alone",
+    correct: "b"
+},
+{
+    question: "One lesson from Daniel's life is ______.",
+    a: "Disobedience",
+    b: "Faithfulness and prayer",
+    c: "Dishonesty",
+    d: "Pride",
+    correct: "b"
+},
+{
+    question: "Shadrach, Meshach and Abednego refused to worship the golden image because ______.",
+    a: "They hated the king",
+    b: "Only God deserves worship",
+    c: "They were afraid",
+    d: "Daniel told them not to",
+    correct: "b"
+},
+{
+    question: "Jesus was tempted by ______.",
+    a: "Pilate",
+    b: "The Pharisees",
+    c: "Satan",
+    d: "John the Baptist",
+    correct: "c"
+},
+{
+    question: "The book that records the story of Shadrach, Meshach and Abednego is ______.",
+    a: "Isaiah",
+    b: "Daniel",
+    c: "Jeremiah",
+    d: "Ezekiel",
+    correct: "b"
+},
+{
+    question: "The book that records the temptation of Jesus includes ______.",
+    a: "Matthew",
+    b: "Genesis",
+    c: "Exodus",
+    d: "Judges",
+    correct: "a"
+},
+{
+    question: "The greatest commandment is to love ______.",
+    a: "Money",
+    b: "God with all your heart",
+    c: "Your enemies only",
+    d: "Your friends only",
+    correct: "b"
+},
+{
+    question: "Christians overcome temptation through ______.",
+    a: "Prayer and God's Word",
+    b: "Magic",
+    c: "Fear",
+    d: "Luck",
+    correct: "a"
+},
+{
+    question: "Daniel continued praying despite the king's decree because he valued ______.",
+    a: "Popularity",
+    b: "Obedience to God",
+    c: "Wealth",
+    d: "Power",
+    correct: "b"
+},
+{
+    question: "God delivered Shadrach, Meshach and Abednego to show His ______.",
+    a: "Anger",
+    b: "Power and faithfulness",
+    c: "Weakness",
+    d: "Silence",
+    correct: "b"
+},
+{
+    question: "Jesus' victory over temptation shows that believers should ______.",
+    a: "Give in to temptation",
+    b: "Stand firm in faith",
+    c: "Avoid reading the Bible",
+    d: "Trust only themselves",
+    correct: "b"
+},
+{
+    question: "Which king later praised the God of Daniel?",
+    a: "Saul",
+    b: "Darius",
+    c: "Ahab",
+    d: "Herod",
+    correct: "b"
+},
+{
+    question: "Who interpreted King Nebuchadnezzar's dreams?",
+    a: "Isaiah",
+    b: "Daniel",
+    c: "Jeremiah",
+    d: "Elijah",
+    correct: "b"
+},
+{
+    question: "Jesus used the phrase 'It is written' because ______.",
+    a: "He trusted God's Word",
+    b: "He feared Satan",
+    c: "He forgot the answer",
+    d: "He wanted to argue",
+    correct: "a"
+},
+{
+    question: "The story of Daniel teaches Christians to remain faithful even under ______.",
+    a: "Comfort",
+    b: "Pressure and persecution",
+    c: "Celebration",
+    d: "Prosperity",
+    correct: "b"
+},
+{
+    question: "The refusal of Shadrach, Meshach and Abednego to bow to the image demonstrates ______.",
+    a: "Idolatry",
+    b: "Courage and loyalty to God",
+    c: "Fear",
+    d: "Disobedience to God",
+    correct: "b"
+},
+{
+    question: "A Christian should respond to temptation by ______.",
+    a: "Yielding immediately",
+    b: "Praying and resisting it",
+    c: "Ignoring God",
+    d: "Following friends",
+    correct: "b"
+},
+{
+    question: "The central lesson from the lives of Daniel and his friends is ______.",
+    a: "Success comes through wealth",
+    b: "Faithfulness to God brings His help and protection",
+    c: "Kings should always be obeyed above God",
+    d: "Miracles no longer happen",
+    correct: "b"
+},
+
+],
 "Literature": [
 {
 question: "1. Redemption Road is a novel written by _______.",
